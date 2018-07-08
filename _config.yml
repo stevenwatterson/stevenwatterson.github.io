@@ -8,24 +8,24 @@ highlighter: rouge
 
 markdown: kramdown
 
-repository: drummondlab/drummondlab.github.io
+repository: stevenwatterson/stevenwatterson.github.io
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Drummond Lab
-tagline: Evolution and regulation of protein production and quality control
+title : Steven Watterson
+tagline: The Systems Biology of Lipid Metabolism and Cardiovascular Disease
 institution:
-  url: http://www.uchicago.edu
-  name: The University of Chicago
+  url: http://www.ulster.ac.uk
+  name: The University of Ulster
 department:
-  url: http://bmb.uchospitals.edu
-  name: Biochemistry & Molecular Biology
+  url: http://www.ulster.ac.uk/stratifiedmedicine
+  name: Northern Ireland Centre for Stratified Medicine
 author :
-  name : D. Allan Drummond
-  email : dadrummond@uchicago.edu
-  github : dad
-  twitter : dadrummond
+  name : Stevn Watterson
+  email : s.watterson@ulster.ac.uk
+  github : stevenwatterson
+  twitter : systemsbiology
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -36,7 +36,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://drummondlab.org
+production_url : BASE_PATH
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
