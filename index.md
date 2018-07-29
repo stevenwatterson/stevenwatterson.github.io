@@ -3,7 +3,7 @@ layout: default
 redirect_to: http://www.wattersonlab.com
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+T2ext can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
