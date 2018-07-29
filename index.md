@@ -1,8 +1,7 @@
 ---
 layout: default
+redirect_to: http://www.wattersonlab.com
 ---
-redirect_to:
-  - http://www.wattersonlab.com
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
