@@ -4,3 +4,9 @@ description: Computational Cardiovascular Research @<a href="http://www.ulster.a
 show_downloads: false
 google_analytics: UA-43297847-1
 theme: jekyll-theme-minimal
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
