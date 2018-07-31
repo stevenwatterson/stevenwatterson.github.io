@@ -15,11 +15,8 @@ A significant barrier to developing better therapies is that many of the paramet
 
 
 Cholesterol is understood to contribute to cardiovascular disease through atherosclerosis. Our interests are in:-
-
-    improving our understanding cholesterol synthesis and metabolism
-
-    better understanding how cholesterol influences the risk of atherosclerosis and cardiovascular disease
-
-    identifying better pharmaceutical approaches to reducing the risk of cardiovascular disease
+*improving our understanding cholesterol synthesis and metabolism
+*better understanding how cholesterol influences the risk of atherosclerosis and cardiovascular disease
+*identifying better pharmaceutical approaches to reducing the risk of cardiovascular disease
 
 
