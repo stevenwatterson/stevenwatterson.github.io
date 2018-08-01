@@ -5,4 +5,3 @@ layout: default
 
 <hr>
 
-[Publicationslist.org](http://www.publicationslist.org/steven.watterson)<a href="http://www.publicationslist.org/steven.watterson"><img src="/assets/img/Capture4.PNG" alt="poster1" width="300px"/></a>
