@@ -1,4 +1,14 @@
-----
+---
 layout: default
 title: Publications
-----
+---
+[Google Scholar Profile](https://scholar.google.co.uk/citations?user=oMccxPwAAAAJ&hl=en&oi=ao)&nbsp&nbsp<a href="https://scholar.google.co.uk/citations?user=oMccxPwAAAAJ&hl=en&oi=ao"><img src="/assets/img/Capture3.PNG" alt="poster1" width="300px"/></a>
+
+<hr>
+
+{% for publication in site.publications %}
+<div class="publication">
+  <h2><img src="{{ cookie.image_path }}" alt="{{ publication.title }}"/>{{ publication.title }}</h2>
+  {{ publication.content }}
+</div>
+{% endfor %}
