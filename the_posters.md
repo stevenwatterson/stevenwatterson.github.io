@@ -8,9 +8,7 @@ layout: default
 
 
 
-[Systems Pharmacology as a tool for future therapy development: a feasibility study on the cholesterol biosynthesis pathway](http://dx.doi.org/10.6084/m9.figshare.97316)
+<img src="/assets/img/Capture2.PNG" alt="poster2" width="100px"/>
 
-Helen Benson , Steven Watterson, Joanna Sharman, Chido Mpamhanga, Christopher Southan, Peter Ghazal
-
-* Presented at the Intelligent Systems for Molecular Biology Conference, Dublin, 2015
+[Systems Pharmacology as a tool for future therapy development: a feasibility study on the cholesterol biosynthesis pathway](https://figshare.com/articles/Systems_Pharmacology_as_a_tool_for_future_therapy_development_a_feasibility_study_on_the_cholesterol_biosynthesis_pathway/3398506), Helen Benson , Steven Watterson, Joanna Sharman, Chido Mpamhanga, Christopher Southan, Peter Ghazal, Presented at the Intelligent Systems for Molecular Biology Conference, Dublin, 2015
  
