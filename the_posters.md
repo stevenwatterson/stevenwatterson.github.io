@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Posters
 ---
 
 <a href="http://dx.doi.org/10.6084/m9.figshare.97316"><img src="/assets/img/Capture1.PNG" alt="poster1" width="100px"/></a>
