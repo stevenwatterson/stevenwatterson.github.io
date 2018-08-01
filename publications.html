@@ -14,8 +14,8 @@ title: Publications
 
 {% for publication in site.publications %}
 <div class="publication">
-  <h2><img src="{{ publication.image_path }}" alt="{{ publication.title }}" width="500px"/></h2>
-  {{ publication.content }}
+  <a href="{{ publication.url }}"><img src="{{ publication.image_path }}" alt="{{ publication.title }}" width="500px"/></a>
+  <a href="{{ publication.url }}">{{ publication.content }}</a>
 </div>
 
 <hr>
