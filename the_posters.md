@@ -2,11 +2,7 @@
 layout: default
 ---
 
-![poster1](/assets/img/Capture1.PNG)
-
-<img src="/assets/img/Capture1.PNG" alt="drawing" width="50px"/>
-
-[Digital clocks: Using Boolean logic to analyze circadian clocks more powerfully](http://dx.doi.org/10.6084/m9.figshare.97316)
+<img src="/assets/img/Capture1.PNG" alt="poster1" width="100px"/> [Digital clocks: Using Boolean logic to analyze circadian clocks more powerfully](http://dx.doi.org/10.6084/m9.figshare.97316)
 
 Steven Watterson, Andrew Parton, Ozgur Akman, Nigel Binns, Andrew Millar and Peter Ghazal
 
