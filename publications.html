@@ -7,9 +7,9 @@ title: Publications
 
 <hr>
 
-{% for publication in site.publications %}
-<div class="publication">
+{% for publications in site.publications %}
+<div class="publications">
   <h2><img src="{{ publications.image_path }}" alt="{{ publications.title }}"/>{{ publications.title }}</h2>
-  {{ publication.content }}
+  {{ publications.content }}
 </div>
 {% endfor %}
