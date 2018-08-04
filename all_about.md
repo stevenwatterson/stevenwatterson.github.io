@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Cardiovascular disease is responsible for 17 million deaths world-wide each year and 150,000 in the UK.  Cholesterol levels are a known marker of the risk from cardiovascular disease and, frighteningly, the World Health Organisation also estimates that 39% of adults world-wide at at risk from elevated levels of cholesterol (>5mmol/l).  Understanding and managing cardiovascular risk is therefore an important future health aim, particularly in light of a growing global population and the associated scarcity of resources.
+Cardiovascular disease is responsible for 17 million deaths world-wide each year and 150,000 in the UK.  Cholesterol levels are a known marker of the risk from cardiovascular disease and, frighteningly, the World Health Organisation estimates that 39% of adults world-wide at at risk from elevated levels of cholesterol (>5mmol/l).  Understanding and managing cardiovascular risk is therefore an important future health aim, particularly in light of a growing and ageing global population.
 
- Study cardiovascular disease is very challenging.  How you probe the inside of hearts, arteries and veins without increasing disease risk is very challenging.  
+Cardiovascular disease is very challenging to study.  The interior of hearts, arteries and veins it's difficult to probe, especially without increasing the risk to health.
 
 Cholesterol can be absorbed from diet and is synthesized in the body.  Current pharmaceutical treatments are largely based on the statin class of drug which inhibits synthesis. However cholesterol is synthesised in a long molecular production line and statin acts by targeting a step very close to the start of the production line. This creates problems because the intermediate molecular forms are used in other cellular processes and so statin treatment is associated with not insignificant side-effects.
 
