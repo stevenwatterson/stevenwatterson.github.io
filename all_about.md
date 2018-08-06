@@ -8,20 +8,7 @@ Cardiovascular disease is very challenging to study.  Exploring the interior of 
 
 Computational modelling can be a hugely valuable tool in this area.  We can build accurate predictive models of human cells, organs and systems that act as experimental systems in which disease mechanisms and new therapies can be studied.  Accurate, predictive computational models allow us to undertake the type of experimentation that would otherwise be impossible, such as trial and error studies of drug effects.
 
-holesterol can be absorbed from diet and is synthesized in the body.  Current pharmaceutical treatments are largely based on the statin class of drug which inhibits synthesis. However cholesterol is synthesised in a long molecular production line and statin acts by targeting a step very close to the start of the production line. This creates problems because the intermediate molecular forms are used in other cellular processes and so statin treatment is associated with not insignificant side-effects.
-
- 
-
-A significant barrier to developing better therapies is that many of the parameters associated with the kinetics of the cholesterol production line are not known.  Also the range of drugs that could be used to target the production line is poorly understood.
-
-
-
-Cholesterol is understood to contribute to cardiovascular disease through atherosclerosis. Our interests are in:-
-
-* improving our understanding cholesterol synthesis and metabolism
-
-* better understanding how cholesterol influences the risk of atherosclerosis and cardiovascular disease
-
-* identifying better pharmaceutical approaches to reducing the risk of cardiovascular disease
-
-
+We're interested in 
+* Modelling pathway systems in health and disease
+* Devising multidrug therapies that reprogram whole cell/tissue/organ behaviour from disease to health dynamics
+* Relating our understanding of pathway systems to disease phenotypes
