@@ -4,9 +4,9 @@ layout: default
 
 Cardiovascular disease is responsible for 17 million deaths world-wide each year and 150,000 in the UK.  Cholesterol levels are a known marker of the risk from cardiovascular disease and, frighteningly, the World Health Organisation estimates that 39% of adults world-wide at at risk from elevated levels of cholesterol (>5mmol/l).  Understanding and managing cardiovascular risk is therefore an important future health aim, particularly in light of a growing and ageing global population.
 
-Cardiovascular disease is very challenging to study.  Exploring the interior of human hearts, arteries and veins is difficult to do safely and animal models suffer time, cost relevence and ethiical limitations.
+Cardiovascular disease is very challenging to study.  Exploring the interior of hearts, arteries and veins is difficult to do and to do safely in humans.  Animal models suffer time, cost relevence and ethiical limitations.
 
-Computational modelling can be a hugely valuable tool in this area. holesterol can be absorbed from diet and is synthesized in the body.  Current pharmaceutical treatments are largely based on the statin class of drug which inhibits synthesis. However cholesterol is synthesised in a long molecular production line and statin acts by targeting a step very close to the start of the production line. This creates problems because the intermediate molecular forms are used in other cellular processes and so statin treatment is associated with not insignificant side-effects.
+Computational modelling can be a hugely valuable tool in this area.  We can build accurate predictive models of human cells, organs and systems that act as experimental systems in which new interventions and therapies can be identified and studied.  holesterol can be absorbed from diet and is synthesized in the body.  Current pharmaceutical treatments are largely based on the statin class of drug which inhibits synthesis. However cholesterol is synthesised in a long molecular production line and statin acts by targeting a step very close to the start of the production line. This creates problems because the intermediate molecular forms are used in other cellular processes and so statin treatment is associated with not insignificant side-effects.
 
  
 
