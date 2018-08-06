@@ -8,7 +8,7 @@ Cardiovascular disease is very challenging to study.  Exploring the interior of 
 
 Computational modelling can be a hugely valuable tool in this area.  We can build accurate predictive models of human cells, organs and systems that act as experimental systems in which disease mechanisms and new therapies can be studied.  Accurate, predictive computational models allow us to undertake the type of experimentation that would otherwise be impossible, such as trial and error studies of drug effects.
 
-We're interested in 
+We're interested in:-
 * Modelling pathway systems in health and disease
-* Devising multidrug therapies that reprogram whole cell/tissue/organ behaviour from disease to health dynamics
 * Relating our understanding of pathway systems to disease phenotypes
+* Devising multidrug therapies that reprogram whole cell/tissue/organ behaviour from disease to health dynamics
