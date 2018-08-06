@@ -6,7 +6,9 @@ Cardiovascular disease is responsible for 17 million deaths world-wide each year
 
 Cardiovascular disease is very challenging to study.  Exploring the interior of hearts, arteries and veins is difficult to do and to do safely in humans.  Animal models suffer time, cost relevence and ethiical limitations.
 
-Computational modelling can be a hugely valuable tool in this area.  We can build accurate predictive models of human cells, organs and systems that act as experimental systems in which new interventions and therapies can be identified and studied.  holesterol can be absorbed from diet and is synthesized in the body.  Current pharmaceutical treatments are largely based on the statin class of drug which inhibits synthesis. However cholesterol is synthesised in a long molecular production line and statin acts by targeting a step very close to the start of the production line. This creates problems because the intermediate molecular forms are used in other cellular processes and so statin treatment is associated with not insignificant side-effects.
+Computational modelling can be a hugely valuable tool in this area.  We can build accurate predictive models of human cells, organs and systems that act as experimental systems in which disease mechanisms and new therapies can be studied.  
+
+holesterol can be absorbed from diet and is synthesized in the body.  Current pharmaceutical treatments are largely based on the statin class of drug which inhibits synthesis. However cholesterol is synthesised in a long molecular production line and statin acts by targeting a step very close to the start of the production line. This creates problems because the intermediate molecular forms are used in other cellular processes and so statin treatment is associated with not insignificant side-effects.
 
  
 
