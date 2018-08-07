@@ -3,13 +3,6 @@ layout: default
 ---
 
 
-<html>
-    <head>
-	<meta http-equiv="refresh" content="0; url=https://www.stevenwatterson.githib.io/new_stuff.html">
-	<link rel="canonical" href="www.stevenwatterson.githib.io/new_stuff.html" />
-    </head>
-</html>
-
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
