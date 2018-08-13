@@ -6,7 +6,7 @@ is a lecturer in Computational Biology at the Centre for Stratified Medicine, Un
 
 He has previously worked at The Division of Infection and Pathway Medicine and The Centre for Synthetic and Systems Biology, both at The University of Edinburgh after completing his PhD in The Department of Mathematics, Trinity College, Dublin.
 
-## Current Students
+# Current Students
 
 # PhD
 
