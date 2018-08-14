@@ -35,7 +35,7 @@ Raymond Henderson <a href="https://twitter.com/RayHen66"><img src="/assets/img/T
 
 Seamus Cairns  <a href="https://twitter.com/cairns_seamus"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/seamus-cairns-053609114/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-Carla McKeown
+Carla McKeown  <a href="https://twitter.com/CarlaMcKeown"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>
 
 # Nuffield Studentships
 
