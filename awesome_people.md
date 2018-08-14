@@ -11,7 +11,7 @@ He has previously worked at The Division of Infection and Pathway Medicine and T
 
 ### PhD
 
-Boon Chin Tan
+Boon Chin Tan <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 ### Nuffield Studentship
 
