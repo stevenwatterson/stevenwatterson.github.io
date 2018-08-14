@@ -24,11 +24,12 @@ Dr Andrew Parton
 
 # MSc
 
-Gary Lonergan <a https://www.linkedin.com/in/gary-lonergan-8aa69611/"><img src="/assets/img/In.png" height="30" width="35"></a>
-https://twitter.com/gaztronica
+Gary Lonergan <a href="https://twitter.com/gaztronica"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="30" width="30"></a><a href="https://www.linkedin.com/in/gary-lonergan-8aa69611/"><img src="/assets/img/In.png" height="30" width="35"></a>
 
-Raymond Henderson <a https://www.linkedin.com/in/raymondhenderson1/><img src="/assets/img/In.png" height="30" width="35"></a>
-https://twitter.com/RayHen66
+
+Raymond Henderson <a href="https://twitter.com/RayHen66"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="30" width="30"></a><a href="https://www.linkedin.com/in/raymondhenderson1/"><img src="/assets/img/In.png" height="30" width="35"></a>
+
+&nbsp;&nbsp;
 
 # BSc
 
