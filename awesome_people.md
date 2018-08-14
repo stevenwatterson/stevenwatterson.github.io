@@ -24,9 +24,11 @@ Dr Andrew Parton
 
 # MSc
 
-Gary Lonergan <a href="https://www.instagram.com/systemsbiology/"><img src="/assets/img/glyph-logo_May2016.png" height="30" width="30"></a>
+Gary Lonergan <a https://www.linkedin.com/in/gary-lonergan-8aa69611/"><img src="/assets/img/In.png" height="30" width="35"></a>
+https://twitter.com/gaztronica
 
-Raymond Henderson
+Raymond Henderson <a https://www.linkedin.com/in/raymondhenderson1/><img src="/assets/img/In.png" height="30" width="35"></a>
+https://twitter.com/RayHen66
 
 # BSc
 
