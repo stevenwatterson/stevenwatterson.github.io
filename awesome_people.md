@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Steven Watterson 
+## Steven Watterson 
 
 is a lecturer in Computational Biology at the Centre for Stratified Medicine, University of Ulster. Currently, he is based on the Altnagelvin Hospital Campus
 
