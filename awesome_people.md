@@ -2,7 +2,7 @@
 layout: default
 ---
 # Steven Watterson 
-is a lecturer in Computational Biology at the Centre for Stratified Medicine, University of Ulster. Currently, he is based at C-TRIC, the Clinical Translation Research and Innovation Centre.
+is a lecturer in Computational Biology at the Centre for Stratified Medicine, University of Ulster. Currently, he is based on the Altnagelvin Hospital Campus
 
 He has previously worked at The Division of Infection and Pathway Medicine and The Centre for Synthetic and Systems Biology, both at The University of Edinburgh after completing his PhD in The Department of Mathematics, Trinity College, Dublin.
 
@@ -24,7 +24,7 @@ Dr Andrew Parton
 
 # MSc
 
-Gary Lonergan
+Gary Lonergan <a href="https://www.instagram.com/systemsbiology/"><img src="/assets/img/glyph-logo_May2016.png" height="30" width="30"></a>
 
 Raymond Henderson
 
