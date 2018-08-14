@@ -21,7 +21,7 @@ Oran Timoney
 
 ### PhD
 
-<a href="https://www.ebi.ac.uk/about/people/andrew-parton">Dr Andrew Parton</a>, senior scientific programmer, European Bioinformatcs Institute<a href="https://twitter.com/AndrewSParton"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/andrew-parton-41741353/"><img src="/assets/img/In.png" height="20" width="25"></a>
+<a href="https://www.ebi.ac.uk/about/people/andrew-parton">Dr Andrew Parton</a>, senior scientific programmer, European Bioinformatcs Institute <a href="https://twitter.com/AndrewSParton"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/andrew-parton-41741353/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 ### MSc
 
