@@ -3,7 +3,7 @@ layout: default
 ---
 ## Steven Watterson 
 
-is a lecturer in Computational Biology at the Centre for Stratified Medicine, University of Ulster. Currently, he is based on the Altnagelvin Hospital Campus
+is a lecturer in Computational Biology at the Centre for Stratified Medicine, University of Ulster. He is based on the Altnagelvin Hospital Campus.  He is a Member of Heart UK, the European Atherosclerosis Society, the Genetics Society and the Institute of Physics. 
 
 He has previously worked at The Division of Infection and Pathway Medicine and The Centre for Synthetic and Systems Biology, both at The University of Edinburgh after completing his PhD in The Department of Mathematics, Trinity College, Dublin.
 
