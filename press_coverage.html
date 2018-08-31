@@ -1,0 +1,18 @@
+---
+layout: default
+title: Press Coverage
+---
+
+{% for press in site.press %}
+<div class="press">
+  <a href="{{ press.link }}"><img src="{{ press.image_path }}" alt="{{ press.title }}" width="500px"/></a>
+  <a href="{{ press.link }}">{{ press.content }}</a>
+</div>
+
+<hr>
+<hr>
+
+{% endfor %}
+
+
+
