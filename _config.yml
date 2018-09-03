@@ -12,3 +12,4 @@ defaults:
       layout: "default"
 collections:
   - publications
+  - press
