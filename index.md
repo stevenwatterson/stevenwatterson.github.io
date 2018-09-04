@@ -3,10 +3,10 @@ layout: default
 title: New Stuff
 ---
 
-{% for new in site.newstuff %}
-<div class="new">
-  <a href="{{ new.link }}"><img src="{{ new.image_path }}" alt="{{ new.title }}" width="500px"/></a>
-  <a href="{{ new.link }}">{{ new.content }}</a>
+{% for news in site.newstuff %}
+<div class="news">
+  <a href="{{ news.link }}"><img src="{{ news.image_path }}" alt="{{ news.title }}" width="500px"/></a>
+  <a href="{{ news.link }}">{{ news.content }}</a>
 </div>
 
 <hr>
