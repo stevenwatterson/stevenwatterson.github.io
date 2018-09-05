@@ -6,7 +6,8 @@ title: New Stuff
 {% for new_stuff in site.newstuff %}
 <div class="new_stuff">
   <a href="{{ new_stuff.link }}"><img src="{{ new_stuff.image_path }}" alt="{{ new_stuff.title }}" width="500px"/></a>
-  <a href="{{ new_stuff.link }}">{{ new_stuff.content }}</a>
+  {{ new_stuff.text1 }}
+  <a href="{{ new_stuff.link }}">{{ new_stuff.text2 }}</a>
 </div>
 
 <hr>
