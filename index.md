@@ -3,8 +3,7 @@
 
 <html>
     <head>
-	    <meta http-equiv="refresh" content="0">
-	    <link rel="canonical" href="newstuff.html/" />
+	    <meta http-equiv="refresh" content="0; url=https://stevenwatterson.github.io/newstuff.html">
     </head>
 </html>
 
