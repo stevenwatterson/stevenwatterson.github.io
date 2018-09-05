@@ -4,10 +4,10 @@ title: New Stuff
 ---
 a
 
-{% for newstuff in site.newstuff %}
-<div class="newstuff">
-  <a href="{{ newstuff.link }}"><img src="{{ newstuff.image_path }}" alt="{{ newstuff.title }}" width="500px"/></a>
-  <a href="{{ newstuff.link }}">{{ newstuff.content }}</a>
+{% for new_stuff in site.new_stuff %}
+<div class="new_stuff">
+  <a href="{{ new_stuff.link }}"><img src="{{ new_stuff.image_path }}" alt="{{ new_stuff.title }}" width="500px"/></a>
+  <a href="{{ new_stuff.link }}">{{ new_stuff.content }}</a>
 </div>
 
 <hr>
