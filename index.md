@@ -5,8 +5,8 @@
 
 <html>
     <head>
-	    <meta http-equiv="refresh" content="0; url=http://www.lifestonechurch.net/media/videos/">
-	    <link rel="canonical" href="http://www.lifestonechurch.net/media/videos/" />
+	    <meta http-equiv="refresh" content="0>
+	    <link rel="canonical" href="newstuff.html/" />
     </head>
 </html>
 
