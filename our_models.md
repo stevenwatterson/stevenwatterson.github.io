@@ -2,6 +2,9 @@
 layout: default
 ---
 
+# Maps of Cholesterol metabolism
+## Flat maps (images) 
+
 1.  A relatively simple model of the cholesterol biosynthesis pathway, from Watterson et al., Biochimie 95, 613-21 (2013), available from Biomodels.
 
  
