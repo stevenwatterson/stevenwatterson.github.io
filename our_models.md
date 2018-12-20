@@ -13,7 +13,7 @@ From [Parton et al., Bioinformatics (2018, in press)](https://doi.org/10.1093/bi
 ## Flat maps (images) 
 
 The mevalonate arm of the cholesterol biosynthesis pathway.  From [Benson et al., British Journal of Pharmacology, Volume 174, Issue 23, Pages 4362-4382, 2017](https://bpspubs.onlinelibrary.wiley.com/doi/abs/10.1111/bph.14037).   
-* [Pathway map (SBGN-ML)](assets/models/bph14037-sup-006-mevalonate_pathway.sbgn) and [Pathway model](assets/models/bph14037-sup-007-mevalonate_pathway.sbml)
+* [Pathway map (SBGN-ML)](assets/models/bph14037-sup-006-mevalonate_pathway.sbgn) and [Pathway map+model (SBML+CellDesigner)](assets/models/bph14037-sup-007-mevalonate_pathway.sbml)
 
 The pre-Squalene section of the cholesterol biosynthesis pathway.  From [Mazein et al., Biochemical Pharmacology 86: 1. 56-66 (2013)](https://doi.org/10.1016/j.bcp.2013.03.021).  
 * [Pathway map (SBML+CellDesigner)](assets/models/BiochemPharma-mmc1.xml).
