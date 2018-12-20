@@ -10,7 +10,6 @@ From [Parton et al., Bioinformatics (2018, in press)](https://doi.org/10.1093/bi
 * [Pathway map (SBGN-ML)](assets/models/S1_Model.sbgn) and [Pathway map+model (SBML+CellDesigner)](assets/models/S2_Model.sbml)
 
 # Cholesterol metabolism
-## Flat maps (images) 
 
 The mevalonate arm of the cholesterol biosynthesis pathway.  From [Benson et al., British Journal of Pharmacology, Volume 174, Issue 23, Pages 4362-4382, 2017](https://bpspubs.onlinelibrary.wiley.com/doi/abs/10.1111/bph.14037).   
 * [Pathway map (SBGN-ML)](assets/models/bph14037-sup-006-mevalonate_pathway.sbgn) and [Pathway map+model (SBML+CellDesigner)](assets/models/bph14037-sup-007-mevalonate_pathway.sbml)
@@ -23,3 +22,8 @@ The sterol section of the cholesterol biosynthesis pathway (Shunt, Bloch and Kan
 
 A simplified model of the cholesterol biosynthesis pathway.  From [Watterson et al., Biochimie 95, 613-21 (2013)](https://doi.org/10.1016/j.biochi.2012.05.024).  
 * [Pathway map+model (SBML+CellDesigner)](assets/models/Biochimie.xml).
+
+## Flat maps (images) 
+
+Regulation and feedback of cholesterol metabolism.  From [Mazein et al., Nature Precedings](http://precedings.nature.com/documents/6315/version/1)
+* [Pathway map (pdf)](http://precedings.nature.com/documents/6315/version/1/files/npre20116315-1.pdf)
