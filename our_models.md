@@ -6,7 +6,7 @@ Details of [SBGN](http://sbgn.github.io/sbgn/), [SBGNML](https://github.com/sbgn
 
 # Atherosclerosis
 
-From Parton et al., Bioinformatics (2018, in press). [Pathway map](assets/models/S1_Model.xml) and [Pathway model](assets/model/S2_Model.xml)
+From Parton et al., Bioinformatics (2018, in press). [Pathway map](assets/models/S1_Model.xml) and [Pathway model](assets/models/S2_Model.xml)
 
 # Cholesterol metabolism
 ## Flat maps (images) 
