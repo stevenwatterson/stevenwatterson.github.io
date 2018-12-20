@@ -27,3 +27,12 @@ A simplified model of the cholesterol biosynthesis pathway.  From [Watterson et 
 
 Regulation and feedback of cholesterol metabolism.  From [Mazein et al., Nature Precedings](http://precedings.nature.com/documents/6315/version/1)
 * [Pathway map (pdf)](http://precedings.nature.com/documents/6315/version/1/files/npre20116315-1.pdf)
+
+Oxysterol metabolism and regulation. From [Giotti, Figshare](http://dx.doi.org/10.6084/m9.figshare.97449)
+* [Pathway map (pdf)](http://files.figshare.com/233460/oxysterol_met_and_reg.pdf)
+
+Regulation of HMGCR in the mevalonte pathway. From [Pappa, Figshare](http://dx.doi.org/10.6084/m9.figshare.105160)
+* [Pathway map (pdf)](http://files.figshare.com/233476/Regulation_of_HMGCR_in_Mev_pathway.pdf)
+
+The Vitamin D3 Synthesis Pathway. From [Lu, Figshare](http://dx.doi.org/10.6084/m9.figshare.105162)
+* [Pathway map (pdf)](http://files.figshare.com/233467/Vitamin_D3_pathway.pdf)
