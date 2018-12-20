@@ -6,9 +6,9 @@ Details of [SBGN](http://sbgn.github.io/sbgn/), [SBGNML](https://github.com/sbgn
 
 # Atherosclerosis
 
-From Parton et al., Bioinformatics (in press). Pathway map
+From Parton et al., Bioinformatics (in press). [Pathway map](assets/models/S1_Model.xml) and [Pathway model](assets/model/S2_Model.xml)
 
-# Maps of Cholesterol metabolism
+# Cholesterol metabolism
 ## Flat maps (images) 
 
 1.  A relatively simple model of the cholesterol biosynthesis pathway, from Watterson et al., Biochimie 95, 613-21 (2013), available from Biomodels.
