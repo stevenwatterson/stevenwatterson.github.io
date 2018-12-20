@@ -1,0 +1,2712 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="process description">
+        <glyph id="pnre1" orientation="horizontal" class="process">
+            <bbox y="750.0" x="125.0" h="10.0" w="10.0"/>
+            <port y="755.0" x="125.0" id="pnre1.L"/>
+            <port y="755.0" x="135.0" id="pnre1.R"/>
+        </glyph>
+        <glyph id="pnre2" orientation="horizontal" class="process">
+            <bbox y="735.0" x="325.0" h="10.0" w="10.0"/>
+            <port y="740.0" x="325.0" id="pnre2.L"/>
+            <port y="740.0" x="335.0" id="pnre2.R"/>
+        </glyph>
+        <glyph id="pnre3" orientation="horizontal" class="process">
+            <bbox y="985.0" x="125.0" h="10.0" w="10.0"/>
+            <port y="990.0" x="125.0" id="pnre3.L"/>
+            <port y="990.0" x="135.0" id="pnre3.R"/>
+        </glyph>
+        <glyph id="pnre4" orientation="horizontal" class="process">
+            <bbox y="985.0" x="325.0" h="10.0" w="10.0"/>
+            <port y="990.0" x="325.0" id="pnre4.L"/>
+            <port y="990.0" x="335.0" id="pnre4.R"/>
+        </glyph>
+        <glyph id="pnre5" orientation="horizontal" class="process">
+            <bbox y="1235.2" x="125.0" h="10.0" w="10.0"/>
+            <port y="1240.2" x="125.0" id="pnre5.L"/>
+            <port y="1240.2" x="135.0" id="pnre5.R"/>
+        </glyph>
+        <glyph id="pnre6" orientation="horizontal" class="process">
+            <bbox y="1235.2" x="325.0" h="10.0" w="10.0"/>
+            <port y="1240.2" x="325.0" id="pnre6.L"/>
+            <port y="1240.2" x="335.0" id="pnre6.R"/>
+        </glyph>
+        <glyph id="pnre7" orientation="horizontal" class="process">
+            <bbox y="335.0" x="345.0" h="10.0" w="10.0"/>
+            <port y="340.0" x="345.0" id="pnre7.L"/>
+            <port y="340.0" x="355.0" id="pnre7.R"/>
+        </glyph>
+        <glyph id="pnre8" orientation="horizontal" class="process">
+            <bbox y="465.0" x="345.0" h="10.0" w="10.0"/>
+            <port y="470.0" x="345.0" id="pnre8.L"/>
+            <port y="470.0" x="355.0" id="pnre8.R"/>
+        </glyph>
+        <glyph id="pnre9" orientation="horizontal" class="process">
+            <bbox y="554.1" x="470.4" h="10.0" w="10.0"/>
+            <port y="559.1" x="470.4" id="pnre9.L"/>
+            <port y="559.1" x="480.4" id="pnre9.R"/>
+        </glyph>
+        <glyph id="pnre10" orientation="horizontal" class="process">
+            <bbox y="423.7" x="605.6" h="10.0" w="10.0"/>
+            <port y="428.7" x="605.6" id="pnre10.L"/>
+            <port y="428.7" x="615.6" id="pnre10.R"/>
+        </glyph>
+        <glyph id="pnre11" orientation="horizontal" class="process">
+            <bbox y="727.5" x="555.0" h="10.0" w="10.0"/>
+            <port y="732.5" x="555.0" id="pnre11.L"/>
+            <port y="732.5" x="565.0" id="pnre11.R"/>
+        </glyph>
+        <glyph id="pnre12" orientation="horizontal" class="process">
+            <bbox y="1238.7" x="525.5" h="10.0" w="10.0"/>
+            <port y="1243.7" x="525.5" id="pnre12.L"/>
+            <port y="1243.7" x="535.5" id="pnre12.R"/>
+        </glyph>
+        <glyph id="pnre13" orientation="horizontal" class="process">
+            <bbox y="1495.0" x="280.0" h="10.0" w="10.0"/>
+            <port y="1500.0" x="280.0" id="pnre13.L"/>
+            <port y="1500.0" x="290.0" id="pnre13.R"/>
+        </glyph>
+        <glyph id="pnre14" orientation="horizontal" class="process">
+            <bbox y="1292.9" x="587.9" h="10.0" w="10.0"/>
+            <port y="1297.9" x="587.9" id="pnre14.L"/>
+            <port y="1297.9" x="597.9" id="pnre14.R"/>
+        </glyph>
+        <glyph id="pnre15" orientation="horizontal" class="process">
+            <bbox y="1596.1" x="1001.6" h="10.0" w="10.0"/>
+            <port y="1601.1" x="1001.6" id="pnre15.L"/>
+            <port y="1601.1" x="1011.6" id="pnre15.R"/>
+        </glyph>
+        <glyph id="pnre16" orientation="horizontal" class="process">
+            <bbox y="730.0" x="1255.0" h="10.0" w="10.0"/>
+            <port y="735.0" x="1255.0" id="pnre16.L"/>
+            <port y="735.0" x="1265.0" id="pnre16.R"/>
+        </glyph>
+        <glyph id="pnre20" orientation="horizontal" class="process">
+            <bbox y="100.0" x="425.0" h="10.0" w="10.0"/>
+            <port y="105.0" x="425.0" id="pnre20.L"/>
+            <port y="105.0" x="435.0" id="pnre20.R"/>
+        </glyph>
+        <glyph id="pnre21" orientation="horizontal" class="process">
+            <bbox y="165.0" x="280.0" h="10.0" w="10.0"/>
+            <port y="170.0" x="280.0" id="pnre21.L"/>
+            <port y="170.0" x="290.0" id="pnre21.R"/>
+        </glyph>
+        <glyph id="pnre22" orientation="horizontal" class="process">
+            <bbox y="165.0" x="135.0" h="10.0" w="10.0"/>
+            <port y="170.0" x="135.0" id="pnre22.L"/>
+            <port y="170.0" x="145.0" id="pnre22.R"/>
+        </glyph>
+        <glyph id="pnre23" orientation="horizontal" class="process">
+            <bbox y="85.0" x="880.0" h="10.0" w="10.0"/>
+            <port y="90.0" x="880.0" id="pnre23.L"/>
+            <port y="90.0" x="890.0" id="pnre23.R"/>
+        </glyph>
+        <glyph id="pnre24" orientation="horizontal" class="process">
+            <bbox y="285.0" x="704.5" h="10.0" w="10.0"/>
+            <port y="290.0" x="704.5" id="pnre24.L"/>
+            <port y="290.0" x="714.5" id="pnre24.R"/>
+        </glyph>
+        <glyph id="pnre25" orientation="horizontal" class="process">
+            <bbox y="185.0" x="795.0" h="10.0" w="10.0"/>
+            <port y="190.0" x="795.0" id="pnre25.L"/>
+            <port y="190.0" x="805.0" id="pnre25.R"/>
+        </glyph>
+        <glyph id="pnre26" orientation="horizontal" class="process">
+            <bbox y="205.0" x="585.0" h="10.0" w="10.0"/>
+            <port y="210.0" x="585.0" id="pnre26.L"/>
+            <port y="210.0" x="595.0" id="pnre26.R"/>
+        </glyph>
+        <glyph id="pnre27" orientation="horizontal" class="process">
+            <bbox y="215.0" x="425.0" h="10.0" w="10.0"/>
+            <port y="220.0" x="425.0" id="pnre27.L"/>
+            <port y="220.0" x="435.0" id="pnre27.R"/>
+        </glyph>
+        <glyph id="pnre32" orientation="horizontal" class="process">
+            <bbox y="275.0" x="1025.0" h="10.0" w="10.0"/>
+            <port y="280.0" x="1025.0" id="pnre32.L"/>
+            <port y="280.0" x="1035.0" id="pnre32.R"/>
+        </glyph>
+        <glyph id="pnre33" orientation="horizontal" class="process">
+            <bbox y="435.0" x="1025.0" h="10.0" w="10.0"/>
+            <port y="440.0" x="1025.0" id="pnre33.L"/>
+            <port y="440.0" x="1035.0" id="pnre33.R"/>
+        </glyph>
+        <glyph id="pnre34" orientation="horizontal" class="process">
+            <bbox y="355.0" x="1025.0" h="10.0" w="10.0"/>
+            <port y="360.0" x="1025.0" id="pnre34.L"/>
+            <port y="360.0" x="1035.0" id="pnre34.R"/>
+        </glyph>
+        <glyph id="pnre35" orientation="horizontal" class="process">
+            <bbox y="535.0" x="965.0" h="10.0" w="10.0"/>
+            <port y="540.0" x="965.0" id="pnre35.L"/>
+            <port y="540.0" x="975.0" id="pnre35.R"/>
+        </glyph>
+        <glyph id="pnre36" orientation="horizontal" class="process">
+            <bbox y="545.0" x="1350.0" h="10.0" w="10.0"/>
+            <port y="550.0" x="1350.0" id="pnre36.L"/>
+            <port y="550.0" x="1360.0" id="pnre36.R"/>
+        </glyph>
+        <glyph id="pnre37" orientation="horizontal" class="process">
+            <bbox y="1445.0" x="179.5" h="10.0" w="10.0"/>
+            <port y="1450.0" x="179.5" id="pnre37.L"/>
+            <port y="1450.0" x="189.5" id="pnre37.R"/>
+        </glyph>
+        <glyph id="pnre38" orientation="horizontal" class="process">
+            <bbox y="1080.0" x="65.0" h="10.0" w="10.0"/>
+            <port y="1085.0" x="65.0" id="pnre38.L"/>
+            <port y="1085.0" x="75.0" id="pnre38.R"/>
+        </glyph>
+        <glyph id="pnre39" orientation="horizontal" class="process">
+            <bbox y="275.0" x="165.0" h="10.0" w="10.0"/>
+            <port y="280.0" x="165.0" id="pnre39.L"/>
+            <port y="280.0" x="175.0" id="pnre39.R"/>
+        </glyph>
+        <glyph id="pnre40" orientation="horizontal" class="process">
+            <bbox y="987.5" x="977.5" h="10.0" w="10.0"/>
+            <port y="992.5" x="977.5" id="pnre40.L"/>
+            <port y="992.5" x="987.5" id="pnre40.R"/>
+        </glyph>
+        <glyph id="pnre41" orientation="horizontal" class="process">
+            <bbox y="1034.5" x="1255.0" h="10.0" w="10.0"/>
+            <port y="1039.5" x="1255.0" id="pnre41.L"/>
+            <port y="1039.5" x="1265.0" id="pnre41.R"/>
+        </glyph>
+        <glyph id="pnre42" orientation="horizontal" class="process">
+            <bbox y="987.7" x="1104.7" h="10.0" w="10.0"/>
+            <port y="992.7" x="1104.7" id="pnre42.L"/>
+            <port y="992.7" x="1114.7" id="pnre42.R"/>
+        </glyph>
+        <glyph id="pnre43" orientation="horizontal" class="process">
+            <bbox y="931.1" x="1125.0" h="10.0" w="10.0"/>
+            <port y="936.1" x="1125.0" id="pnre43.L"/>
+            <port y="936.1" x="1135.0" id="pnre43.R"/>
+        </glyph>
+        <glyph id="pnre44" orientation="horizontal" class="process">
+            <bbox y="915.0" x="1340.0" h="10.0" w="10.0"/>
+            <port y="920.0" x="1340.0" id="pnre44.L"/>
+            <port y="920.0" x="1350.0" id="pnre44.R"/>
+        </glyph>
+        <glyph id="pnre45" orientation="horizontal" class="process">
+            <bbox y="901.5" x="1200.0" h="10.0" w="10.0"/>
+            <port y="906.5" x="1200.0" id="pnre45.L"/>
+            <port y="906.5" x="1210.0" id="pnre45.R"/>
+        </glyph>
+        <glyph id="pnre46" orientation="horizontal" class="process">
+            <bbox y="1275.0" x="570.0" h="10.0" w="10.0"/>
+            <port y="1280.0" x="570.0" id="pnre46.L"/>
+            <port y="1280.0" x="580.0" id="pnre46.R"/>
+        </glyph>
+        <glyph id="pnre47" orientation="horizontal" class="process">
+            <bbox y="875.0" x="425.0" h="10.0" w="10.0"/>
+            <port y="880.0" x="425.0" id="pnre47.L"/>
+            <port y="880.0" x="435.0" id="pnre47.R"/>
+        </glyph>
+        <glyph id="pnre50" orientation="horizontal" class="process">
+            <bbox y="1725.0" x="1220.0" h="10.0" w="10.0"/>
+            <port y="1730.0" x="1220.0" id="pnre50.L"/>
+            <port y="1730.0" x="1230.0" id="pnre50.R"/>
+        </glyph>
+        <glyph id="pnre51" orientation="horizontal" class="process">
+            <bbox y="1795.0" x="1365.0" h="10.0" w="10.0"/>
+            <port y="1800.0" x="1365.0" id="pnre51.L"/>
+            <port y="1800.0" x="1375.0" id="pnre51.R"/>
+        </glyph>
+        <glyph id="pnre52" orientation="horizontal" class="process">
+            <bbox y="1095.0" x="655.0" h="10.0" w="10.0"/>
+            <port y="1100.0" x="655.0" id="pnre52.L"/>
+            <port y="1100.0" x="665.0" id="pnre52.R"/>
+        </glyph>
+        <glyph id="pnre53" orientation="horizontal" class="process">
+            <bbox y="530.0" x="405.0" h="10.0" w="10.0"/>
+            <port y="535.0" x="405.0" id="pnre53.L"/>
+            <port y="535.0" x="415.0" id="pnre53.R"/>
+        </glyph>
+        <glyph id="pnre54" orientation="horizontal" class="process">
+            <bbox y="1160.0" x="615.0" h="10.0" w="10.0"/>
+            <port y="1165.0" x="615.0" id="pnre54.L"/>
+            <port y="1165.0" x="625.0" id="pnre54.R"/>
+        </glyph>
+        <glyph id="pnre55" orientation="horizontal" class="process">
+            <bbox y="1495.0" x="385.0" h="10.0" w="10.0"/>
+            <port y="1500.0" x="385.0" id="pnre55.L"/>
+            <port y="1500.0" x="395.0" id="pnre55.R"/>
+        </glyph>
+        <glyph id="pnre56" orientation="horizontal" class="process">
+            <bbox y="1215.0" x="405.0" h="10.0" w="10.0"/>
+            <port y="1220.0" x="405.0" id="pnre56.L"/>
+            <port y="1220.0" x="415.0" id="pnre56.R"/>
+        </glyph>
+        <glyph id="pnre57" orientation="horizontal" class="process">
+            <bbox y="310.5" x="1315.0" h="10.0" w="10.0"/>
+            <port y="315.5" x="1315.0" id="pnre57.L"/>
+            <port y="315.5" x="1325.0" id="pnre57.R"/>
+        </glyph>
+        <glyph id="pnre58" orientation="horizontal" class="process">
+            <bbox y="399.5" x="1315.0" h="10.0" w="10.0"/>
+            <port y="404.5" x="1315.0" id="pnre58.L"/>
+            <port y="404.5" x="1325.0" id="pnre58.R"/>
+        </glyph>
+        <glyph id="pnre59" orientation="horizontal" class="process">
+            <bbox y="355.0" x="1240.0" h="10.0" w="10.0"/>
+            <port y="360.0" x="1240.0" id="pnre59.L"/>
+            <port y="360.0" x="1250.0" id="pnre59.R"/>
+        </glyph>
+        <glyph id="pnre60" orientation="horizontal" class="process">
+            <bbox y="1465.0" x="1215.0" h="10.0" w="10.0"/>
+            <port y="1470.0" x="1215.0" id="pnre60.L"/>
+            <port y="1470.0" x="1225.0" id="pnre60.R"/>
+        </glyph>
+        <glyph id="pnre61" orientation="horizontal" class="process">
+            <bbox y="1180.0" x="1125.0" h="10.0" w="10.0"/>
+            <port y="1185.0" x="1125.0" id="pnre61.L"/>
+            <port y="1185.0" x="1135.0" id="pnre61.R"/>
+        </glyph>
+        <glyph id="pnre62" orientation="horizontal" class="process">
+            <bbox y="1280.0" x="1165.0" h="10.0" w="10.0"/>
+            <port y="1285.0" x="1165.0" id="pnre62.L"/>
+            <port y="1285.0" x="1175.0" id="pnre62.R"/>
+        </glyph>
+        <glyph id="pnre63" orientation="horizontal" class="process">
+            <bbox y="1140.0" x="1165.1" h="10.0" w="10.0"/>
+            <port y="1145.0" x="1165.1" id="pnre63.L"/>
+            <port y="1145.0" x="1175.1" id="pnre63.R"/>
+        </glyph>
+        <glyph id="pnre64" orientation="horizontal" class="process">
+            <bbox y="1215.5" x="1218.9" h="10.0" w="10.0"/>
+            <port y="1220.5" x="1218.9" id="pnre64.L"/>
+            <port y="1220.5" x="1228.9" id="pnre64.R"/>
+        </glyph>
+        <glyph id="pnre66" orientation="horizontal" class="process">
+            <bbox y="1481.5" x="1112.8" h="10.0" w="10.0"/>
+            <port y="1486.5" x="1112.8" id="pnre66.L"/>
+            <port y="1486.5" x="1122.8" id="pnre66.R"/>
+        </glyph>
+        <glyph id="pnre67" orientation="horizontal" class="process">
+            <bbox y="1270.0" x="1035.0" h="10.0" w="10.0"/>
+            <port y="1275.0" x="1035.0" id="pnre67.L"/>
+            <port y="1275.0" x="1045.0" id="pnre67.R"/>
+        </glyph>
+        <glyph id="pnre68" orientation="horizontal" class="process">
+            <bbox y="910.0" x="875.0" h="10.0" w="10.0"/>
+            <port y="915.0" x="875.0" id="pnre68.L"/>
+            <port y="915.0" x="885.0" id="pnre68.R"/>
+        </glyph>
+        <glyph id="pnre69" orientation="horizontal" class="process">
+            <bbox y="930.0" x="835.0" h="10.0" w="10.0"/>
+            <port y="935.0" x="835.0" id="pnre69.L"/>
+            <port y="935.0" x="845.0" id="pnre69.R"/>
+        </glyph>
+        <glyph id="pnre70" orientation="horizontal" class="process">
+            <bbox y="875.0" x="895.0" h="10.0" w="10.0"/>
+            <port y="880.0" x="895.0" id="pnre70.L"/>
+            <port y="880.0" x="905.0" id="pnre70.R"/>
+        </glyph>
+        <glyph id="pnre71" orientation="horizontal" class="process">
+            <bbox y="875.0" x="795.0" h="10.0" w="10.0"/>
+            <port y="880.0" x="795.0" id="pnre71.L"/>
+            <port y="880.0" x="805.0" id="pnre71.R"/>
+        </glyph>
+        <glyph id="pnre94" orientation="horizontal" class="process">
+            <bbox y="1719.6" x="688.7" h="10.0" w="10.0"/>
+            <port y="1724.6" x="688.7" id="pnre94.L"/>
+            <port y="1724.6" x="698.7" id="pnre94.R"/>
+        </glyph>
+        <glyph id="pnre95" orientation="horizontal" class="process">
+            <bbox y="1825.0" x="620.0" h="10.0" w="10.0"/>
+            <port y="1830.0" x="620.0" id="pnre95.L"/>
+            <port y="1830.0" x="630.0" id="pnre95.R"/>
+        </glyph>
+        <glyph id="pnre96" orientation="horizontal" class="process">
+            <bbox y="1885.0" x="640.0" h="10.0" w="10.0"/>
+            <port y="1890.0" x="640.0" id="pnre96.L"/>
+            <port y="1890.0" x="650.0" id="pnre96.R"/>
+        </glyph>
+        <glyph id="pnre97" orientation="horizontal" class="process">
+            <bbox y="1927.1" x="685.6" h="10.0" w="10.0"/>
+            <port y="1932.1" x="685.6" id="pnre97.L"/>
+            <port y="1932.1" x="695.6" id="pnre97.R"/>
+        </glyph>
+        <glyph id="pnre98" orientation="horizontal" class="process">
+            <bbox y="1765.0" x="160.0" h="10.0" w="10.0"/>
+            <port y="1770.0" x="160.0" id="pnre98.L"/>
+            <port y="1770.0" x="170.0" id="pnre98.R"/>
+        </glyph>
+        <glyph id="pnre99" orientation="horizontal" class="process">
+            <bbox y="1885.0" x="160.3" h="10.0" w="10.0"/>
+            <port y="1890.0" x="160.3" id="pnre99.L"/>
+            <port y="1890.0" x="170.3" id="pnre99.R"/>
+        </glyph>
+        <glyph id="pnre100" orientation="horizontal" class="process">
+            <bbox y="1945.0" x="160.0" h="10.0" w="10.0"/>
+            <port y="1950.0" x="160.0" id="pnre100.L"/>
+            <port y="1950.0" x="170.0" id="pnre100.R"/>
+        </glyph>
+        <glyph id="pnre101" orientation="horizontal" class="process">
+            <bbox y="1825.0" x="160.4" h="10.0" w="10.0"/>
+            <port y="1830.0" x="160.4" id="pnre101.L"/>
+            <port y="1830.0" x="170.4" id="pnre101.R"/>
+        </glyph>
+        <glyph id="pnre102" orientation="horizontal" class="process">
+            <bbox y="1770.7" x="414.4" h="10.0" w="10.0"/>
+            <port y="1775.7" x="414.4" id="pnre102.L"/>
+            <port y="1775.7" x="424.4" id="pnre102.R"/>
+        </glyph>
+        <glyph id="pnre103" orientation="horizontal" class="process">
+            <bbox y="1856.1" x="579.5" h="10.0" w="10.0"/>
+            <port y="1861.1" x="579.5" id="pnre103.L"/>
+            <port y="1861.1" x="589.5" id="pnre103.R"/>
+        </glyph>
+        <glyph id="pnre105" orientation="horizontal" class="process">
+            <bbox y="1895.0" x="580.0" h="10.0" w="10.0"/>
+            <port y="1900.0" x="580.0" id="pnre105.L"/>
+            <port y="1900.0" x="590.0" id="pnre105.R"/>
+        </glyph>
+        <glyph id="pnre106" orientation="horizontal" class="process">
+            <bbox y="1945.0" x="603.8" h="10.0" w="10.0"/>
+            <port y="1950.0" x="603.8" id="pnre106.L"/>
+            <port y="1950.0" x="613.8" id="pnre106.R"/>
+        </glyph>
+        <glyph id="pnre107" orientation="horizontal" class="process">
+            <bbox y="1793.7" x="373.7" h="10.0" w="10.0"/>
+            <port y="1798.7" x="373.7" id="pnre107.L"/>
+            <port y="1798.7" x="383.7" id="pnre107.R"/>
+        </glyph>
+        <glyph id="pnre108" orientation="horizontal" class="process">
+            <bbox y="1885.0" x="344.5" h="10.0" w="10.0"/>
+            <port y="1890.0" x="344.5" id="pnre108.L"/>
+            <port y="1890.0" x="354.5" id="pnre108.R"/>
+        </glyph>
+        <glyph id="pnre109" orientation="horizontal" class="process">
+            <bbox y="1904.9" x="401.5" h="10.0" w="10.0"/>
+            <port y="1909.9" x="401.5" id="pnre109.L"/>
+            <port y="1909.9" x="411.5" id="pnre109.R"/>
+        </glyph>
+        <glyph id="pnre110" orientation="horizontal" class="process">
+            <bbox y="1835.0" x="360.0" h="10.0" w="10.0"/>
+            <port y="1840.0" x="360.0" id="pnre110.L"/>
+            <port y="1840.0" x="370.0" id="pnre110.R"/>
+        </glyph>
+        <glyph id="pnre111" orientation="horizontal" class="process">
+            <bbox y="1545.0" x="675.5" h="10.0" w="10.0"/>
+            <port y="1550.0" x="675.5" id="pnre111.L"/>
+            <port y="1550.0" x="685.5" id="pnre111.R"/>
+        </glyph>
+        <glyph id="pnre112" orientation="horizontal" class="process">
+            <bbox y="1579.0" x="835.0" h="10.0" w="10.0"/>
+            <port y="1584.0" x="835.0" id="pnre112.L"/>
+            <port y="1584.0" x="845.0" id="pnre112.R"/>
+        </glyph>
+        <glyph id="pnre114" orientation="horizontal" class="process">
+            <bbox y="1470.0" x="890.0" h="10.0" w="10.0"/>
+            <port y="1475.0" x="890.0" id="pnre114.L"/>
+            <port y="1475.0" x="900.0" id="pnre114.R"/>
+        </glyph>
+        <glyph id="pnre115" orientation="horizontal" class="process">
+            <bbox y="1285.5" x="1004.5" h="10.0" w="10.0"/>
+            <port y="1290.5" x="1004.5" id="pnre115.L"/>
+            <port y="1290.5" x="1014.5" id="pnre115.R"/>
+        </glyph>
+        <glyph id="pnre116" orientation="horizontal" class="process">
+            <bbox y="1545.0" x="1094.5" h="10.0" w="10.0"/>
+            <port y="1550.0" x="1094.5" id="pnre116.L"/>
+            <port y="1550.0" x="1104.5" id="pnre116.R"/>
+        </glyph>
+        <glyph id="pnre117" orientation="horizontal" class="process">
+            <bbox y="1795.0" x="1075.0" h="10.0" w="10.0"/>
+            <port y="1800.0" x="1075.0" id="pnre117.L"/>
+            <port y="1800.0" x="1085.0" id="pnre117.R"/>
+        </glyph>
+        <glyph id="pnre118" orientation="horizontal" class="process">
+            <bbox y="1865.0" x="1220.0" h="10.0" w="10.0"/>
+            <port y="1870.0" x="1220.0" id="pnre118.L"/>
+            <port y="1870.0" x="1230.0" id="pnre118.R"/>
+        </glyph>
+        <glyph id="pnre119" orientation="horizontal" class="process">
+            <bbox y="1605.0" x="1225.0" h="10.0" w="10.0"/>
+            <port y="1610.0" x="1225.0" id="pnre119.L"/>
+            <port y="1610.0" x="1235.0" id="pnre119.R"/>
+        </glyph>
+        <glyph id="pnre120" orientation="horizontal" class="process">
+            <bbox y="605.0" x="1045.0" h="10.0" w="10.0"/>
+            <port y="610.0" x="1045.0" id="pnre120.L"/>
+            <port y="610.0" x="1055.0" id="pnre120.R"/>
+        </glyph>
+        <glyph id="pnre121" orientation="horizontal" class="process">
+            <bbox y="505.0" x="1025.0" h="10.0" w="10.0"/>
+            <port y="510.0" x="1025.0" id="pnre121.L"/>
+            <port y="510.0" x="1035.0" id="pnre121.R"/>
+        </glyph>
+        <glyph id="pnre122" orientation="horizontal" class="process">
+            <bbox y="555.0" x="1125.0" h="10.0" w="10.0"/>
+            <port y="560.0" x="1125.0" id="pnre122.L"/>
+            <port y="560.0" x="1135.0" id="pnre122.R"/>
+        </glyph>
+        <glyph id="pnre123" orientation="horizontal" class="process">
+            <bbox y="1155.0" x="865.0" h="10.0" w="10.0"/>
+            <port y="1160.0" x="865.0" id="pnre123.L"/>
+            <port y="1160.0" x="875.0" id="pnre123.R"/>
+        </glyph>
+        <glyph id="pnre124" orientation="horizontal" class="process">
+            <bbox y="1115.0" x="955.0" h="10.0" w="10.0"/>
+            <port y="1120.0" x="955.0" id="pnre124.L"/>
+            <port y="1120.0" x="965.0" id="pnre124.R"/>
+        </glyph>
+        <glyph id="pnre126" orientation="horizontal" class="process">
+            <bbox y="1754.8" x="603.5" h="10.0" w="10.0"/>
+            <port y="1759.8" x="603.5" id="pnre126.L"/>
+            <port y="1759.8" x="613.5" id="pnre126.R"/>
+        </glyph>
+        <glyph id="pnre127" orientation="horizontal" class="process">
+            <bbox y="1810.9" x="430.8" h="10.0" w="10.0"/>
+            <port y="1815.9" x="430.8" id="pnre127.L"/>
+            <port y="1815.9" x="440.8" id="pnre127.R"/>
+        </glyph>
+        <glyph id="pnre128" orientation="horizontal" class="process">
+            <bbox y="1217.5" x="665.0" h="10.0" w="10.0"/>
+            <port y="1222.5" x="665.0" id="pnre128.L"/>
+            <port y="1222.5" x="675.0" id="pnre128.R"/>
+        </glyph>
+        <glyph id="pnre129" orientation="horizontal" class="process">
+            <bbox y="1115.0" x="1363.8" h="10.0" w="10.0"/>
+            <port y="1120.0" x="1363.8" id="pnre129.L"/>
+            <port y="1120.0" x="1373.8" id="pnre129.R"/>
+        </glyph>
+        <glyph id="pnre130" orientation="horizontal" class="process">
+            <bbox y="1615.0" x="735.0" h="10.0" w="10.0"/>
+            <port y="1620.0" x="735.0" id="pnre130.L"/>
+            <port y="1620.0" x="745.0" id="pnre130.R"/>
+        </glyph>
+        <glyph id="pnre131" orientation="horizontal" class="process">
+            <bbox y="1615.0" x="569.5" h="10.0" w="10.0"/>
+            <port y="1620.0" x="569.5" id="pnre131.L"/>
+            <port y="1620.0" x="579.5" id="pnre131.R"/>
+        </glyph>
+        <glyph id="pnre132" orientation="horizontal" class="process">
+            <bbox y="1640.5" x="125.0" h="10.0" w="10.0"/>
+            <port y="1645.5" x="125.0" id="pnre132.L"/>
+            <port y="1645.5" x="135.0" id="pnre132.R"/>
+        </glyph>
+        <glyph id="pnre134" orientation="horizontal" class="process">
+            <bbox y="864.0" x="1115.0" h="10.0" w="10.0"/>
+            <port y="869.0" x="1115.0" id="pnre134.L"/>
+            <port y="869.0" x="1125.0" id="pnre134.R"/>
+        </glyph>
+        <glyph id="pnre138" orientation="horizontal" class="process">
+            <bbox y="835.0" x="1240.0" h="10.0" w="10.0"/>
+            <port y="840.0" x="1240.0" id="pnre138.L"/>
+            <port y="840.0" x="1250.0" id="pnre138.R"/>
+        </glyph>
+        <glyph id="pnre139" orientation="horizontal" class="process">
+            <bbox y="898.5" x="995.0" h="10.0" w="10.0"/>
+            <port y="903.5" x="995.0" id="pnre139.L"/>
+            <port y="903.5" x="1005.0" id="pnre139.R"/>
+        </glyph>
+        <glyph id="pnre140" orientation="horizontal" class="process">
+            <bbox y="1023.0" x="1325.0" h="10.0" w="10.0"/>
+            <port y="1028.0" x="1325.0" id="pnre140.L"/>
+            <port y="1028.0" x="1335.0" id="pnre140.R"/>
+        </glyph>
+        <glyph id="pnre141" orientation="horizontal" class="process">
+            <bbox y="835.4" x="903.1" h="10.0" w="10.0"/>
+            <port y="840.4" x="903.1" id="pnre141.L"/>
+            <port y="840.4" x="913.1" id="pnre141.R"/>
+        </glyph>
+        <glyph id="pnre142" orientation="horizontal" class="process">
+            <bbox y="963.5" x="875.6" h="10.0" w="10.0"/>
+            <port y="968.5" x="875.6" id="pnre142.L"/>
+            <port y="968.5" x="885.6" id="pnre142.R"/>
+        </glyph>
+        <glyph id="pnre143" orientation="horizontal" class="process">
+            <bbox y="855.0" x="1145.0" h="10.0" w="10.0"/>
+            <port y="860.0" x="1145.0" id="pnre143.L"/>
+            <port y="860.0" x="1155.0" id="pnre143.R"/>
+        </glyph>
+        <glyph id="ca1" class="compartment">
+            <label text="Liver">
+                <bbox y="190.5" x="338.0" h="12.0" w="40.0"/>
+            </label>
+            <bbox y="8.0" x="7.0" h="219.0" w="694.0"/>
+        </glyph>
+        <glyph id="ca2" class="compartment">
+            <label text="Intestine">
+                <bbox y="191.5" x="1072.0" h="12.0" w="72.0"/>
+            </label>
+            <bbox y="12.0" x="712.0" h="216.0" w="777.0"/>
+        </glyph>
+        <glyph id="ca3" class="compartment">
+            <label text="Lumen">
+                <bbox y="611.5" x="728.5" h="12.0" w="40.0"/>
+            </label>
+            <bbox y="237.0" x="11.0" h="411.0" w="1479.0"/>
+        </glyph>
+        <glyph id="ca4" class="compartment">
+            <label text="Endothelium">
+                <bbox y="768.5" x="709.5" h="12.0" w="88.0"/>
+            </label>
+            <bbox y="653.0" x="11.0" h="152.0" w="1478.0"/>
+        </glyph>
+        <glyph id="ca5" class="compartment">
+            <label text="Intima">
+                <bbox y="1951.5" x="730.5" h="12.0" w="48.0"/>
+            </label>
+            <bbox y="810.0" x="9.0" h="1178.0" w="1485.0"/>
+        </glyph>
+        <glyph id="ca6" class="compartment">
+            <label text="default">
+                <bbox y="746.0" x="227.0" h="12.0" w="56.0"/>
+            </label>
+            <bbox y="677.5" x="180.0" h="105.0" w="140.0"/>
+        </glyph>
+        <glyph id="ca7" class="compartment">
+            <label text="M1">
+                <bbox y="513.5" x="549.5" h="12.0" w="16.0"/>
+            </label>
+            <bbox y="430.0" x="495.0" h="120.0" w="130.0"/>
+        </glyph>
+        <glyph id="ca8" class="compartment">
+            <label text="M1">
+                <bbox y="983.5" x="549.5" h="12.0" w="16.0"/>
+            </label>
+            <bbox y="900.0" x="490.0" h="120.0" w="140.0"/>
+        </glyph>
+        <glyph id="ca9" class="compartment">
+            <label text="M2">
+                <bbox y="1464.0" x="519.5" h="12.0" w="16.0"/>
+            </label>
+            <bbox y="1419.5" x="469.0" h="81.0" w="122.0"/>
+        </glyph>
+        <glyph id="ca10" class="compartment">
+            <label text="FC1">
+                <bbox y="1293.5" x="659.5" h="12.0" w="24.0"/>
+            </label>
+            <bbox y="1230.0" x="565.0" h="100.0" w="215.0"/>
+        </glyph>
+        <glyph id="ca11" class="compartment">
+            <label text="SMC1">
+                <bbox y="1613.5" x="1121.5" h="12.0" w="32.0"/>
+            </label>
+            <bbox y="1570.0" x="1060.0" h="80.0" w="160.0"/>
+        </glyph>
+        <glyph id="ca17" class="compartment">
+            <label text="T Cell">
+                <bbox y="583.5" x="1236.5" h="12.0" w="48.0"/>
+            </label>
+            <bbox y="486.0" x="1180.0" h="134.0" w="151.0"/>
+        </glyph>
+        <glyph id="ca25" class="compartment">
+            <label text="Platelet">
+                <bbox y="563.5" x="864.5" h="12.0" w="64.0"/>
+            </label>
+            <bbox y="478.0" x="820.0" h="122.0" w="137.0"/>
+        </glyph>
+        <glyph id="ca26" class="compartment">
+            <label text="NAM1">
+                <bbox y="1593.5" x="110.0" h="12.0" w="32.0"/>
+            </label>
+            <bbox y="1530.0" x="30.0" h="100.0" w="200.0"/>
+        </glyph>
+        <glyph id="ca27" class="compartment">
+            <label text="TNK">
+                <bbox y="888.5" x="1134.5" h="12.0" w="24.0"/>
+            </label>
+            <bbox y="857.0" x="1102.0" h="68.0" w="93.0"/>
+        </glyph>
+        <glyph id="ca28" class="compartment">
+            <label text="T1">
+                <bbox y="914.75" x="1421.0" h="12.0" w="16.0"/>
+            </label>
+            <bbox y="888.75" x="1382.0" h="62.5" w="96.0"/>
+        </glyph>
+        <glyph id="ca29" class="compartment">
+            <label text="TFH">
+                <bbox y="943.0" x="986.5" h="12.0" w="24.0"/>
+            </label>
+            <bbox y="920.5" x="955.5" h="59.0" w="89.0"/>
+        </glyph>
+        <glyph id="ca30" class="compartment">
+            <label text="Th1">
+                <bbox y="1053.5" x="715.5" h="12.0" w="24.0"/>
+            </label>
+            <bbox y="1010.0" x="687.0" h="80.0" w="83.0"/>
+        </glyph>
+        <glyph id="ca31" class="compartment">
+            <label text="Th2">
+                <bbox y="1153.5" x="1247.0" h="12.0" w="24.0"/>
+            </label>
+            <bbox y="1130.0" x="1216.5" h="60.0" w="87.0"/>
+        </glyph>
+        <glyph id="ca32" class="compartment">
+            <label text="NTC">
+                <bbox y="923.5" x="1246.0" h="12.0" w="24.0"/>
+            </label>
+            <bbox y="880.0" x="1201.0" h="80.0" w="119.0"/>
+        </glyph>
+        <glyph id="ca33" class="compartment">
+            <label text="Th17">
+                <bbox y="1103.5" x="852.5" h="12.0" w="32.0"/>
+            </label>
+            <bbox y="1060.0" x="829.0" h="80.0" w="81.0"/>
+        </glyph>
+        <glyph id="ca34" class="compartment">
+            <label text="Dendritic Cell">
+                <bbox y="1296.0" x="1226.0" h="12.0" w="112.0"/>
+            </label>
+            <bbox y="1267.5" x="1210.0" h="65.0" w="120.0"/>
+        </glyph>
+        <glyph id="ca35" class="compartment">
+            <label text="B1 Cell">
+                <bbox y="1413.5" x="1197.5" h="12.0" w="56.0"/>
+            </label>
+            <bbox y="1370.0" x="1175.5" h="80.0" w="89.0"/>
+        </glyph>
+        <glyph id="ca36" class="compartment">
+            <label text="B2 Cell">
+                <bbox y="1362.5" x="1066.0" h="12.0" w="56.0"/>
+            </label>
+            <bbox y="1319.0" x="1047.0" h="80.0" w="83.0"/>
+        </glyph>
+        <glyph id="ca37" class="compartment">
+            <label text="Mast Cell">
+                <bbox y="1487.5" x="710.0" h="12.0" w="72.0"/>
+            </label>
+            <bbox y="1456.0" x="699.0" h="68.0" w="82.0"/>
+        </glyph>
+        <glyph id="ca38" class="compartment">
+            <label text="N1">
+                <bbox y="1680.5" x="479.5" h="12.0" w="16.0"/>
+            </label>
+            <bbox y="1645.0" x="440.0" h="72.0" w="99.0"/>
+        </glyph>
+        <glyph id="sa3" class="macromolecule">
+            <label text="HDL"/>
+            <bbox y="560.0" x="90.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa4" class="macromolecule">
+            <label text="LDL"/>
+            <bbox y="530.0" x="290.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa5" class="macromolecule">
+            <label text="HDL"/>
+            <bbox y="910.0" x="90.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa6" class="macromolecule">
+            <label text="LDL"/>
+            <bbox y="910.0" x="290.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa7" class="macromolecule">
+            <label text="Proteoglycans"/>
+            <bbox y="970.0" x="185.0" h="40.0" w="90.0"/>
+        </glyph>
+        <glyph id="sa8" class="macromolecule">
+            <label text="PB-LDL"/>
+            <bbox y="1030.0" x="290.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa9" class="macromolecule">
+            <label text="PB-HDL"/>
+            <bbox y="1030.0" x="90.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa10" class="macromolecule">
+            <label text="PLA2"/>
+            <bbox y="1180.0" x="190.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa11" class="simple chemical">
+            <label text="Free Oxygen Radicals"/>
+            <bbox y="1109.0" x="161.7525" h="42.0" w="136.495"/>
+        </glyph>
+        <glyph id="sa12" class="macromolecule">
+            <label text="Lipoxygenase"/>
+            <bbox y="1300.0" x="190.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa13" class="macromolecule">
+            <label text="SMAse"/>
+            <bbox y="1240.0" x="190.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa14" class="macromolecule">
+            <label text="oxHDL"/>
+            <bbox y="1340.0" x="90.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa15" class="macromolecule">
+            <label text="oxLDL"/>
+            <bbox y="1340.0" x="290.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa16" class="simple chemical">
+            <label text="Triglycerides"/>
+            <bbox y="350.0" x="169.5" h="40.0" w="101.0"/>
+        </glyph>
+        <glyph id="sa17" class="macromolecule">
+            <label text="IDL"/>
+            <bbox y="400.0" x="330.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa18" class="simple chemical">
+            <label text="Free Fatty Acids"/>
+            <bbox y="499.0" x="167.5" h="42.0" w="105.0"/>
+        </glyph>
+        <glyph id="sa19" class="macromolecule">
+            <label text="VLDL"/>
+            <bbox y="270.0" x="390.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa20" class="phenotype">
+            <label text="Endothelial Cell"/>
+            <bbox y="717.0" x="197.5" h="31.0" w="105.0"/>
+        </glyph>
+        <glyph id="sa21" class="macromolecule">
+            <label text="CCL2"/>
+            <bbox y="480.0" x="390.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa22" class="source and sink">
+            <label text="s4"/>
+            <bbox y="565.0" x="475.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa23" class="phenotype">
+            <label text="Monocyte"/>
+            <clone/>
+            <bbox y="475.0" x="520.0" h="30.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa24" class="source and sink">
+            <label text="s17"/>
+            <bbox y="385.0" x="625.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa25" class="phenotype">
+            <label text="Monocyte"/>
+            <clone/>
+            <bbox y="946.25" x="522.5" h="27.5" w="75.0"/>
+        </glyph>
+        <glyph id="sa26" class="phenotype">
+            <label text="Macrophage"/>
+            <bbox y="1447.5" x="486.0" h="26.0" w="90.0"/>
+        </glyph>
+        <glyph id="sa27" class="macromolecule">
+            <label text="MCSF"/>
+            <bbox y="1480.0" x="300.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa28" class="source and sink">
+            <label text="s20"/>
+            <bbox y="1485.0" x="215.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa29" class="phenotype">
+            <label text="Foam Cell"/>
+            <bbox y="1265.0" x="630.0" h="30.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa32" class="macromolecule">
+            <label text="ABCG1"/>
+            <bbox y="1310.0" x="585.0" h="40.0" w="50.0"/>
+        </glyph>
+        <glyph id="sa33" class="macromolecule">
+            <label text="ABCA1"/>
+            <bbox y="1311.5" x="644.5" h="37.0" w="51.0"/>
+        </glyph>
+        <glyph id="sa34" class="macromolecule">
+            <label text="IFN-Gamma"/>
+            <bbox y="1100.0" x="560.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa35" class="phenotype">
+            <label text="Smooth Muscle Cell"/>
+            <bbox y="1595.5" x="1076.5" h="29.0" w="127.0"/>
+        </glyph>
+        <glyph id="sa36" class="source and sink">
+            <label text="s28"/>
+            <bbox y="1585.0" x="915.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa37" class="phenotype">
+            <label text="Mast Cell"/>
+            <bbox y="1479.0" x="701.0" h="25.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa38" class="phenotype">
+            <label text="Dendritic Cell"/>
+            <bbox y="1290.25" x="1210.0" h="24.5" w="120.0"/>
+        </glyph>
+        <glyph id="sa39" class="phenotype">
+            <label text="Neutrophil"/>
+            <bbox y="1667.0" x="451.0" h="30.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa40" class="phenotype">
+            <label text="B1 Cell"/>
+            <bbox y="1394.0" x="1181.5" h="30.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa41" class="phenotype">
+            <label text="B2 Cell"/>
+            <bbox y="1345.0" x="1046.0" h="30.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa42" class="phenotype">
+            <label text="T Cell"/>
+            <bbox y="535.0" x="1220.0" h="30.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa43" class="phenotype">
+            <label text="naive T Cell"/>
+            <bbox y="905.0" x="1220.0" h="30.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa44" class="phenotype">
+            <label text="Th1"/>
+            <bbox y="1035.0" x="697.5" h="30.0" w="65.0"/>
+        </glyph>
+        <glyph id="sa45" class="phenotype">
+            <label text="Th2"/>
+            <bbox y="1144.0" x="1220.5" h="30.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa46" class="phenotype">
+            <label text="Th17"/>
+            <bbox y="1087.5" x="835.0" h="25.0" w="70.0"/>
+        </glyph>
+        <glyph id="sa47" class="phenotype">
+            <label text="TFH"/>
+            <bbox y="934.5" x="960.0" h="35.5" w="80.0"/>
+        </glyph>
+        <glyph id="sa48" class="phenotype">
+            <label text="Treg"/>
+            <bbox y="910.0" x="1400.0" h="20.0" w="60.0"/>
+        </glyph>
+        <glyph id="sa49" class="phenotype">
+            <label text="TNK"/>
+            <bbox y="878.0" x="1110.0" h="30.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa50" class="macromolecule">
+            <label text="IL-1"/>
+            <bbox y="1130.0" x="1065.0" h="40.0" w="50.0"/>
+        </glyph>
+        <glyph id="sa51" class="macromolecule">
+            <label text="IL-2"/>
+            <bbox y="1330.0" x="1145.0" h="40.0" w="50.0"/>
+        </glyph>
+        <glyph id="sa52" class="macromolecule">
+            <label text="IL-4"/>
+            <bbox y="1055.0" x="1147.5" h="30.0" w="45.0"/>
+        </glyph>
+        <glyph id="sa53" class="macromolecule">
+            <label text="IL-5"/>
+            <bbox y="1201.0" x="1252.75" h="40.0" w="50.0"/>
+        </glyph>
+        <glyph id="sa54" class="macromolecule">
+            <label text="IL-6"/>
+            <bbox y="1495.0" x="1187.5" h="30.0" w="45.0"/>
+        </glyph>
+        <glyph id="sa55" class="macromolecule">
+            <label text="IL-10"/>
+            <bbox y="990.0" x="1365.0" h="40.0" w="50.0"/>
+        </glyph>
+        <glyph id="sa56" class="macromolecule">
+            <label text="IL-17"/>
+            <bbox y="930.0" x="895.0" h="40.0" w="50.0"/>
+        </glyph>
+        <glyph id="sa57" class="macromolecule">
+            <label text="IL-12"/>
+            <bbox y="1070.0" x="1015.0" h="40.0" w="50.0"/>
+        </glyph>
+        <glyph id="sa58" class="macromolecule">
+            <label text="IL-18"/>
+            <bbox y="970.0" x="815.0" h="40.0" w="50.0"/>
+        </glyph>
+        <glyph id="sa59" class="macromolecule">
+            <label text="IL-21"/>
+            <bbox y="860.0" x="935.0" h="40.0" w="50.0"/>
+        </glyph>
+        <glyph id="sa60" class="macromolecule">
+            <label text="IL-33"/>
+            <bbox y="860.0" x="735.0" h="40.0" w="50.0"/>
+        </glyph>
+        <glyph id="sa61" class="macromolecule">
+            <label text="TNF"/>
+            <bbox y="1145.0" x="925.0" h="30.0" w="70.0"/>
+        </glyph>
+        <glyph id="sa62" class="macromolecule">
+            <label text="Chymase"/>
+            <bbox y="1600.0" x="450.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa63" class="macromolecule">
+            <label text="Tryptase"/>
+            <bbox y="1600.0" x="800.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa64" class="macromolecule">
+            <label text="MMP13"/>
+            <bbox y="1930.0" x="800.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa65" class="macromolecule">
+            <label text="MMP9"/>
+            <bbox y="1870.0" x="800.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa66" class="macromolecule">
+            <label text="TIMP3"/>
+            <bbox y="1930.0" x="240.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa67" class="macromolecule">
+            <label text="TIMP4"/>
+            <bbox y="1810.0" x="240.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa69" class="macromolecule">
+            <label text="MMP3"/>
+            <bbox y="1810.0" x="800.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa70" class="macromolecule">
+            <label text="TIMP2"/>
+            <bbox y="1870.0" x="240.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa71" class="macromolecule">
+            <label text="TIMP1"/>
+            <bbox y="1750.0" x="240.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa72" class="macromolecule">
+            <label text="MMP1"/>
+            <bbox y="1690.0" x="800.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa73" class="macromolecule">
+            <label text="PDGF"/>
+            <bbox y="1360.0" x="930.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa74" class="macromolecule">
+            <label text="CCL2"/>
+            <bbox y="1240.0" x="390.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa75" class="macromolecule">
+            <label text="TGF-Beta"/>
+            <bbox y="1150.0" x="1315.0" h="40.0" w="70.0"/>
+        </glyph>
+        <glyph id="sa76" class="macromolecule">
+            <label text="EGF"/>
+            <bbox y="1760.0" x="1200.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa77" class="macromolecule">
+            <label text="Elastin"/>
+            <bbox y="1710.0" x="1040.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa78" class="macromolecule">
+            <label text="Collagen"/>
+            <bbox y="1850.0" x="1330.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa79" class="source and sink">
+            <label text="s26"/>
+            <bbox y="155.0" x="315.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa80" class="simple chemical">
+            <label text="Bile Acids"/>
+            <bbox y="67.5" x="165.0" h="25.0" w="70.0"/>
+        </glyph>
+        <glyph id="sa82" class="source and sink">
+            <label text="s25"/>
+            <bbox y="35.0" x="415.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa83" class="macromolecule">
+            <label text="CL-HDL"/>
+            <bbox y="150.0" x="30.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa84" class="macromolecule">
+            <label text="Empty HDL"/>
+            <bbox y="150.0" x="170.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa85" class="simple chemical">
+            <label text="Cholesterol"/>
+            <bbox y="97.5" x="509.0" h="65.0" w="162.0"/>
+        </glyph>
+        <glyph id="sa86" class="macromolecule">
+            <label text="VLDL"/>
+            <bbox y="150.0" x="390.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa87" class="macromolecule">
+            <label text="Cholesterol"/>
+            <bbox y="130.0" x="870.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa88" class="macromolecule">
+            <label text="Chylomicron"/>
+            <bbox y="70.0" x="760.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa89" class="source and sink">
+            <label text="NullChylo"/>
+            <bbox y="75.0" x="925.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa90" class="macromolecule">
+            <label text="Remnant Chylomicrons"/>
+            <bbox y="270.0" x="521.0" h="40.0" w="138.0"/>
+        </glyph>
+        <glyph id="sa91" class="macromolecule">
+            <label text="Lipoprotein Lipase"/>
+            <bbox y="318.5" x="635.0" h="43.0" w="110.0"/>
+        </glyph>
+        <glyph id="sa92" class="macromolecule">
+            <label text="Chylomicron"/>
+            <bbox y="270.0" x="760.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa93" class="phenotype">
+            <label text="Platelet"/>
+            <bbox y="525.0" x="850.0" h="30.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa99" class="macromolecule">
+            <label text="CXCL11"/>
+            <bbox y="340.0" x="1090.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa100" class="macromolecule">
+            <label text="CXCL10"/>
+            <bbox y="420.0" x="1090.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa101" class="macromolecule">
+            <label text="CXCL9"/>
+            <bbox y="260.0" x="1090.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa102" class="macromolecule">
+            <label text="IL-1Beta"/>
+            <bbox y="590.0" x="930.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa103" class="source and sink">
+            <label text="s125"/>
+            <bbox y="345.0" x="955.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa104" class="source and sink">
+            <label text="s88"/>
+            <bbox y="535.0" x="1395.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa105" class="macromolecule">
+            <label text="CL-HDL"/>
+            <bbox y="1430.0" x="30.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa106" class="source and sink">
+            <label text="s90"/>
+            <bbox y="1715.0" x="1355.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa107" class="source and sink">
+            <label text="s91"/>
+            <bbox y="1035.0" x="645.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa108" class="source and sink">
+            <label text="s92"/>
+            <bbox y="555.0" x="395.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa109" class="phenotype">
+            <label text="Non-activated Macrophage"/>
+            <bbox y="1564.5" x="40.0" h="35.5" w="180.0"/>
+        </glyph>
+        <glyph id="sa110" class="source and sink">
+            <label text="s94"/>
+            <bbox y="1185.0" x="605.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa111" class="source and sink">
+            <label text="s95"/>
+            <bbox y="1485.0" x="425.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa112" class="source and sink">
+            <label text="s96"/>
+            <bbox y="1175.0" x="395.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa113" class="source and sink">
+            <label text="s97"/>
+            <bbox y="345.0" x="1305.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa114" class="source and sink">
+            <label text="s103"/>
+            <bbox y="1205.0" x="1155.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa115" class="source and sink">
+            <label text="s104"/>
+            <bbox y="1455.0" x="1025.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa116" class="source and sink">
+            <label text="s105"/>
+            <bbox y="865.0" x="825.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa121" class="source and sink">
+            <label text="s110"/>
+            <bbox y="1744.5" x="426.0" h="31.0" w="88.0"/>
+        </glyph>
+        <glyph id="sa122" class="source and sink">
+            <label text="s111"/>
+            <bbox y="1842.0" x="75.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa123" class="source and sink">
+            <label text="s112"/>
+            <bbox y="1840.0" x="376.0" h="35.0" w="63.0"/>
+        </glyph>
+        <glyph id="sa124" class="source and sink">
+            <label text="s113"/>
+            <bbox y="1535.0" x="825.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa125" class="source and sink">
+            <label text="s114"/>
+            <bbox y="1855.0" x="1065.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa126" class="source and sink">
+            <label text="s115"/>
+            <bbox y="1595.0" x="1315.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa127" class="source and sink">
+            <label text="s116"/>
+            <bbox y="595.0" x="1115.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa117" class="macromolecule">
+            <label text="CCL5"/>
+            <bbox y="490.0" x="1090.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa128" class="source and sink">
+            <label text="s117"/>
+            <bbox y="1139.5" x="764.5" h="41.0" w="31.0"/>
+        </glyph>
+        <glyph id="sa129" class="source and sink">
+            <label text="s118"/>
+            <bbox y="1065.0" x="945.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa130" class="macromolecule">
+            <label text="TACE"/>
+            <bbox y="1200.0" x="920.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa133" class="macromolecule">
+            <label text="MMP2"/>
+            <bbox y="1750.0" x="800.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="sa134" class="source and sink">
+            <label text="s127"/>
+            <bbox y="1165.0" x="655.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa135" class="source and sink">
+            <label text="s128"/>
+            <bbox y="1065.0" x="1355.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa136" class="source and sink">
+            <label text="s129"/>
+            <bbox y="1605.0" x="685.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa137" class="source and sink">
+            <label text="s130"/>
+            <bbox y="1675.0" x="115.0" h="30.0" w="30.0"/>
+        </glyph>
+        <glyph id="sa143" class="source and sink">
+            <label text="sa49_degraded"/>
+            <bbox y="835.0" x="1075.0" h="30.0" w="30.0"/>
+        </glyph>
+        <arc target="pnre1.R" source="sa3" id="re1-react0" class="consumption">
+            <start y="600.0" x="130.0"/>
+            <end y="755.0" x="135.0"/>
+        </arc>
+        <arc target="sa5" source="pnre1.L" id="re1-product0" class="production">
+            <start y="755.0" x="125.0"/>
+            <end y="910.0" x="130.0"/>
+        </arc>
+        <arc target="pnre2.R" source="sa4" id="re2-react0" class="consumption">
+            <start y="570.0" x="330.0"/>
+            <end y="740.0" x="335.0"/>
+        </arc>
+        <arc target="sa6" source="pnre2.L" id="re2-product0" class="production">
+            <start y="740.0" x="325.0"/>
+            <end y="910.0" x="330.0"/>
+        </arc>
+        <arc target="pnre3.R" source="sa5" id="re3-react0" class="consumption">
+            <start y="950.0" x="130.0"/>
+            <end y="990.0" x="135.0"/>
+        </arc>
+        <arc target="sa9" source="pnre3.L" id="re3-product0" class="production">
+            <start y="990.0" x="125.0"/>
+            <end y="1030.0" x="130.0"/>
+        </arc>
+        <arc target="pnre3" source="sa7" id="re3-mod0" class="catalysis">
+            <start y="990.0" x="185.0"/>
+            <end y="990.0" x="135.01"/>
+        </arc>
+        <arc target="pnre4.R" source="sa6" id="re4-react0" class="consumption">
+            <start y="950.0" x="330.0"/>
+            <end y="990.0" x="335.0"/>
+        </arc>
+        <arc target="sa8" source="pnre4.L" id="re4-product0" class="production">
+            <start y="990.0" x="325.0"/>
+            <end y="1030.0" x="330.0"/>
+        </arc>
+        <arc target="pnre4" source="sa7" id="re4-mod0" class="catalysis">
+            <start y="990.0" x="275.0"/>
+            <end y="990.0" x="324.99"/>
+        </arc>
+        <arc target="pnre5.R" source="sa9" id="re5-react0" class="consumption">
+            <start y="1070.0" x="130.0"/>
+            <next y="1140.5" x="130.0"/>
+            <end y="1240.2" x="135.0"/>
+        </arc>
+        <arc target="sa14" source="pnre5.L" id="re5-product0" class="production">
+            <start y="1240.2" x="125.0"/>
+            <end y="1340.0" x="130.0"/>
+        </arc>
+        <arc target="pnre5.R" source="sa11" id="re5-react1" class="consumption">
+            <start y="1130.0" x="161.7525"/>
+            <next y="1140.5" x="130.0"/>
+            <end y="1240.2" x="135.0"/>
+        </arc>
+        <arc target="pnre5" source="sa10" id="re5-mod0" class="catalysis">
+            <start y="1200.0" x="190.0"/>
+            <end y="1235.24" x="135.01"/>
+        </arc>
+        <arc target="pnre5" source="sa13" id="re5-mod1" class="catalysis">
+            <start y="1260.0" x="190.0"/>
+            <end y="1240.25" x="135.01"/>
+        </arc>
+        <arc target="pnre5" source="sa12" id="re5-mod2" class="catalysis">
+            <start y="1320.0" x="190.0"/>
+            <end y="1245.26" x="135.01"/>
+        </arc>
+        <arc target="pnre6.R" source="sa8" id="re6-react0" class="consumption">
+            <start y="1070.0" x="330.0"/>
+            <next y="1140.5" x="330.0"/>
+            <end y="1240.2" x="335.0"/>
+        </arc>
+        <arc target="sa15" source="pnre6.L" id="re6-product0" class="production">
+            <start y="1240.2" x="325.0"/>
+            <end y="1340.0" x="330.0"/>
+        </arc>
+        <arc target="pnre6.R" source="sa11" id="re6-react1" class="consumption">
+            <start y="1130.0" x="298.2475"/>
+            <next y="1140.5" x="330.0"/>
+            <end y="1240.2" x="335.0"/>
+        </arc>
+        <arc target="pnre6" source="sa12" id="re6-mod0" class="catalysis">
+            <start y="1320.0" x="270.0"/>
+            <end y="1245.26" x="324.99"/>
+        </arc>
+        <arc target="pnre6" source="sa13" id="re6-mod1" class="catalysis">
+            <start y="1250.0" x="270.0"/>
+            <end y="1240.25" x="324.99"/>
+        </arc>
+        <arc target="pnre6" source="sa10" id="re6-mod2" class="catalysis">
+            <start y="1200.0" x="270.0"/>
+            <end y="1235.24" x="324.99"/>
+        </arc>
+        <arc target="pnre7.R" source="sa19" id="re7-react0" class="consumption">
+            <start y="280.0" x="390.0"/>
+            <next y="280.0" x="350.0"/>
+            <end y="340.0" x="355.0"/>
+        </arc>
+        <arc target="sa17" source="pnre7.L" id="re7-product0" class="production">
+            <start y="340.0" x="345.0"/>
+            <end y="400.0" x="350.0"/>
+        </arc>
+        <arc target="sa16" source="pnre7.L" id="re7-addProduct1" class="production">
+            <start y="340.0" x="345.0"/>
+            <end y="377.65366" x="266.6559"/>
+        </arc>
+        <arc target="sa18" source="pnre7.L" id="re7-addProduct2" class="production">
+            <start y="340.0" x="345.0"/>
+            <end y="499.0" x="220.0"/>
+        </arc>
+        <arc target="pnre7" source="sa91" id="re7-mod0" class="catalysis">
+            <start y="340.0" x="690.0"/>
+            <end y="340.0" x="355.01"/>
+        </arc>
+        <arc target="pnre8.R" source="sa17" id="re8-react0" class="consumption">
+            <start y="440.0" x="350.0"/>
+            <end y="470.0" x="355.0"/>
+        </arc>
+        <arc target="sa4" source="pnre8.L" id="re8-product0" class="production">
+            <start y="470.0" x="345.0"/>
+            <next y="500.0" x="350.0"/>
+            <end y="530.0" x="350.0"/>
+        </arc>
+        <arc target="sa16" source="pnre8.L" id="re8-addProduct1" class="production">
+            <start y="470.0" x="345.0"/>
+            <end y="390.0" x="220.0"/>
+        </arc>
+        <arc target="sa18" source="pnre8.L" id="re8-addProduct2" class="production">
+            <start y="470.0" x="345.0"/>
+            <end y="520.0" x="272.5"/>
+        </arc>
+        <arc target="pnre8" source="sa91" id="re8-mod0" class="catalysis">
+            <start y="340.0" x="690.0"/>
+            <end y="470.0" x="355.01"/>
+        </arc>
+        <arc target="pnre9.L" source="sa22" id="re9-react0" class="consumption">
+            <start y="580.0" x="490.0"/>
+            <end y="559.1" x="470.4"/>
+        </arc>
+        <arc target="sa21" source="pnre9.R" id="re9-product0" class="production">
+            <start y="559.1" x="480.4"/>
+            <next y="550.0" x="470.0"/>
+            <end y="520.0" x="450.0"/>
+        </arc>
+        <arc target="pnre9" source="sa20" id="re9-mod0" class="catalysis">
+            <start y="732.5" x="250.0"/>
+            <end y="559.6105" x="470.3857"/>
+        </arc>
+        <arc target="pnre9" source="sa15" id="re9-mod1" class="catalysis">
+            <start y="1340.0" x="350.0"/>
+            <next y="1120.0" x="350.0"/>
+            <next y="1120.0" x="480.0"/>
+            <end y="567.94763" x="475.94382"/>
+        </arc>
+        <arc target="pnre9" source="sa102" id="re9-mod2" class="catalysis">
+            <start y="610.0" x="930.0"/>
+            <next y="610.0" x="690.0"/>
+            <next y="560.0" x="690.0"/>
+            <end y="562.3895" x="484.28094"/>
+        </arc>
+        <arc target="pnre10.L" source="sa24" id="re10-react0" class="consumption">
+            <start y="400.0" x="640.0"/>
+            <end y="428.7" x="605.6"/>
+        </arc>
+        <arc target="sa23" source="pnre10.R" id="re10-product0" class="production">
+            <start y="428.7" x="615.6"/>
+            <next y="454.49655" x="591.5586"/>
+            <end y="490.0" x="560.0"/>
+        </arc>
+        <arc target="pnre10" source="sa21" id="re10-mod0" class="catalysis">
+            <start y="481.0" x="469.0"/>
+            <next y="430.0" x="510.0"/>
+            <end y="431.16434" x="605.5952"/>
+        </arc>
+        <arc target="pnre11.R" source="sa23" id="re11-react0" class="consumption">
+            <start y="505.0" x="560.0"/>
+            <end y="732.5" x="565.0"/>
+        </arc>
+        <arc target="sa25" source="pnre11.L" id="re11-product0" class="production">
+            <start y="732.5" x="555.0"/>
+            <end y="960.0" x="560.0"/>
+        </arc>
+        <arc target="pnre12.L" source="sa25" id="re12-react0" class="consumption">
+            <start y="973.0" x="559.5"/>
+            <next y="1040.0" x="560.0"/>
+            <next y="1040.0" x="530.0"/>
+            <end y="1243.7" x="525.5"/>
+        </arc>
+        <arc target="sa26" source="pnre12.R" id="re12-product0" class="production">
+            <start y="1243.7" x="535.5"/>
+            <end y="1460.5" x="531.0"/>
+        </arc>
+        <arc target="pnre12" source="sa27" id="re12-mod0" class="catalysis">
+            <start y="1481.0" x="379.0"/>
+            <end y="1248.7719" x="525.48645"/>
+        </arc>
+        <arc target="pnre13.L" source="sa28" id="re13-react0" class="consumption">
+            <start y="1500.0" x="230.0"/>
+            <end y="1500.0" x="280.0"/>
+        </arc>
+        <arc target="sa27" source="pnre13.R" id="re13-product0" class="production">
+            <start y="1500.0" x="290.0"/>
+            <end y="1500.0" x="340.0"/>
+        </arc>
+        <arc target="pnre13" source="sa26" id="re13-mod0" class="catalysis">
+            <start y="1460.5" x="531.0"/>
+            <next y="1561.1053" x="391.46707"/>
+            <next y="1560.0" x="300.0"/>
+            <end y="1505.01" x="274.51"/>
+        </arc>
+        <arc target="pnre14.L" source="sa15" id="re14-react0" class="consumption">
+            <start y="1360.0" x="330.0"/>
+            <next y="1310.0" x="550.0"/>
+            <end y="1297.9" x="587.9"/>
+        </arc>
+        <arc target="sa29" source="pnre14.R" id="re14-product0" class="production">
+            <start y="1297.9" x="597.9"/>
+            <end y="1290.0" x="630.0"/>
+        </arc>
+        <arc target="pnre14.L" source="sa26" id="re14-react1" class="consumption">
+            <start y="1447.0" x="547.0"/>
+            <next y="1310.0" x="550.0"/>
+            <end y="1297.9" x="587.9"/>
+        </arc>
+        <arc target="pnre14" source="sa34" id="re14-mod0" class="catalysis">
+            <start y="1140.0" x="600.0"/>
+            <end y="1292.9244" x="597.6453"/>
+        </arc>
+        <arc target="pnre15.L" source="sa36" id="re15-react0" class="consumption">
+            <start y="1600.0" x="930.0"/>
+            <end y="1601.1" x="1001.6"/>
+        </arc>
+        <arc target="sa35" source="pnre15.R" id="re15-product0" class="production">
+            <start y="1601.1" x="1011.6"/>
+            <end y="1602.25" x="1083.25"/>
+        </arc>
+        <arc target="pnre15" source="sa73" id="re15-mod0" class="catalysis">
+            <start y="1400.0" x="970.0"/>
+            <end y="1596.3297" x="1011.18823"/>
+        </arc>
+        <arc target="pnre15" source="sa74" id="re15-mod1" class="catalysis">
+            <start y="1260.0" x="430.0"/>
+            <next y="1360.0" x="480.0"/>
+            <next y="1440.0" x="770.0"/>
+            <end y="1596.2665" x="1006.17865"/>
+        </arc>
+        <arc target="pnre16.R" source="sa42" id="re16-react0" class="consumption">
+            <start y="550.0" x="1260.0"/>
+            <end y="735.0" x="1265.0"/>
+        </arc>
+        <arc target="sa43" source="pnre16.L" id="re16-product0" class="production">
+            <start y="735.0" x="1255.0"/>
+            <end y="920.0" x="1260.0"/>
+        </arc>
+        <arc target="pnre20.R" source="sa82" id="re20-react0" class="consumption">
+            <start y="60.0" x="430.0"/>
+            <end y="105.0" x="435.0"/>
+        </arc>
+        <arc target="sa86" source="pnre20.L" id="re20-product0" class="production">
+            <start y="105.0" x="425.0"/>
+            <end y="150.0" x="430.0"/>
+        </arc>
+        <arc target="pnre20" source="sa85" id="re20-mod0" class="catalysis">
+            <start y="130.0" x="509.0"/>
+            <end y="105.0" x="435.01"/>
+        </arc>
+        <arc target="pnre21.R" source="sa79" id="re21-react0" class="consumption">
+            <start y="170.0" x="320.0"/>
+            <end y="170.0" x="290.0"/>
+        </arc>
+        <arc target="sa84" source="pnre21.L" id="re21-product0" class="production">
+            <start y="170.0" x="280.0"/>
+            <end y="170.0" x="250.0"/>
+        </arc>
+        <arc target="pnre22.L" source="sa83" id="re22-react0" class="consumption">
+            <start y="170.0" x="110.0"/>
+            <end y="170.0" x="135.0"/>
+        </arc>
+        <arc target="sa84" source="pnre22.R" id="re22-product0" class="production">
+            <start y="170.0" x="145.0"/>
+            <end y="170.0" x="170.0"/>
+        </arc>
+        <arc target="sa80" source="pnre22.R" id="re22-addProduct1" class="production">
+            <start y="170.0" x="145.0"/>
+            <end y="92.5" x="200.0"/>
+        </arc>
+        <arc target="pnre23.R" source="sa89" id="re23-react0" class="consumption">
+            <start y="90.0" x="930.0"/>
+            <end y="90.0" x="890.0"/>
+        </arc>
+        <arc target="sa88" source="pnre23.L" id="re23-product0" class="production">
+            <start y="90.0" x="880.0"/>
+            <end y="90.0" x="840.0"/>
+        </arc>
+        <arc target="pnre23" source="sa87" id="re23-mod0" class="catalysis">
+            <start y="130.0" x="910.0"/>
+            <end y="95.01" x="885.0"/>
+        </arc>
+        <arc target="pnre24.R" source="sa92" id="re24-react0" class="consumption">
+            <start y="290.0" x="760.0"/>
+            <end y="290.0" x="714.5"/>
+        </arc>
+        <arc target="sa90" source="pnre24.L" id="re24-product0" class="production">
+            <start y="290.0" x="704.5"/>
+            <end y="290.0" x="659.0"/>
+        </arc>
+        <arc target="pnre24" source="sa91" id="re24-mod0" class="catalysis">
+            <start y="318.5" x="690.0"/>
+            <end y="295.01" x="709.5"/>
+        </arc>
+        <arc target="pnre25.R" source="sa88" id="re25-react0" class="consumption">
+            <start y="90.0" x="800.0"/>
+            <end y="190.0" x="805.0"/>
+        </arc>
+        <arc target="sa92" source="pnre25.L" id="re25-product0" class="production">
+            <start y="190.0" x="795.0"/>
+            <end y="290.0" x="800.0"/>
+        </arc>
+        <arc target="pnre26.R" source="sa90" id="re26-react0" class="consumption">
+            <start y="290.0" x="590.0"/>
+            <end y="210.0" x="595.0"/>
+        </arc>
+        <arc target="sa85" source="pnre26.L" id="re26-product0" class="production">
+            <start y="210.0" x="585.0"/>
+            <end y="130.0" x="590.0"/>
+        </arc>
+        <arc target="pnre27.R" source="sa86" id="re27-react0" class="consumption">
+            <start y="170.0" x="430.0"/>
+            <end y="220.0" x="435.0"/>
+        </arc>
+        <arc target="sa19" source="pnre27.L" id="re27-product0" class="production">
+            <start y="220.0" x="425.0"/>
+            <end y="270.0" x="430.0"/>
+        </arc>
+        <arc target="pnre32.L" source="sa103" id="re32-react0" class="consumption">
+            <start y="360.0" x="970.0"/>
+            <next y="280.0" x="970.0"/>
+            <end y="280.0" x="1025.0"/>
+        </arc>
+        <arc target="sa101" source="pnre32.R" id="re32-product0" class="production">
+            <start y="280.0" x="1035.0"/>
+            <end y="280.0" x="1090.0"/>
+        </arc>
+        <arc target="pnre32" source="sa20" id="re32-mod0" class="catalysis">
+            <start y="732.5" x="302.0"/>
+            <end y="410.0" x="840.0"/>
+        </arc>
+        <arc target="pnre32" source="sa34" id="re32-mod1" class="catalysis">
+            <start y="1120.0" x="600.0"/>
+            <end y="410.0" x="840.0"/>
+        </arc>
+        <arc target="pnre33.L" source="sa103" id="re33-react0" class="consumption">
+            <start y="360.0" x="970.0"/>
+            <next y="440.0" x="970.0"/>
+            <end y="440.0" x="1025.0"/>
+        </arc>
+        <arc target="sa100" source="pnre33.R" id="re33-product0" class="production">
+            <start y="440.0" x="1035.0"/>
+            <end y="440.0" x="1090.0"/>
+        </arc>
+        <arc target="pnre33" source="sa20" id="re33-mod0" class="catalysis">
+            <start y="732.5" x="302.0"/>
+            <end y="470.0" x="850.0"/>
+        </arc>
+        <arc target="pnre33" source="sa34" id="re33-mod1" class="catalysis">
+            <start y="1120.0" x="600.0"/>
+            <end y="470.0" x="850.0"/>
+        </arc>
+        <arc target="pnre34.L" source="sa103" id="re34-react0" class="consumption">
+            <start y="360.0" x="970.0"/>
+            <end y="360.0" x="1025.0"/>
+        </arc>
+        <arc target="sa99" source="pnre34.R" id="re34-product0" class="production">
+            <start y="360.0" x="1035.0"/>
+            <end y="360.0" x="1090.0"/>
+        </arc>
+        <arc target="pnre34" source="sa20" id="re34-mod0" class="catalysis">
+            <start y="732.5" x="302.0"/>
+            <end y="430.0" x="850.0"/>
+        </arc>
+        <arc target="pnre34" source="sa34" id="re34-mod1" class="catalysis">
+            <start y="1120.0" x="600.0"/>
+            <end y="430.0" x="850.0"/>
+        </arc>
+        <arc target="pnre35.R" source="sa103" id="re35-react0" class="consumption">
+            <start y="360.0" x="970.0"/>
+            <next y="490.0" x="970.0"/>
+            <end y="540.0" x="975.0"/>
+        </arc>
+        <arc target="sa102" source="pnre35.L" id="re35-product0" class="production">
+            <start y="540.0" x="965.0"/>
+            <end y="610.0" x="970.0"/>
+        </arc>
+        <arc target="pnre35" source="sa93" id="re35-mod0" class="catalysis">
+            <start y="540.0" x="890.0"/>
+            <end y="540.0" x="964.99"/>
+        </arc>
+        <arc target="pnre36.R" source="sa104" id="re36-react0" class="consumption">
+            <start y="550.0" x="1410.0"/>
+            <end y="550.0" x="1360.0"/>
+        </arc>
+        <arc target="sa42" source="pnre36.L" id="re36-product0" class="production">
+            <start y="550.0" x="1350.0"/>
+            <end y="550.0" x="1300.0"/>
+        </arc>
+        <arc target="pnre36" source="sa101" id="re36-mod0" class="catalysis">
+            <start y="290.0" x="1170.0"/>
+            <next y="380.0" x="1290.0"/>
+            <end y="544.99" x="1355.51"/>
+        </arc>
+        <arc target="pnre36" source="sa100" id="re36-mod1" class="catalysis">
+            <start y="450.0" x="1170.0"/>
+            <next y="450.0" x="1250.0"/>
+            <end y="544.99" x="1345.49"/>
+        </arc>
+        <arc target="pnre36" source="sa99" id="re36-mod2" class="catalysis">
+            <start y="370.0" x="1170.0"/>
+            <next y="410.0" x="1260.0"/>
+            <end y="544.99" x="1350.5"/>
+        </arc>
+        <arc target="pnre36" source="sa117" id="re36-mod3" class="catalysis">
+            <start y="510.0" x="1170.0"/>
+            <next y="510.0" x="1260.0"/>
+            <end y="544.99" x="1345.49"/>
+        </arc>
+        <arc target="pnre37.R" source="sa29" id="re37-react0" class="consumption">
+            <start y="1295.0" x="695.0"/>
+            <next y="1370.0" x="720.0"/>
+            <next y="1450.0" x="260.0"/>
+            <end y="1450.0" x="189.5"/>
+        </arc>
+        <arc target="sa105" source="pnre37.L" id="re37-product0" class="production">
+            <start y="1450.0" x="179.5"/>
+            <end y="1450.0" x="110.0"/>
+        </arc>
+        <arc target="pnre37.R" source="sa9" id="re37-react1" class="consumption">
+            <start y="1070.0" x="130.0"/>
+            <next y="1140.0" x="80.0"/>
+            <next y="1410.0" x="80.0"/>
+            <next y="1450.0" x="260.0"/>
+            <end y="1450.0" x="189.5"/>
+        </arc>
+        <arc target="sa109" source="pnre37.L" id="re37-addProduct1" class="production">
+            <start y="1450.0" x="179.5"/>
+            <end y="1564.0" x="130.0"/>
+        </arc>
+        <arc target="pnre37" source="sa32" id="re37-mod0" class="catalysis">
+            <start y="1346.0" x="597.5"/>
+            <end y="1444.99" x="184.5"/>
+        </arc>
+        <arc target="pnre37" source="sa33" id="re37-mod1" class="catalysis">
+            <start y="1344.3" x="656.75"/>
+            <next y="1390.0" x="510.0"/>
+            <end y="1455.01" x="184.5"/>
+        </arc>
+        <arc target="pnre38.R" source="sa105" id="re38-react0" class="consumption">
+            <start y="1450.0" x="70.0"/>
+            <end y="1085.0" x="75.0"/>
+        </arc>
+        <arc target="sa83" source="pnre38.L" id="re38-product0" class="production">
+            <start y="1085.0" x="65.0"/>
+            <next y="740.0" x="70.0"/>
+            <end y="170.0" x="70.0"/>
+        </arc>
+        <arc target="pnre39.L" source="sa84" id="re39-react0" class="consumption">
+            <start y="170.0" x="210.0"/>
+            <next y="280.0" x="210.0"/>
+            <end y="280.0" x="165.0"/>
+        </arc>
+        <arc target="sa3" source="pnre39.R" id="re39-product0" class="production">
+            <start y="280.0" x="175.0"/>
+            <next y="280.0" x="130.0"/>
+            <end y="580.0" x="130.0"/>
+        </arc>
+        <arc target="pnre40.R" source="sa43" id="re40-react0" class="consumption">
+            <start y="935.0" x="1235.0"/>
+            <end y="992.5" x="987.5"/>
+        </arc>
+        <arc target="sa44" source="pnre40.L" id="re40-product0" class="production">
+            <start y="992.5" x="977.5"/>
+            <end y="1050.0" x="730.0"/>
+        </arc>
+        <arc target="pnre40" source="sa57" id="re40-mod0" class="catalysis">
+            <start y="1070.0" x="1040.0"/>
+            <end y="993.21173" x="1000.9941"/>
+        </arc>
+        <arc target="pnre40" source="sa58" id="re40-mod1" class="catalysis">
+            <start y="990.0" x="840.0"/>
+            <end y="985.65625" x="989.0059"/>
+        </arc>
+        <arc target="pnre41.R" source="sa43" id="re41-react0" class="consumption">
+            <start y="935.0" x="1260.0"/>
+            <end y="1039.5" x="1265.0"/>
+        </arc>
+        <arc target="sa45" source="pnre41.L" id="re41-product0" class="production">
+            <start y="1039.5" x="1255.0"/>
+            <end y="1144.0" x="1260.0"/>
+        </arc>
+        <arc target="pnre41" source="sa52" id="re41-mod0" class="catalysis">
+            <start y="1070.0" x="1170.25"/>
+            <end y="1044.51" x="1254.99"/>
+        </arc>
+        <arc target="pnre41" source="sa55" id="re41-mod1" class="catalysis">
+            <start y="1010.0" x="1415.0"/>
+            <next y="1010.0" x="1420.0"/>
+            <next y="1045.9517" x="1420.0"/>
+            <end y="1044.51" x="1265.01"/>
+        </arc>
+        <arc target="pnre42.L" source="sa43" id="re42-react0" class="consumption">
+            <start y="935.0" x="1247.5"/>
+            <next y="962.546" x="1184.2378"/>
+            <end y="992.7" x="1104.7"/>
+        </arc>
+        <arc target="sa46" source="pnre42.R" id="re42-product0" class="production">
+            <start y="992.7" x="1114.7"/>
+            <next y="1026.027" x="1038.4471"/>
+            <end y="1100.0" x="870.0"/>
+        </arc>
+        <arc target="pnre42" source="sa50" id="re42-mod0" class="catalysis">
+            <start y="1150.0" x="1090.0"/>
+            <end y="1000.88007" x="1108.7491"/>
+        </arc>
+        <arc target="pnre42" source="sa55" id="re42-mod1" class="catalysis">
+            <start y="1000.0" x="1365.0"/>
+            <end y="996.8799" x="1117.936"/>
+        </arc>
+        <arc target="pnre42" source="sa75" id="re42-mod2" class="catalysis">
+            <start y="1151.0" x="1316.0"/>
+            <next y="1030.0" x="1310.0"/>
+            <end y="1000.88007" x="1108.7491"/>
+        </arc>
+        <arc target="pnre43.R" source="sa43" id="re43-react0" class="consumption">
+            <start y="920.0" x="1260.0"/>
+            <end y="936.1" x="1135.0"/>
+        </arc>
+        <arc target="sa47" source="pnre43.L" id="re43-product0" class="production">
+            <start y="936.1" x="1125.0"/>
+            <end y="952.25" x="1000.0"/>
+        </arc>
+        <arc target="pnre43" source="sa54" id="re43-mod0" class="catalysis">
+            <start y="1510.0" x="1210.25"/>
+            <next y="1510.0" x="1430.0"/>
+            <next y="970.0" x="1430.0"/>
+            <next y="970.0" x="1130.0"/>
+            <end y="941.03485" x="1131.1167"/>
+        </arc>
+        <arc target="pnre43" source="sa59" id="re43-mod1" class="catalysis">
+            <start y="890.0" x="985.0"/>
+            <end y="931.70776" x="1124.9114"/>
+        </arc>
+        <arc target="pnre44.L" source="sa43" id="re44-react0" class="consumption">
+            <start y="920.0" x="1260.0"/>
+            <end y="920.0" x="1340.0"/>
+        </arc>
+        <arc target="sa48" source="pnre44.R" id="re44-product0" class="production">
+            <start y="920.0" x="1350.0"/>
+            <end y="920.0" x="1430.0"/>
+        </arc>
+        <arc target="pnre44" source="sa55" id="re44-mod0" class="catalysis">
+            <start y="990.0" x="1377.5"/>
+            <end y="925.01" x="1354.51"/>
+        </arc>
+        <arc target="pnre44" source="sa75" id="re44-mod1" class="catalysis">
+            <start y="1170.0" x="1350.0"/>
+            <end y="925.01" x="1349.5"/>
+        </arc>
+        <arc target="pnre45.R" source="sa43" id="re45-react0" class="consumption">
+            <start y="920.0" x="1260.0"/>
+            <end y="906.5" x="1210.0"/>
+        </arc>
+        <arc target="sa49" source="pnre45.L" id="re45-product0" class="production">
+            <start y="906.5" x="1200.0"/>
+            <end y="893.0" x="1150.0"/>
+        </arc>
+        <arc target="pnre46.L" source="sa29" id="re46-react0" class="consumption">
+            <start y="1280.0" x="670.0"/>
+            <end y="1280.0" x="570.0"/>
+        </arc>
+        <arc target="sa74" source="pnre46.R" id="re46-product0" class="production">
+            <start y="1280.0" x="580.0"/>
+            <next y="1280.0" x="520.0"/>
+            <end y="1260.0" x="470.0"/>
+        </arc>
+        <arc target="pnre47.R" source="sa74" id="re47-react0" class="consumption">
+            <start y="1260.0" x="430.0"/>
+            <end y="880.0" x="435.0"/>
+        </arc>
+        <arc target="sa21" source="pnre47.L" id="re47-product0" class="production">
+            <start y="880.0" x="425.0"/>
+            <end y="500.0" x="430.0"/>
+        </arc>
+        <arc target="pnre50.R" source="sa106" id="re50-react0" class="consumption">
+            <start y="1730.0" x="1370.0"/>
+            <end y="1730.0" x="1230.0"/>
+        </arc>
+        <arc target="sa77" source="pnre50.L" id="re50-product0" class="production">
+            <start y="1730.0" x="1220.0"/>
+            <end y="1730.0" x="1080.0"/>
+        </arc>
+        <arc target="pnre50" source="sa35" id="re50-mod0" class="catalysis">
+            <start y="1610.0" x="1140.0"/>
+            <end y="1724.99" x="1234.99"/>
+        </arc>
+        <arc target="pnre50" source="sa75" id="re50-mod1" class="catalysis">
+            <start y="1190.0" x="1367.5"/>
+            <next y="1660.0" x="1370.0"/>
+            <end y="1724.99" x="1245.01"/>
+        </arc>
+        <arc target="pnre50" source="sa76" id="re50-mod2" class="inhibition">
+            <start y="1780.0" x="1240.0"/>
+            <end y="1735.01" x="1240.0"/>
+        </arc>
+        <arc target="pnre51.R" source="sa106" id="re51-react0" class="consumption">
+            <start y="1730.0" x="1370.0"/>
+            <end y="1800.0" x="1375.0"/>
+        </arc>
+        <arc target="sa78" source="pnre51.L" id="re51-product0" class="production">
+            <start y="1800.0" x="1365.0"/>
+            <end y="1870.0" x="1370.0"/>
+        </arc>
+        <arc target="pnre51" source="sa35" id="re51-mod0" class="catalysis">
+            <start y="1610.0" x="1140.0"/>
+            <end y="1789.49" x="1364.99"/>
+        </arc>
+        <arc target="pnre52.R" source="sa107" id="re52-react0" class="consumption">
+            <start y="1060.0" x="660.0"/>
+            <next y="1090.0" x="660.0"/>
+            <end y="1100.0" x="665.0"/>
+        </arc>
+        <arc target="sa34" source="pnre52.L" id="re52-product0" class="production">
+            <start y="1100.0" x="655.0"/>
+            <next y="1110.0" x="660.0"/>
+            <end y="1120.0" x="640.0"/>
+        </arc>
+        <arc target="pnre52" source="sa44" id="re52-mod0" class="catalysis">
+            <start y="1065.0" x="712.0"/>
+            <end y="1094.99" x="665.01"/>
+        </arc>
+        <arc target="pnre52" source="sa46" id="re52-mod1" class="catalysis">
+            <start y="1099.5" x="835.0"/>
+            <end y="1100.0" x="665.01"/>
+        </arc>
+        <arc target="pnre52" source="sa37" id="re52-mod2" class="catalysis">
+            <start y="1491.5" x="741.0"/>
+            <next y="1150.0" x="740.0"/>
+            <end y="1105.01" x="665.01"/>
+        </arc>
+        <arc target="pnre53.R" source="sa21" id="re53-react0" class="consumption">
+            <start y="520.0" x="410.0"/>
+            <end y="535.0" x="415.0"/>
+        </arc>
+        <arc target="sa108" source="pnre53.L" id="re53-product0" class="production">
+            <start y="535.0" x="405.0"/>
+            <next y="550.0" x="410.0"/>
+            <end y="560.0" x="410.0"/>
+        </arc>
+        <arc target="pnre54.R" source="sa34" id="re54-react0" class="consumption">
+            <start y="1140.0" x="620.0"/>
+            <end y="1165.0" x="625.0"/>
+        </arc>
+        <arc target="sa110" source="pnre54.L" id="re54-product0" class="production">
+            <start y="1165.0" x="615.0"/>
+            <end y="1190.0" x="620.0"/>
+        </arc>
+        <arc target="pnre55.L" source="sa27" id="re55-react0" class="consumption">
+            <start y="1500.0" x="340.0"/>
+            <end y="1500.0" x="385.0"/>
+        </arc>
+        <arc target="sa111" source="pnre55.R" id="re55-product0" class="production">
+            <start y="1500.0" x="395.0"/>
+            <end y="1500.0" x="440.0"/>
+        </arc>
+        <arc target="pnre56.R" source="sa74" id="re56-react0" class="consumption">
+            <start y="1240.0" x="410.0"/>
+            <end y="1220.0" x="415.0"/>
+        </arc>
+        <arc target="sa112" source="pnre56.L" id="re56-product0" class="production">
+            <start y="1220.0" x="405.0"/>
+            <end y="1200.0" x="410.0"/>
+        </arc>
+        <arc target="pnre57.R" source="sa101" id="re57-react0" class="consumption">
+            <start y="280.0" x="1130.0"/>
+            <next y="279.9518" x="1320.0"/>
+            <end y="315.5" x="1325.0"/>
+        </arc>
+        <arc target="sa113" source="pnre57.L" id="re57-product0" class="production">
+            <start y="315.5" x="1315.0"/>
+            <end y="360.0" x="1320.0"/>
+        </arc>
+        <arc target="pnre58.R" source="sa100" id="re58-react0" class="consumption">
+            <start y="440.0" x="1130.0"/>
+            <next y="440.0" x="1320.0"/>
+            <end y="404.5" x="1325.0"/>
+        </arc>
+        <arc target="sa113" source="pnre58.L" id="re58-product0" class="production">
+            <start y="404.5" x="1315.0"/>
+            <end y="360.0" x="1320.0"/>
+        </arc>
+        <arc target="pnre59.L" source="sa99" id="re59-react0" class="consumption">
+            <start y="360.0" x="1170.0"/>
+            <end y="360.0" x="1240.0"/>
+        </arc>
+        <arc target="sa113" source="pnre59.R" id="re59-product0" class="production">
+            <start y="360.0" x="1250.0"/>
+            <end y="360.0" x="1320.0"/>
+        </arc>
+        <arc target="pnre60.R" source="sa115" id="re60-react0" class="consumption">
+            <start y="1470.0" x="1050.0"/>
+            <end y="1470.0" x="1225.0"/>
+        </arc>
+        <arc target="sa55" source="pnre60.L" id="re60-product0" class="production">
+            <start y="1470.0" x="1215.0"/>
+            <next y="1470.0" x="1390.0"/>
+            <end y="1010.0" x="1390.0"/>
+        </arc>
+        <arc target="pnre60" source="sa40" id="re60-mod0" class="catalysis">
+            <start y="1424.0" x="1233.5"/>
+            <next y="1450.0" x="1230.0"/>
+            <end y="1464.99" x="1225.01"/>
+        </arc>
+        <arc target="pnre60" source="sa41" id="re60-mod1" class="catalysis">
+            <start y="1375.0" x="1098.5"/>
+            <end y="1464.99" x="1214.99"/>
+        </arc>
+        <arc target="pnre60" source="sa48" id="re60-mod2" class="catalysis">
+            <start y="930.0" x="1440.0"/>
+            <next y="1490.0" x="1440.0"/>
+            <next y="1490.0" x="1220.0"/>
+            <end y="1475.01" x="1225.01"/>
+        </arc>
+        <arc target="pnre61.R" source="sa114" id="re61-react0" class="consumption">
+            <start y="1220.0" x="1170.0"/>
+            <end y="1185.0" x="1135.0"/>
+        </arc>
+        <arc target="sa50" source="pnre61.L" id="re61-product0" class="production">
+            <start y="1185.0" x="1125.0"/>
+            <end y="1150.0" x="1090.0"/>
+        </arc>
+        <arc target="pnre61" source="sa29" id="re61-mod0" class="catalysis">
+            <start y="1265.0" x="682.5"/>
+            <next y="1190.0" x="710.0"/>
+            <end y="1192.0338" x="1130.4305"/>
+        </arc>
+        <arc target="pnre61" source="sa35" id="re61-mod1" class="catalysis">
+            <start y="1610.0" x="1140.0"/>
+            <end y="1198.632" x="1137.9713"/>
+        </arc>
+        <arc target="pnre62.R" source="sa114" id="re62-react0" class="consumption">
+            <start y="1220.0" x="1170.0"/>
+            <end y="1285.0" x="1175.0"/>
+        </arc>
+        <arc target="sa51" source="pnre62.L" id="re62-product0" class="production">
+            <start y="1285.0" x="1165.0"/>
+            <end y="1350.0" x="1170.0"/>
+        </arc>
+        <arc target="pnre62" source="sa44" id="re62-mod0" class="catalysis">
+            <start y="1065.0" x="738.25"/>
+            <next y="1220.0" x="760.0"/>
+            <end y="1284.51" x="1164.99"/>
+        </arc>
+        <arc target="pnre62" source="sa38" id="re62-mod1" class="catalysis">
+            <start y="1302.0" x="1210.0"/>
+            <end y="1284.51" x="1175.01"/>
+        </arc>
+        <arc target="pnre63.L" source="sa114" id="re63-react0" class="consumption">
+            <start y="1220.0" x="1170.0"/>
+            <end y="1145.0" x="1165.1"/>
+        </arc>
+        <arc target="sa52" source="pnre63.R" id="re63-product0" class="production">
+            <start y="1145.0" x="1175.1"/>
+            <end y="1070.0" x="1170.25"/>
+        </arc>
+        <arc target="pnre63" source="sa45" id="re63-mod0" class="catalysis">
+            <start y="1159.0" x="1260.5"/>
+            <end y="1147.5" x="1175.01"/>
+        </arc>
+        <arc target="pnre63" source="sa47" id="re63-mod1" class="catalysis">
+            <start y="969.0" x="1022.5"/>
+            <end y="1147.5" x="1164.99"/>
+        </arc>
+        <arc target="pnre64.L" source="sa114" id="re64-react0" class="consumption">
+            <start y="1220.0" x="1170.0"/>
+            <end y="1220.5" x="1218.9"/>
+        </arc>
+        <arc target="sa53" source="pnre64.R" id="re64-product0" class="production">
+            <start y="1220.5" x="1228.9"/>
+            <end y="1221.0" x="1277.875"/>
+        </arc>
+        <arc target="pnre64" source="sa45" id="re64-mod0" class="catalysis">
+            <start y="1166.5" x="1227.5"/>
+            <end y="1215.416" x="1215.9215"/>
+        </arc>
+        <arc target="pnre66.L" source="sa115" id="re66-react0" class="consumption">
+            <start y="1477.071" x="1047.071"/>
+            <end y="1486.5" x="1112.8"/>
+        </arc>
+        <arc target="sa54" source="pnre66.R" id="re66-product0" class="production">
+            <start y="1486.5" x="1122.8"/>
+            <end y="1496.0" x="1188.5"/>
+        </arc>
+        <arc target="pnre66" source="sa29" id="re66-mod0" class="catalysis">
+            <start y="1280.0" x="670.0"/>
+            <next y="1420.0" x="960.0"/>
+            <next y="1440.0" x="1080.0"/>
+            <end y="1480.9052" x="1113.4844"/>
+        </arc>
+        <arc target="pnre66" source="sa35" id="re66-mod1" class="catalysis">
+            <start y="1610.0" x="1140.0"/>
+            <end y="1492.1659" x="1122.0867"/>
+        </arc>
+        <arc target="pnre66" source="sa37" id="re66-mod2" class="catalysis">
+            <start y="1491.5" x="741.0"/>
+            <next y="1490.0" x="910.0"/>
+            <end y="1490.8367" x="1112.1552"/>
+        </arc>
+        <arc target="pnre67.R" source="sa115" id="re67-react0" class="consumption">
+            <start y="1460.0" x="1040.0"/>
+            <end y="1275.0" x="1045.0"/>
+        </arc>
+        <arc target="sa57" source="pnre67.L" id="re67-product0" class="production">
+            <start y="1275.0" x="1035.0"/>
+            <end y="1090.0" x="1040.0"/>
+        </arc>
+        <arc target="pnre67" source="sa38" id="re67-mod0" class="catalysis">
+            <start y="1302.0" x="1210.0"/>
+            <next y="1300.0" x="1080.0"/>
+            <end y="1279.49" x="1045.01"/>
+        </arc>
+        <arc target="pnre67" source="sa41" id="re67-mod1" class="catalysis">
+            <start y="1360.0" x="1086.0"/>
+            <end y="1284.5" x="1045.01"/>
+        </arc>
+        <arc target="pnre67" source="sa26" id="re67-mod2" class="catalysis">
+            <start y="1460.5" x="531.0"/>
+            <next y="1340.0" x="980.0"/>
+            <end y="1289.51" x="1034.99"/>
+        </arc>
+        <arc target="pnre68.L" source="sa116" id="re68-react0" class="consumption">
+            <start y="880.0" x="840.0"/>
+            <end y="915.0" x="875.0"/>
+        </arc>
+        <arc target="sa56" source="pnre68.R" id="re68-product0" class="production">
+            <start y="915.0" x="885.0"/>
+            <end y="950.0" x="920.0"/>
+        </arc>
+        <arc target="pnre68" source="sa46" id="re68-mod0" class="catalysis">
+            <start y="1100.0" x="870.0"/>
+            <end y="915.507" x="872.9713"/>
+        </arc>
+        <arc target="pnre69.R" source="sa116" id="re69-react0" class="consumption">
+            <start y="880.0" x="840.0"/>
+            <end y="935.0" x="845.0"/>
+        </arc>
+        <arc target="sa58" source="pnre69.L" id="re69-product0" class="production">
+            <start y="935.0" x="835.0"/>
+            <end y="990.0" x="840.0"/>
+        </arc>
+        <arc target="pnre70.L" source="sa116" id="re70-react0" class="consumption">
+            <start y="880.0" x="840.0"/>
+            <end y="880.0" x="895.0"/>
+        </arc>
+        <arc target="sa59" source="pnre70.R" id="re70-product0" class="production">
+            <start y="880.0" x="905.0"/>
+            <end y="880.0" x="960.0"/>
+        </arc>
+        <arc target="pnre70" source="sa47" id="re70-mod0" class="catalysis">
+            <start y="952.25" x="1000.0"/>
+            <end y="885.01" x="897.01"/>
+        </arc>
+        <arc target="pnre71.R" source="sa116" id="re71-react0" class="consumption">
+            <start y="880.0" x="840.0"/>
+            <end y="880.0" x="805.0"/>
+        </arc>
+        <arc target="sa60" source="pnre71.L" id="re71-product0" class="production">
+            <start y="880.0" x="795.0"/>
+            <end y="880.0" x="760.0"/>
+        </arc>
+        <arc target="pnre94.L" source="sa121" id="re94-react0" class="consumption">
+            <start y="1755.9818" x="479.70074"/>
+            <next y="1736.0913" x="588.31635"/>
+            <end y="1724.6" x="688.7"/>
+        </arc>
+        <arc target="sa72" source="pnre94.R" id="re94-product0" class="production">
+            <start y="1724.6" x="698.7"/>
+            <end y="1710.0" x="840.0"/>
+        </arc>
+        <arc target="pnre94" source="sa63" id="re94-mod0" class="catalysis">
+            <start y="1620.0" x="840.0"/>
+            <end y="1719.6191" x="698.6249"/>
+        </arc>
+        <arc target="pnre94" source="sa62" id="re94-mod1" class="catalysis">
+            <start y="1630.0" x="530.0"/>
+            <end y="1720.6523" x="688.65826"/>
+        </arc>
+        <arc target="pnre94" source="sa29" id="re94-mod2" class="catalysis">
+            <start y="1295.0" x="695.0"/>
+            <next y="1370.0" x="720.0"/>
+            <next y="1390.0" x="630.0"/>
+            <next y="1650.0" x="630.0"/>
+            <end y="1719.6191" x="698.6249"/>
+        </arc>
+        <arc target="pnre95.R" source="sa121" id="re95-react0" class="consumption">
+            <start y="1760.0" x="470.0"/>
+            <next y="1830.0" x="520.0"/>
+            <end y="1830.0" x="630.0"/>
+        </arc>
+        <arc target="sa69" source="pnre95.L" id="re95-product0" class="production">
+            <start y="1830.0" x="620.0"/>
+            <next y="1830.0" x="730.0"/>
+            <end y="1830.0" x="800.0"/>
+        </arc>
+        <arc target="pnre95" source="sa63" id="re95-mod0" class="catalysis">
+            <start y="1620.0" x="840.0"/>
+            <end y="1824.99" x="630.01"/>
+        </arc>
+        <arc target="pnre95" source="sa62" id="re95-mod1" class="catalysis">
+            <start y="1630.0" x="530.0"/>
+            <end y="1824.99" x="619.99"/>
+        </arc>
+        <arc target="pnre95" source="sa29" id="re95-mod2" class="catalysis">
+            <start y="1295.0" x="695.0"/>
+            <next y="1370.0" x="720.0"/>
+            <next y="1390.0" x="630.0"/>
+            <next y="1650.0" x="630.0"/>
+            <end y="1824.99" x="619.99"/>
+        </arc>
+        <arc target="pnre96.R" source="sa121" id="re96-react0" class="consumption">
+            <start y="1769.7007" x="474.0182"/>
+            <next y="1890.0" x="530.0"/>
+            <next y="1890.0" x="590.0"/>
+            <end y="1890.0" x="650.0"/>
+        </arc>
+        <arc target="sa65" source="pnre96.L" id="re96-product0" class="production">
+            <start y="1890.0" x="640.0"/>
+            <next y="1890.0" x="700.0"/>
+            <end y="1890.0" x="800.0"/>
+        </arc>
+        <arc target="pnre96" source="sa29" id="re96-mod0" class="catalysis">
+            <start y="1295.0" x="695.0"/>
+            <next y="1370.0" x="720.0"/>
+            <next y="1390.0" x="630.0"/>
+            <next y="1650.0" x="630.0"/>
+            <end y="1884.99" x="650.01"/>
+        </arc>
+        <arc target="pnre96" source="sa39" id="re96-mod1" class="catalysis">
+            <start y="1697.0" x="491.0"/>
+            <end y="1884.99" x="639.99"/>
+        </arc>
+        <arc target="pnre97.L" source="sa121" id="re97-react0" class="consumption">
+            <start y="1769.7007" x="474.0182"/>
+            <next y="1920.0" x="520.0"/>
+            <next y="1924.9475" x="581.8442"/>
+            <end y="1932.1" x="685.6"/>
+        </arc>
+        <arc target="sa64" source="pnre97.R" id="re97-product0" class="production">
+            <start y="1932.1" x="695.6"/>
+            <end y="1940.0" x="800.0"/>
+        </arc>
+        <arc target="pnre97" source="sa29" id="re97-mod0" class="catalysis">
+            <start y="1295.0" x="695.0"/>
+            <next y="1370.0" x="720.0"/>
+            <next y="1390.0" x="630.0"/>
+            <next y="1650.0" x="630.0"/>
+            <end y="1927.4757" x="691.26697"/>
+        </arc>
+        <arc target="pnre98.L" source="sa122" id="re98-react0" class="consumption">
+            <start y="1857.0" x="90.0"/>
+            <next y="1770.0" x="90.052734"/>
+            <end y="1770.0" x="160.0"/>
+        </arc>
+        <arc target="sa71" source="pnre98.R" id="re98-product0" class="production">
+            <start y="1770.0" x="170.0"/>
+            <end y="1770.0" x="280.0"/>
+        </arc>
+        <arc target="pnre98" source="sa26" id="re98-mod0" class="catalysis">
+            <start y="1473.0" x="531.0"/>
+            <next y="1730.0" x="200.0"/>
+            <next y="1730.0" x="160.0"/>
+            <end y="1764.99" x="160.01637"/>
+        </arc>
+        <arc target="pnre98" source="sa62" id="re98-mod1" class="catalysis">
+            <start y="1639.0" x="451.0"/>
+            <end y="1764.99" x="170.03636"/>
+        </arc>
+        <arc target="pnre99.L" source="sa122" id="re99-react0" class="consumption">
+            <start y="1867.0" x="90.0"/>
+            <next y="1890.0" x="90.68378"/>
+            <end y="1890.0" x="160.3"/>
+        </arc>
+        <arc target="sa70" source="pnre99.R" id="re99-product0" class="production">
+            <start y="1890.0" x="170.3"/>
+            <end y="1890.0" x="280.0"/>
+        </arc>
+        <arc target="pnre99" source="sa26" id="re99-mod0" class="catalysis">
+            <start y="1473.0" x="531.0"/>
+            <next y="1730.0" x="200.0"/>
+            <end y="1884.99" x="170.35188"/>
+        </arc>
+        <arc target="pnre100.L" source="sa122" id="re100-react0" class="consumption">
+            <start y="1857.0" x="90.0"/>
+            <next y="1950.0" x="90.0"/>
+            <end y="1950.0" x="160.0"/>
+        </arc>
+        <arc target="sa66" source="pnre100.R" id="re100-product0" class="production">
+            <start y="1950.0" x="170.0"/>
+            <end y="1950.0" x="280.0"/>
+        </arc>
+        <arc target="pnre100" source="sa26" id="re100-mod0" class="catalysis">
+            <start y="1473.0" x="531.0"/>
+            <next y="1730.0" x="200.0"/>
+            <end y="1944.99" x="170.01"/>
+        </arc>
+        <arc target="pnre101.L" source="sa122" id="re101-react0" class="consumption">
+            <start y="1857.0" x="90.0"/>
+            <next y="1830.0" x="90.73657"/>
+            <end y="1830.0" x="160.4"/>
+        </arc>
+        <arc target="sa67" source="pnre101.R" id="re101-product0" class="production">
+            <start y="1830.0" x="170.4"/>
+            <end y="1830.0" x="280.0"/>
+        </arc>
+        <arc target="pnre101" source="sa26" id="re101-mod0" class="catalysis">
+            <start y="1473.0" x="531.0"/>
+            <next y="1730.0" x="200.0"/>
+            <end y="1824.99" x="170.37828"/>
+        </arc>
+        <arc target="pnre102.L" source="sa72" id="re102-react0" class="consumption">
+            <start y="1700.0" x="800.0"/>
+            <next y="1700.0" x="589.1616"/>
+            <next y="1750.0" x="430.0"/>
+            <end y="1775.7" x="414.4"/>
+        </arc>
+        <arc target="sa123" source="pnre102.R" id="re102-product0" class="production">
+            <start y="1775.7" x="424.4"/>
+            <next y="1804.0399" x="411.59006"/>
+            <end y="1845.9515" x="412.28354"/>
+        </arc>
+        <arc target="pnre102" source="sa71" id="re102-mod0" class="catalysis">
+            <start y="1760.0" x="320.0"/>
+            <next y="1760.0" x="390.0"/>
+            <end y="1770.662" x="417.66827"/>
+        </arc>
+        <arc target="pnre102" source="sa67" id="re102-mod1" class="catalysis">
+            <start y="1820.0" x="320.0"/>
+            <next y="1760.0" x="360.0"/>
+            <next y="1760.0" x="390.0"/>
+            <end y="1770.662" x="417.66827"/>
+        </arc>
+        <arc target="pnre102" source="sa70" id="re102-mod2" class="catalysis">
+            <start y="1880.0" x="320.0"/>
+            <next y="1760.0" x="360.0"/>
+            <next y="1760.0" x="390.0"/>
+            <end y="1770.662" x="417.66827"/>
+        </arc>
+        <arc target="pnre102" source="sa66" id="re102-mod3" class="catalysis">
+            <start y="1931.0" x="319.0"/>
+            <next y="1760.0" x="360.0"/>
+            <next y="1760.0" x="390.0"/>
+            <end y="1770.662" x="417.66827"/>
+        </arc>
+        <arc target="pnre103.R" source="sa69" id="re103-react0" class="consumption">
+            <start y="1849.0" x="801.0"/>
+            <next y="1860.0" x="750.0"/>
+            <end y="1861.1" x="589.5"/>
+        </arc>
+        <arc target="sa123" source="pnre103.L" id="re103-product0" class="production">
+            <start y="1861.1" x="579.5"/>
+            <end y="1862.2836" x="419.0485"/>
+        </arc>
+        <arc target="pnre103" source="sa71" id="re103-mod0" class="catalysis">
+            <start y="1751.0" x="319.0"/>
+            <next y="1730.0" x="340.0"/>
+            <next y="1730.0" x="440.0"/>
+            <next y="1840.0" x="460.0"/>
+            <end y="1856.1665" x="579.4798"/>
+        </arc>
+        <arc target="pnre103" source="sa66" id="re103-mod1" class="catalysis">
+            <start y="1969.0" x="319.0"/>
+            <next y="1970.0" x="490.0"/>
+            <next y="1880.0" x="490.0"/>
+            <end y="1866.1863" x="579.54895"/>
+        </arc>
+        <arc target="pnre103" source="sa70" id="re103-mod2" class="catalysis">
+            <start y="1909.0" x="319.0"/>
+            <next y="1970.0" x="350.0"/>
+            <next y="1970.0" x="490.0"/>
+            <next y="1880.0" x="490.0"/>
+            <end y="1866.1863" x="579.54895"/>
+        </arc>
+        <arc target="pnre103" source="sa67" id="re103-mod3" class="catalysis">
+            <start y="1830.0" x="320.0"/>
+            <next y="1810.0" x="370.0"/>
+            <next y="1810.0" x="400.0"/>
+            <next y="1850.0" x="450.0"/>
+            <end y="1856.1665" x="579.4798"/>
+        </arc>
+        <arc target="pnre105.L" source="sa65" id="re105-react0" class="consumption">
+            <start y="1900.0" x="800.0"/>
+            <next y="1900.0" x="690.0"/>
+            <end y="1900.0" x="580.0"/>
+        </arc>
+        <arc target="sa123" source="pnre105.R" id="re105-product0" class="production">
+            <start y="1900.0" x="590.0"/>
+            <next y="1900.0" x="480.0"/>
+            <end y="1857.5" x="407.5"/>
+        </arc>
+        <arc target="pnre105" source="sa66" id="re105-mod0" class="catalysis">
+            <start y="1940.0" x="320.0"/>
+            <next y="1940.0" x="440.0"/>
+            <next y="1940.0" x="450.0"/>
+            <next y="1940.0" x="530.0"/>
+            <end y="1905.01" x="579.99"/>
+        </arc>
+        <arc target="pnre105" source="sa70" id="re105-mod1" class="catalysis">
+            <start y="1900.0" x="320.0"/>
+            <next y="1940.0" x="460.0"/>
+            <next y="1940.0" x="530.0"/>
+            <end y="1905.01" x="579.99"/>
+        </arc>
+        <arc target="pnre105" source="sa67" id="re105-mod2" class="catalysis">
+            <start y="1840.0" x="320.0"/>
+            <next y="1880.0" x="370.0"/>
+            <next y="1940.0" x="500.0"/>
+            <next y="1940.0" x="530.0"/>
+            <end y="1905.01" x="579.99"/>
+        </arc>
+        <arc target="pnre105" source="sa71" id="re105-mod3" class="catalysis">
+            <start y="1751.0" x="319.0"/>
+            <next y="1730.0" x="340.0"/>
+            <next y="1730.0" x="440.0"/>
+            <next y="1910.0" x="470.0"/>
+            <next y="1940.0" x="530.0"/>
+            <end y="1905.01" x="579.99"/>
+        </arc>
+        <arc target="pnre106.L" source="sa64" id="re106-react0" class="consumption">
+            <start y="1950.0" x="840.0"/>
+            <end y="1950.0" x="603.8"/>
+        </arc>
+        <arc target="sa123" source="pnre106.R" id="re106-product0" class="production">
+            <start y="1950.0" x="613.8"/>
+            <next y="1950.0" x="417.6033"/>
+            <end y="1866.3389" x="416.33884"/>
+        </arc>
+        <arc target="pnre106" source="sa66" id="re106-mod0" class="catalysis">
+            <start y="1960.0" x="320.0"/>
+            <next y="1960.0" x="590.0"/>
+            <end y="1955.01" x="603.7916"/>
+        </arc>
+        <arc target="pnre106" source="sa70" id="re106-mod1" class="catalysis">
+            <start y="1900.0" x="320.0"/>
+            <next y="1960.0" x="380.0"/>
+            <next y="1960.0" x="590.0"/>
+            <end y="1955.01" x="603.7916"/>
+        </arc>
+        <arc target="pnre106" source="sa71" id="re106-mod2" class="catalysis">
+            <start y="1751.0" x="319.0"/>
+            <next y="1730.0" x="340.0"/>
+            <next y="1730.0" x="440.0"/>
+            <next y="1960.0" x="480.0"/>
+            <next y="1960.0" x="590.0"/>
+            <end y="1955.01" x="603.7916"/>
+        </arc>
+        <arc target="pnre107.R" source="sa71" id="re107-react0" class="consumption">
+            <start y="1770.0" x="320.0"/>
+            <next y="1770.0" x="370.0"/>
+            <end y="1798.7" x="383.7"/>
+        </arc>
+        <arc target="sa123" source="pnre107.L" id="re107-product0" class="production">
+            <start y="1798.7" x="373.7"/>
+            <next y="1830.0" x="390.0"/>
+            <end y="1848.6611" x="398.66116"/>
+        </arc>
+        <arc target="pnre108.R" source="sa70" id="re108-react0" class="consumption">
+            <start y="1890.0" x="280.0"/>
+            <end y="1890.0" x="354.5"/>
+        </arc>
+        <arc target="sa123" source="pnre108.L" id="re108-product0" class="production">
+            <start y="1890.0" x="344.5"/>
+            <next y="1890.0" x="380.0"/>
+            <end y="1869.0485" x="402.71646"/>
+        </arc>
+        <arc target="pnre109.L" source="sa66" id="re109-react0" class="consumption">
+            <start y="1950.0" x="280.0"/>
+            <next y="1950.0" x="405.75735"/>
+            <end y="1909.9" x="401.5"/>
+        </arc>
+        <arc target="sa123" source="pnre109.R" id="re109-product0" class="production">
+            <start y="1909.9" x="411.5"/>
+            <end y="1870.0" x="407.5"/>
+        </arc>
+        <arc target="pnre110.R" source="sa67" id="re110-react0" class="consumption">
+            <start y="1840.0" x="320.0"/>
+            <next y="1840.0" x="350.0"/>
+            <end y="1840.0" x="370.0"/>
+        </arc>
+        <arc target="sa123" source="pnre110.L" id="re110-product0" class="production">
+            <start y="1840.0" x="360.0"/>
+            <next y="1840.0" x="380.0"/>
+            <end y="1857.5" x="407.5"/>
+        </arc>
+        <arc target="pnre111.L" source="sa62" id="re111-react0" class="consumption">
+            <start y="1600.0" x="490.0"/>
+            <next y="1550.0" x="530.0"/>
+            <end y="1550.0" x="675.5"/>
+        </arc>
+        <arc target="sa124" source="pnre111.R" id="re111-product0" class="production">
+            <start y="1550.0" x="685.5"/>
+            <end y="1550.0" x="840.0"/>
+        </arc>
+        <arc target="pnre112.R" source="sa63" id="re112-react0" class="consumption">
+            <start y="1620.0" x="840.0"/>
+            <end y="1584.0" x="845.0"/>
+        </arc>
+        <arc target="sa124" source="pnre112.L" id="re112-product0" class="production">
+            <start y="1584.0" x="835.0"/>
+            <next y="1568.0" x="840.0"/>
+            <end y="1550.0" x="840.0"/>
+        </arc>
+        <arc target="pnre114.R" source="sa73" id="re114-react0" class="consumption">
+            <start y="1400.0" x="950.0"/>
+            <end y="1475.0" x="900.0"/>
+        </arc>
+        <arc target="sa124" source="pnre114.L" id="re114-product0" class="production">
+            <start y="1475.0" x="890.0"/>
+            <end y="1550.0" x="840.0"/>
+        </arc>
+        <arc target="pnre115.R" source="sa114" id="re115-react0" class="consumption">
+            <start y="1220.0" x="1160.0"/>
+            <next y="1220.0" x="1010.0"/>
+            <end y="1290.5" x="1014.5"/>
+        </arc>
+        <arc target="sa73" source="pnre115.L" id="re115-product0" class="production">
+            <start y="1290.5" x="1004.5"/>
+            <end y="1361.0" x="1009.0"/>
+        </arc>
+        <arc target="pnre115" source="sa29" id="re115-mod0" class="catalysis">
+            <start y="1287.5" x="702.5"/>
+            <end y="1285.4546" x="1004.52563"/>
+        </arc>
+        <arc target="pnre116.R" source="sa124" id="re116-react0" class="consumption">
+            <start y="1550.0" x="840.0"/>
+            <end y="1550.0" x="1104.5"/>
+        </arc>
+        <arc target="sa75" source="pnre116.L" id="re116-product0" class="production">
+            <start y="1550.0" x="1094.5"/>
+            <next y="1550.0" x="1350.0"/>
+            <end y="1170.0" x="1350.0"/>
+        </arc>
+        <arc target="pnre116" source="sa48" id="re116-mod0" class="catalysis">
+            <start y="930.0" x="1440.0"/>
+            <next y="1530.0" x="1440.0"/>
+            <next y="1530.0" x="1100.0"/>
+            <end y="1544.99" x="1099.5"/>
+        </arc>
+        <arc target="pnre117.R" source="sa77" id="re117-react0" class="consumption">
+            <start y="1730.0" x="1080.0"/>
+            <end y="1800.0" x="1085.0"/>
+        </arc>
+        <arc target="sa125" source="pnre117.L" id="re117-product0" class="production">
+            <start y="1800.0" x="1075.0"/>
+            <end y="1870.0" x="1080.0"/>
+        </arc>
+        <arc target="pnre117" source="sa72" id="re117-mod0" class="catalysis">
+            <start y="1710.0" x="880.0"/>
+            <end y="1799.99" x="1074.99"/>
+        </arc>
+        <arc target="pnre117" source="sa69" id="re117-mod1" class="catalysis">
+            <start y="1830.0" x="880.0"/>
+            <end y="1799.99" x="1074.99"/>
+        </arc>
+        <arc target="pnre117" source="sa65" id="re117-mod2" class="catalysis">
+            <start y="1890.0" x="880.0"/>
+            <end y="1805.0" x="1074.99"/>
+        </arc>
+        <arc target="pnre117" source="sa64" id="re117-mod3" class="catalysis">
+            <start y="1950.0" x="880.0"/>
+            <end y="1810.01" x="1074.99"/>
+        </arc>
+        <arc target="pnre118.R" source="sa78" id="re118-react0" class="consumption">
+            <start y="1870.0" x="1370.0"/>
+            <end y="1870.0" x="1230.0"/>
+        </arc>
+        <arc target="sa125" source="pnre118.L" id="re118-product0" class="production">
+            <start y="1870.0" x="1220.0"/>
+            <end y="1870.0" x="1080.0"/>
+        </arc>
+        <arc target="pnre118" source="sa72" id="re118-mod0" class="catalysis">
+            <start y="1710.0" x="880.0"/>
+            <next y="1790.0" x="1130.0"/>
+            <end y="1864.99" x="1204.49"/>
+        </arc>
+        <arc target="pnre118" source="sa65" id="re118-mod1" class="catalysis">
+            <start y="1900.0" x="880.0"/>
+            <next y="1900.0" x="1150.0"/>
+            <end y="1875.01" x="1204.49"/>
+        </arc>
+        <arc target="pnre118" source="sa64" id="re118-mod2" class="catalysis">
+            <start y="1950.0" x="880.0"/>
+            <next y="1950.0" x="1210.0"/>
+            <end y="1875.01" x="1209.5"/>
+        </arc>
+        <arc target="pnre119.L" source="sa35" id="re119-react0" class="consumption">
+            <start y="1610.0" x="1140.0"/>
+            <end y="1610.0" x="1225.0"/>
+        </arc>
+        <arc target="sa126" source="pnre119.R" id="re119-product0" class="production">
+            <start y="1610.0" x="1235.0"/>
+            <end y="1610.0" x="1320.0"/>
+        </arc>
+        <arc target="pnre120.L" source="sa102" id="re120-react0" class="consumption">
+            <start y="610.0" x="970.0"/>
+            <end y="610.0" x="1045.0"/>
+        </arc>
+        <arc target="sa127" source="pnre120.R" id="re120-product0" class="production">
+            <start y="610.0" x="1055.0"/>
+            <end y="610.0" x="1130.0"/>
+        </arc>
+        <arc target="pnre121.L" source="sa103" id="re121-react0" class="consumption">
+            <start y="360.0" x="970.0"/>
+            <next y="510.0" x="970.0"/>
+            <end y="510.0" x="1025.0"/>
+        </arc>
+        <arc target="sa117" source="pnre121.R" id="re121-product0" class="production">
+            <start y="510.0" x="1035.0"/>
+            <end y="510.0" x="1130.0"/>
+        </arc>
+        <arc target="pnre121" source="sa93" id="re121-mod0" class="catalysis">
+            <start y="540.0" x="890.0"/>
+            <end y="515.01" x="1024.99"/>
+        </arc>
+        <arc target="pnre122.R" source="sa117" id="re122-react0" class="consumption">
+            <start y="510.0" x="1130.0"/>
+            <end y="560.0" x="1135.0"/>
+        </arc>
+        <arc target="sa127" source="pnre122.L" id="re122-product0" class="production">
+            <start y="560.0" x="1125.0"/>
+            <end y="610.0" x="1130.0"/>
+        </arc>
+        <arc target="pnre123.L" source="sa128" id="re123-react0" class="consumption">
+            <start y="1160.0" x="780.0"/>
+            <end y="1160.0" x="865.0"/>
+        </arc>
+        <arc target="sa61" source="pnre123.R" id="re123-product0" class="production">
+            <start y="1160.0" x="875.0"/>
+            <end y="1160.0" x="960.0"/>
+        </arc>
+        <arc target="pnre123" source="sa29" id="re123-mod0" class="catalysis">
+            <start y="1265.0" x="695.0"/>
+            <next y="1220.0" x="810.0"/>
+            <end y="1165.01" x="851.99"/>
+        </arc>
+        <arc target="pnre123" source="sa44" id="re123-mod1" class="catalysis">
+            <start y="1057.5" x="754.5"/>
+            <end y="1154.99" x="851.99"/>
+        </arc>
+        <arc target="pnre123" source="sa37" id="re123-mod2" class="catalysis">
+            <start y="1491.5" x="741.0"/>
+            <next y="1450.0" x="860.0"/>
+            <end y="1165.01" x="862.01"/>
+        </arc>
+        <arc target="pnre123" source="sa46" id="re123-mod3" class="catalysis">
+            <start y="1112.0" x="858.75"/>
+            <end y="1154.99" x="862.01"/>
+        </arc>
+        <arc target="pnre123" source="sa130" id="re123-mod4" class="catalysis">
+            <start y="1220.0" x="960.0"/>
+            <end y="1165.01" x="862.01"/>
+        </arc>
+        <arc target="pnre124.R" source="sa61" id="re124-react0" class="consumption">
+            <start y="1160.0" x="960.0"/>
+            <end y="1120.0" x="965.0"/>
+        </arc>
+        <arc target="sa129" source="pnre124.L" id="re124-product0" class="production">
+            <start y="1120.0" x="955.0"/>
+            <end y="1080.0" x="960.0"/>
+        </arc>
+        <arc target="pnre126.R" source="sa121" id="re126-react0" class="consumption">
+            <start y="1760.0" x="470.0"/>
+            <next y="1760.0" x="490.0"/>
+            <end y="1759.8" x="613.5"/>
+        </arc>
+        <arc target="sa133" source="pnre126.L" id="re126-product0" class="production">
+            <start y="1759.8" x="603.5"/>
+            <next y="1759.693" x="726.9971"/>
+            <end y="1760.0" x="800.0"/>
+        </arc>
+        <arc target="pnre126" source="sa29" id="re126-mod0" class="catalysis">
+            <start y="1295.0" x="695.0"/>
+            <next y="1370.0" x="720.0"/>
+            <next y="1390.0" x="630.0"/>
+            <next y="1650.0" x="630.0"/>
+            <end y="1754.83" x="613.5021"/>
+        </arc>
+        <arc target="pnre127.R" source="sa133" id="re127-react0" class="consumption">
+            <start y="1770.0" x="840.0"/>
+            <next y="1787.4431" x="461.29462"/>
+            <end y="1815.9" x="440.8"/>
+        </arc>
+        <arc target="sa123" source="pnre127.L" id="re127-product0" class="production">
+            <start y="1815.9" x="430.8"/>
+            <end y="1857.5" x="407.5"/>
+        </arc>
+        <arc target="pnre127" source="sa70" id="re127-mod0" class="catalysis">
+            <start y="1880.0" x="320.0"/>
+            <next y="1820.0" x="360.0"/>
+            <end y="1818.8939" x="430.82782"/>
+        </arc>
+        <arc target="pnre127" source="sa67" id="re127-mod1" class="catalysis">
+            <start y="1820.0" x="320.0"/>
+            <next y="1780.0" x="380.0"/>
+            <next y="1780.0" x="400.0"/>
+            <end y="1810.9467" x="436.93033"/>
+        </arc>
+        <arc target="pnre127" source="sa71" id="re127-mod2" class="catalysis">
+            <start y="1780.0" x="320.0"/>
+            <next y="1780.0" x="400.0"/>
+            <end y="1810.9467" x="436.93033"/>
+        </arc>
+        <arc target="pnre127" source="sa66" id="re127-mod3" class="catalysis">
+            <start y="1931.0" x="319.0"/>
+            <next y="1820.0" x="360.0"/>
+            <end y="1818.8939" x="430.82782"/>
+        </arc>
+        <arc target="pnre128.R" source="sa29" id="re128-react0" class="consumption">
+            <start y="1265.0" x="670.0"/>
+            <end y="1222.5" x="675.0"/>
+        </arc>
+        <arc target="sa134" source="pnre128.L" id="re128-product0" class="production">
+            <start y="1222.5" x="665.0"/>
+            <end y="1180.0" x="670.0"/>
+        </arc>
+        <arc target="pnre129.L" source="sa75" id="re129-react0" class="consumption">
+            <start y="1150.0" x="1367.5"/>
+            <end y="1120.0" x="1363.8"/>
+        </arc>
+        <arc target="sa135" source="pnre129.R" id="re129-product0" class="production">
+            <start y="1120.0" x="1373.8"/>
+            <end y="1090.0" x="1370.0"/>
+        </arc>
+        <arc target="pnre130.R" source="sa136" id="re130-react0" class="consumption">
+            <start y="1620.0" x="700.0"/>
+            <next y="1620.0" x="720.0"/>
+            <end y="1620.0" x="745.0"/>
+        </arc>
+        <arc target="sa63" source="pnre130.L" id="re130-product0" class="production">
+            <start y="1620.0" x="735.0"/>
+            <next y="1620.0" x="760.0"/>
+            <end y="1620.0" x="840.0"/>
+        </arc>
+        <arc target="pnre130" source="sa37" id="re130-mod0" class="catalysis">
+            <start y="1491.5" x="741.0"/>
+            <end y="1614.99" x="740.0"/>
+        </arc>
+        <arc target="pnre131.R" source="sa136" id="re131-react0" class="consumption">
+            <start y="1620.0" x="700.0"/>
+            <next y="1620.0" x="620.0"/>
+            <end y="1620.0" x="579.5"/>
+        </arc>
+        <arc target="sa62" source="pnre131.L" id="re131-product0" class="production">
+            <start y="1620.0" x="569.5"/>
+            <end y="1620.0" x="490.0"/>
+        </arc>
+        <arc target="pnre131" source="sa37" id="re131-mod0" class="catalysis">
+            <start y="1491.5" x="701.0"/>
+            <next y="1530.0" x="620.0"/>
+            <end y="1614.99" x="574.5"/>
+        </arc>
+        <arc target="pnre132.L" source="sa109" id="re132-react0" class="consumption">
+            <start y="1582.25" x="130.0"/>
+            <next y="1610.0" x="130.0"/>
+            <end y="1645.5" x="125.0"/>
+        </arc>
+        <arc target="sa137" source="pnre132.R" id="re132-product0" class="production">
+            <start y="1645.5" x="135.0"/>
+            <end y="1690.0" x="130.0"/>
+        </arc>
+        <arc target="pnre134.R" source="sa49" id="re134-react0" class="consumption">
+            <start y="878.0" x="1150.0"/>
+            <end y="869.0" x="1125.0"/>
+        </arc>
+        <arc target="sa143" source="pnre134.L" id="re134-product0" class="production">
+            <start y="869.0" x="1115.0"/>
+            <end y="860.0" x="1090.0"/>
+        </arc>
+        <arc target="pnre138.L" source="sa48" id="re138-react0" class="consumption">
+            <start y="920.0" x="1430.0"/>
+            <next y="840.0" x="1370.0"/>
+            <end y="840.0" x="1240.0"/>
+        </arc>
+        <arc target="sa143" source="pnre138.R" id="re138-product0" class="production">
+            <start y="840.0" x="1250.0"/>
+            <next y="840.0" x="1120.0"/>
+            <end y="842.92896" x="1097.071"/>
+        </arc>
+        <arc target="pnre139.L" source="sa47" id="re139-react0" class="consumption">
+            <start y="934.0" x="1000.0"/>
+            <end y="903.5" x="995.0"/>
+        </arc>
+        <arc target="sa143" source="pnre139.R" id="re139-product0" class="production">
+            <start y="903.5" x="1005.0"/>
+            <next y="873.0" x="1000.0"/>
+            <next y="860.0" x="1000.0"/>
+            <end y="860.0" x="1090.0"/>
+        </arc>
+        <arc target="pnre140.L" source="sa45" id="re140-react0" class="consumption">
+            <start y="1151.5" x="1292.5"/>
+            <next y="1100.0" x="1330.0"/>
+            <end y="1028.0" x="1325.0"/>
+        </arc>
+        <arc target="sa143" source="pnre140.R" id="re140-product0" class="production">
+            <start y="1028.0" x="1335.0"/>
+            <next y="956.0" x="1330.0"/>
+            <next y="850.0" x="1330.0"/>
+            <end y="850.0" x="1100.0"/>
+        </arc>
+        <arc target="pnre141.L" source="sa44" id="re141-react0" class="consumption">
+            <start y="1035.0" x="729.5"/>
+            <next y="840.0" x="730.0"/>
+            <end y="840.4" x="903.1"/>
+        </arc>
+        <arc target="sa143" source="pnre141.R" id="re141-product0" class="production">
+            <start y="840.4" x="913.1"/>
+            <end y="840.7612" x="1086.1732"/>
+        </arc>
+        <arc target="pnre142.L" source="sa46" id="re142-react0" class="consumption">
+            <start y="1087.0" x="881.25"/>
+            <end y="968.5" x="875.6"/>
+        </arc>
+        <arc target="sa143" source="pnre142.R" id="re142-product0" class="production">
+            <start y="968.5" x="885.6"/>
+            <next y="850.0" x="880.0"/>
+            <end y="850.0" x="1080.0"/>
+        </arc>
+        <arc target="pnre143.R" source="sa43" id="re143-react0" class="consumption">
+            <start y="920.0" x="1260.0"/>
+            <next y="860.0" x="1210.0"/>
+            <end y="860.0" x="1155.0"/>
+        </arc>
+        <arc target="sa143" source="pnre143.L" id="re143-product0" class="production">
+            <start y="860.0" x="1145.0"/>
+            <end y="860.0" x="1090.0"/>
+        </arc>
+    </map>
+</sbgn>
