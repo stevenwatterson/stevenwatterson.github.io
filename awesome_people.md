@@ -13,9 +13,9 @@ He has previously worked at The Division of Infection and Pathway Medicine and T
 
 Boon Chin Tan <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-### Nuffield Studentship
+### BSc 
 
-Oran Timoney
+Dean Boardman
 
 # Former Students
 
@@ -50,4 +50,7 @@ Carla McKeown  <a href="https://twitter.com/CarlaMcKeown"><img src="/assets/img/
 ### Nuffield Studentships
 
 Patricia Navarro
+
+Oran Timoney
+
 
