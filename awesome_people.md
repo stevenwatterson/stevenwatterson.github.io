@@ -17,6 +17,8 @@ Boon Chin Tan <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"
 
 Dean Boardman
 
+Sean Colreavy
+
 # Former Students
 
 ### PhD
@@ -38,8 +40,6 @@ Gary Lonergan, senior product quality officer at Almac group.  Thesis title: Com
 Chris Millward.  Thesis: Binary modelling of immune signalling.
 
 Sarah Dunn.  Thesis title: The Topological Classification of Signalling Pathways
-
-
 
 ### BSc
 
