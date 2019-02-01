@@ -15,9 +15,10 @@ Boon Chin Tan <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"
 
 ### BSc 
 
-Dean Boardman
+Dean Boardman <a href="https://www.linkedin.com/in/dean-boardman-87a235162/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-Sean Colreavy
+
+Sean Colreavy <a href="https://twitter.com/SColreavy"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
 
 # Former Students
 
