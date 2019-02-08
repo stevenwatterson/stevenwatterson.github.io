@@ -7,7 +7,7 @@ Details of xml schema: [SBGN](http://sbgn.github.io/sbgn/), [SBGNML](https://git
 # Atherosclerosis
 
 From [Parton et al., Bioinformatics (2018, in press)](https://doi.org/10.1093/bioinformatics/bty980). 
-* [Pathway map (SBGN-ML)](assets/models/S1_Model.sbgn) and [Pathway map+model (SBML+CellDesigner)](assets/models/S2_Model.sbml)
+* [Pathway map (SBGN-ML)](assets/models/S1_Model.sbgn.xml) and [Pathway map+model (SBML+CellDesigner)](assets/models/S2_Model.sbml.xml)
 
 # Cholesterol metabolism
 
