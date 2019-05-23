@@ -19,6 +19,6 @@ title: Posters
 
 <a href="https://doi.org/10.6084/m9.figshare.8175161.v1"><img src="/assets/img/DB_Poster.PNG" alt="poster3" width="100px"/></a>
 
-[Bio-marker Discovery Using Orange Data Mining And Shannon Data Entropy 
+[Bio-marker Discovery Using Orange Data Mining And Shannon Data Entropy] 
 (https://doi.org/10.6084/m9.figshare.8175161.v1), Dean Boardman, Steven Watterson.
  
