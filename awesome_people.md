@@ -14,8 +14,7 @@ He has previously worked at The Division of Infection and Pathway Medicine and T
 Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid system modulates inflammation and pain pathways involved in arthritis. <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 ### MSc
-Sinead Quinn.  Thesis title: Dissertation A new understanding of the role of Vitamin D in Cardiovascular health.
-
+Sinead Quinn.  Thesis title: A new understanding of the role of Vitamin D in Cardiovascular health.
 
 # Former Students
 
