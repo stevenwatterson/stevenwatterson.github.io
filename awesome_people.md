@@ -13,12 +13,9 @@ He has previously worked at The Division of Infection and Pathway Medicine and T
 
 Boon Chin Tan <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-### BSc 
+### MSc
+Sinead Quinn
 
-Dean Boardman <a href="https://www.linkedin.com/in/dean-boardman-87a235162/"><img src="/assets/img/In.png" height="20" width="25"></a>
-
-
-Sean Colreavy <a href="https://twitter.com/SColreavy"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
 
 # Former Students
 
@@ -44,14 +41,22 @@ Sarah Dunn.  Thesis title: The Topological Classification of Signalling Pathways
 
 ### BSc
 
+Dean Boardman <a href="https://www.linkedin.com/in/dean-boardman-87a235162/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
+Sean Colreavy <a href="https://twitter.com/SColreavy"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
+
 Seamus Cairns  <a href="https://twitter.com/cairns_seamus"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/seamus-cairns-053609114/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Carla McKeown  <a href="https://twitter.com/CarlaMcKeown"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>
 
 ### Nuffield Studentships
 
-Patricia Navarro
+Keeva Smith
+
+Dearbhla Ní Choisneacháin
 
 Oran Timoney.  Oran <a href="https://www.facebook.com/205074686360422/videos/2221326311281557/">wins</a> the <a href="http://www.rcsi.ie/index.jsp?p=100&n=110&a=11710">RCSA award</a> at the <a href="http://www.irishnews.com/business/2019/01/15/news/young-scientists-of-the-future-show-their-mettle-at-bt-showpiece-1527756/">BT Young Scientist exhibition </a> in Dublin for his project, *Categorising CVD patient risk using machine learning tools*. 
+
+Patricia Navarro
 
 
