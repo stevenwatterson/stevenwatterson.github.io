@@ -11,10 +11,10 @@ He has previously worked at The Division of Infection and Pathway Medicine and T
 
 ### PhD
 
-Boon Chin Tan <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
+Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid system modulates inflammation and pain pathways involved in arthritis. <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 ### MSc
-Sinead Quinn
+Sinead Quinn.  Thesis title: Dissertation A new understanding of the role of Vitamin D in Cardiovasculat health.
 
 
 # Former Students
@@ -42,8 +42,11 @@ Sarah Dunn.  Thesis title: The Topological Classification of Signalling Pathways
 ### BSc
 
 Dean Boardman <a href="https://www.linkedin.com/in/dean-boardman-87a235162/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
 Sean Colreavy <a href="https://twitter.com/SColreavy"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
+
 Seamus Cairns  <a href="https://twitter.com/cairns_seamus"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/seamus-cairns-053609114/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
 Carla McKeown  <a href="https://twitter.com/CarlaMcKeown"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>
 
 ### Wellcome Trust Vacation Scholarships
