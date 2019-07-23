@@ -41,6 +41,8 @@ Sarah Dunn.  Thesis title: The Topological Classification of Signalling Pathways
 
 ### BSc
 
+Alisha Coll <a href="https://twitter.com/alisha_coll"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
+
 Dean Boardman <a href="https://www.linkedin.com/in/dean-boardman-87a235162/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Sean Colreavy <a href="https://twitter.com/SColreavy"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
