@@ -19,9 +19,9 @@ Sinead Quinn.  Thesis title: A new understanding of the role of Vitamin D in Car
 ### BSc
 Dylan Bowden.  How does the human body clock impact upon cholesterol metabolism?
 
-Ajuma Salifu.  A multiplex proteomics approach for MACE prognosis.
+Ajuma Salifu.  A multiplex proteomics approach for MACE prognosis. <a href="https://www.linkedin.com/in/ajuma-salifu-789b15146/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-Tara Warren.  Whole body modelling of Vitamin D metabolism.
+Tara Warren.  Whole body modelling of Vitamin D metabolism. <a href="https://twitter.com/TwarrenT_"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/tara-warren-383096129/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Ciaran White.  How does the human body clock impact upon innate immunity?
 
