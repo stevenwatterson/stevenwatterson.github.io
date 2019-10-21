@@ -16,6 +16,15 @@ Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid
 ### MSc
 Sinead Quinn.  Thesis title: A new understanding of the role of Vitamin D in Cardiovascular health.
 
+### BSc
+Dylan Bowden.
+
+Ajuma Salifu.
+
+Tara Warren.
+
+Ciaran White.
+
 # Former Students
 
 ### PhD
