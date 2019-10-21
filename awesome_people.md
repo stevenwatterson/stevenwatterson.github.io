@@ -17,13 +17,13 @@ Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid
 Sinead Quinn.  Thesis title: A new understanding of the role of Vitamin D in Cardiovascular health.
 
 ### BSc
-Dylan Bowden.
+Dylan Bowden.  How does the human body clock impact upon cholesterol metabolism?
 
-Ajuma Salifu.
+Ajuma Salifu.  A multiplex proteomics approach for MACE prognosis.
 
-Tara Warren.
+Tara Warren.  Whole body modelling of Vitamin D metabolism.
 
-Ciaran White.
+Ciaran White.  How does the human body clock impact upon innate immunity?
 
 # Former Students
 
@@ -33,7 +33,6 @@ Ciaran White.
  <a href="https://twitter.com/AndrewSParton"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/andrew-parton-41741353/"><img src="/assets/img/In.png" height="20" width="25"></a>
  
 <a href="http://ppsa.umt.edu.my/?page_id=70&lang=en">Dr Muhamad Fairus Noor Hassim</a>,  Associate Fellow at Institute Marine Biotechnology Terengganu, Malaysia.  Thesis title: Bimodal switch silences cytomegalovirus in macrophages through a Stat1 feed-forward repression mechanism. <a href="https://www.linkedin.com/in/muhamad-fairus-noor-hassim-40aa9951/"><img src="/assets/img/In.png" height="20" width="25"></a>  
-
 
 ### MSc
 
