@@ -9,7 +9,9 @@ A series of meetings with the stated aim of promoting the great CVD research tak
 Presentations from Dr Ray Bond, Dr Chris Watson, Prof David Grive, Dr Karla O'Neill, Dr Declan McKenna, Dr Reinhold Medina, chaired by Drs Karla O'Neill and Victoria McGilligan.  
 
 [Programme](assets/CVDNI/Programme1.pdf)     
-[Registered attendee list](asses/CVDNI/Attendee1.pdf)  
+[Registered attendee list](assest/CVDNI/Attendee1.pdf)
+[Eventbrite](https://www.eventbrite.co.uk/e/cvd-ni-symposium-tickets-72262646521)
+
 
 # CVD NI 2
 ## Online, 7th April, 2020
@@ -17,4 +19,5 @@ Presentations from Dr Ray Bond, Dr Chris Watson, Prof David Grive, Dr Karla O'Ne
 Presentations from Prof Mary Ward, Dr Ikhlas El Karim, Dr Jasenka Guduric-Fuchs, Prof Christopher Mitchell, chaired by Drs Fionnuala Lundy and Taranjit Singh Rai.  
 
 [Programme](assets/CVDNI/Programme2.pdf)     
-[Registered attendee list](asses/CVDNI/Attendee2.pdf)  
+[Registered attendee list](assets/CVDNI/Attendee2.pdf)  
+[Eventbrite](https://www.eventbrite.co.uk/e/cvd-ni-symposium-tickets-100001687740)
