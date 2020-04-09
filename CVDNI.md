@@ -6,7 +6,9 @@ A series of meetings with the stated aim of promoting the great CVD research tak
 # CVD NI 1
 ## Ulster University, Jordanstown Campus, 24th September, 2019
 
-Presentations from Dr Ray Bond, Dr Chris Watson, Prof David Grive, Dr Karla O'Neill, Dr Declan McKenna, Dr Reinhold Medina, chaired by Drs Karla O'Neill and Victoria McGilligan.  
+Presentations from Dr Ray Bond, Dr Chris Watson, Prof David Grive, Dr Karla O'Neill, Dr Declan McKenna and Dr Reinhold Medina.  
+
+Chaired by Drs Karla O'Neill and Victoria McGilligan.  
 
 [Programme](assets/CVDNI/Programme1.pdf)     
 [Registered attendee list](assets/CVDNI/Attendee1.pdf)  
@@ -16,7 +18,9 @@ Presentations from Dr Ray Bond, Dr Chris Watson, Prof David Grive, Dr Karla O'Ne
 # CVD NI 2
 ## Online, 7th April, 2020
 
-Presentations from Prof Mary Ward, Dr Ikhlas El Karim, Dr Jasenka Guduric-Fuchs, Prof Christopher Mitchell, chaired by Drs Fionnuala Lundy and Taranjit Singh Rai.  
+Presentations from Prof Mary Ward, Dr Ikhlas El Karim, Dr Jasenka Guduric-Fuchs and Prof Christopher Mitchell.
+
+Chaired by Drs Fionnuala Lundy and Taranjit Singh Rai.  
 
 [Programme](assets/CVDNI/Programme2.pdf)     
 [Registered attendee list](assets/CVDNI/Attendee2.pdf)  
