@@ -13,6 +13,8 @@ He has previously worked at The Division of Infection and Pathway Medicine and T
 
 Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid system modulates inflammation and pain pathways involved in arthritis. <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
+Gerard Doherty.  Thesis title: An analysis of gallbladder disease diagnosis classification and disease progression using novel approaches. <a href="https://www.linkedin.com/in/gerard-doherty-ba10931a/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
 Christopher Page.  Thesis title: Improving the screening and diagnosis of familial hypercholesterolemia.
 
 Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes comorbidity. <a href="https://www.linkedin.com/in/matthew-ennis-7223331a2/"><img src="/assets/img/In.png" height="20" width="25"></a>
