@@ -13,10 +13,14 @@ He has previously worked at The Division of Infection and Pathway Medicine and T
 
 Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid system modulates inflammation and pain pathways involved in arthritis. <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
+Christopher Page.  Thesis title: Improving the screening and diagnosis of familial hypercholesterolemia.
+
+Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes comorbidity. <a href="https://www.linkedin.com/in/matthew-ennis-7223331a2/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
 ### MSc
-Sinead Quinn.  Thesis title: A new understanding of the role of Vitamin D in Cardiovascular health.
 
 ### BSc
+
 Dylan Bowden.  Dissertation title: How does the human body clock impact upon cholesterol metabolism?
 
 Ajuma Salifu.  Dissertation title: A multiplex proteomics approach for MACE prognosis. <a href="https://www.linkedin.com/in/ajuma-salifu-789b15146/"><img src="/assets/img/In.png" height="20" width="25"></a>
@@ -35,6 +39,8 @@ Ciaran White.  Dissertation title: How does the human body clock impact upon inn
 <a href="http://ppsa.umt.edu.my/?page_id=70&lang=en">Dr Muhamad Fairus Noor Hassim</a>,  Associate Fellow at Institute Marine Biotechnology Terengganu, Malaysia.  Thesis title: Bimodal switch silences cytomegalovirus in macrophages through a Stat1 feed-forward repression mechanism. <a href="https://www.linkedin.com/in/muhamad-fairus-noor-hassim-40aa9951/"><img src="/assets/img/In.png" height="20" width="25"></a>  
 
 ### MSc
+
+Sinead Quinn.  Thesis title: A new understanding of the role of Vitamin D in Cardiovascular health.
 
 Gary Lonergan, senior product quality officer at Almac group.  Thesis title: Computational Modelling of the Human Circadian Clock. <a href="https://twitter.com/gaztronica"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gary-lonergan-8aa69611/"><img src="/assets/img/In.png" height="20" width="25"></a>  
 
