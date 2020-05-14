@@ -44,7 +44,7 @@ Ciaran White.  Dissertation title: How does the human body clock impact upon inn
 
 Sinead Quinn.  Thesis title: A new understanding of the role of Vitamin D in Cardiovascular health.
 
-Gary Lonergan, senior product quality officer at Almac group.  Thesis title: Computational Modelling of the Human Circadian Clock. <a href="https://twitter.com/gaztronica"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gary-lonergan-8aa69611/"><img src="/assets/img/In.png" height="20" width="25"></a>  
+Gary Lonergan, team leader at Almac group.  Thesis title: Computational Modelling of the Human Circadian Clock. <a href="https://twitter.com/gaztronica"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gary-lonergan-8aa69611/"><img src="/assets/img/In.png" height="20" width="25"></a>  
 
 <a href="https://pure.qub.ac.uk/portal/en/persons/raymond-henderson(907264ef-8fba-4606-85da-544db8d855e0).html">Dr Raymond Henderson</a>, PhD student in Health Economics, Queens University Belfast.  Thesis title: Detection of Monogenic Disorders: Optimal Strategies from Computational Modelling. <a href="https://twitter.com/RayHen66"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/raymondhenderson1/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
