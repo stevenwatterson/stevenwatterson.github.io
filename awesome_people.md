@@ -21,6 +21,8 @@ Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes co
 
 ### MSc
 
+Marc Biarnes.  Thesis title: A multiplex proteomics approach for MACE prognosis.   <a href="https://www.linkedin.com/in/marc-biarn%C3%A9s-08b35168/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
 ### BSc
 
 Dylan Bowden.  Dissertation title: How does the human body clock impact upon cholesterol metabolism?
