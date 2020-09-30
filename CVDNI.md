@@ -25,3 +25,13 @@ Chaired by Drs Fionnuala Lundy and Taranjit Singh Rai.
 [Programme](assets/CVDNI/Programme2.pdf)     
 [Registered attendee list](assets/CVDNI/Attendee2.pdf)  
 [Eventbrite](https://www.eventbrite.co.uk/e/cvd-ni-symposium-tickets-100001687740)
+
+# CVD NI 3
+## Online, 9th October, 2020
+
+Presentations from Dr Nathan Quinlan, Dr Roisin McAllister, Aleeha Iftikhar, Khaled Rjoob, Dr Roger Preston and Prof Andriana Margariti.
+
+Chaired by Profs Mary Ward and Reinhold Medina.  
+
+[Programme](assets/CVDNI/Programme3.pdf)     
+[Eventbrite](https://www.eventbrite.co.uk/e/cvd-ni-symposium-tickets-122541550075)
