@@ -33,5 +33,5 @@ Presentations from Dr Nathan Quinlan, Dr Roisin McAllister, Aleeha Iftikhar, Kha
 
 Chaired by Profs Mary Ward and Reinhold Medina.  
 
-[Programme](assets/CVDNI/Programme3.pdf)     
+[Programme](assets/CVDNI/Programme3.pdf)  
 [Eventbrite](https://www.eventbrite.co.uk/e/cvd-ni-symposium-tickets-122541550075)
