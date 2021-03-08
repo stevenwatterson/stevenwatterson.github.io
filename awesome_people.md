@@ -19,19 +19,16 @@ Christopher Page.  Thesis title: Improving the screening and diagnosis of famili
 
 Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes comorbidity. <a href="https://www.linkedin.com/in/matthew-ennis-7223331a2/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-### MSc
-
-Marc Biarnes.  Thesis title: A multiplex proteomics approach for MACE prognosis.   <a href="https://www.linkedin.com/in/marc-biarn%C3%A9s-08b35168/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 ### BSc
 
-Dylan Bowden.  Dissertation title: How does the human body clock impact upon cholesterol metabolism?
+Jack Faulkner.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer (PCa).
 
-Ajuma Salifu.  Dissertation title: A multiplex proteomics approach for MACE prognosis. <a href="https://www.linkedin.com/in/ajuma-salifu-789b15146/"><img src="/assets/img/In.png" height="20" width="25"></a>
+Chun Sing Luke.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer (PCa).
 
-Tara Warren.  Dissertation title: Whole body modelling of Vitamin D metabolism. <a href="https://twitter.com/TwarrenT_"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/tara-warren-383096129/"><img src="/assets/img/In.png" height="20" width="25"></a>
+Adam Quinn.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer (PCa).
 
-Ciaran White.  Dissertation title: How does the human body clock impact upon innate immunity?
+Joshua Montgomery.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer (PCa).
 
 # Former Students
 
@@ -43,6 +40,8 @@ Ciaran White.  Dissertation title: How does the human body clock impact upon inn
 <a href="http://ppsa.umt.edu.my/?page_id=70&lang=en">Dr Muhamad Fairus Noor Hassim</a>,  Associate Fellow at Institute Marine Biotechnology Terengganu, Malaysia.  Thesis title: Bimodal switch silences cytomegalovirus in macrophages through a Stat1 feed-forward repression mechanism. <a href="https://www.linkedin.com/in/muhamad-fairus-noor-hassim-40aa9951/"><img src="/assets/img/In.png" height="20" width="25"></a>  
 
 ### MSc
+
+Marc Biarnes.  Thesis title: A multiplex proteomics approach for MACE prognosis.   <a href="https://www.linkedin.com/in/marc-biarn%C3%A9s-08b35168/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Sinead Quinn.  Thesis title: A new understanding of the role of Vitamin D in Cardiovascular health.
 
@@ -57,6 +56,14 @@ Chris Millward.  Thesis: Binary modelling of immune signalling.
 Sarah Dunn.  Thesis title: The Topological Classification of Signalling Pathways
 
 ### BSc
+
+Dylan Bowden.  Dissertation title: How does the human body clock impact upon cholesterol metabolism?
+
+Ajuma Salifu.  Dissertation title: A multiplex proteomics approach for MACE prognosis. <a href="https://www.linkedin.com/in/ajuma-salifu-789b15146/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
+Tara Warren.  Dissertation title: Whole body modelling of Vitamin D metabolism. <a href="https://twitter.com/TwarrenT_"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/tara-warren-383096129/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
+Ciaran White.  Dissertation title: How does the human body clock impact upon innate immunity?
 
 Dean Boardman <a href="https://www.linkedin.com/in/dean-boardman-87a235162/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
