@@ -22,9 +22,7 @@ Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes co
 
 ### BSc
 
-Jack Faulkner.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer (PCa). <a href="<a href="https://www.linkedin.com/in/jack-faulkner-82a702203/"><img src="/assets/img/In.png" height="20" width="25"></a>
-"><img src="/assets/img/In.png" height="20" width="25"></a>
-
+Jack Faulkner.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer (PCa). <a href="https://www.linkedin.com/in/jack-faulkner-82a702203/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Chun Sing Luke.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer (PCa).
 
