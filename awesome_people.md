@@ -11,13 +11,13 @@ He has previously worked at The Division of Infection and Pathway Medicine and T
 
 ### PhD
 
-Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid system modulates inflammation and pain pathways involved in arthritis. <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
-
 Gerard Doherty.  Thesis title: An analysis of gallbladder disease diagnosis classification and disease progression using novel approaches. <a href="https://twitter.com/GerardDoherty5"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gerard-doherty-ba10931a/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Christopher Page.  Thesis title: Improving the screening and diagnosis of familial hypercholesterolemia.
 
 Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes comorbidity. <a href="https://www.linkedin.com/in/matthew-ennis-7223331a2/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
+Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid system modulates inflammation and pain pathways involved in arthritis. <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 
 ### BSc
@@ -29,6 +29,8 @@ Chun Sing Luke.  Dissertation title: Towards a point-of care urine test for non-
 Adam Quinn.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer.
 
 Joshua Montgomery.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer.
+
+Jessica Ingram.  Dissertation title: Developing disease biosensors with synthetic biology.
 
 # Former Students
 
