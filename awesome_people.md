@@ -22,14 +22,6 @@ Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid
 
 ### BSc
 
-Jack Faulkner.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer. <a href="https://www.linkedin.com/in/jack-faulkner-82a702203/"><img src="/assets/img/In.png" height="20" width="25"></a>
-
-Chun Sing Luke.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer.
-
-Adam Quinn.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer.
-
-Joshua Montgomery.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer.
-
 Jessica Ingram.  Dissertation title: Developing disease biosensors with synthetic biology.
 
 # Former Students
@@ -58,6 +50,14 @@ Chris Millward.  Thesis: Binary modelling of immune signalling.
 Sarah Dunn.  Thesis title: The Topological Classification of Signalling Pathways
 
 ### BSc
+
+Jack Faulkner.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer. <a href="https://www.linkedin.com/in/jack-faulkner-82a702203/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
+Chun Sing Luke.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer.
+
+Adam Quinn.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer. <a href="https://uk.linkedin.com/in/adam-quin-76b862173/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
+Joshua Montgomery.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer. <a href="https://uk.linkedin.com/in/joshua-montgomery-575078196/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Dylan Bowden.  Dissertation title: How does the human body clock impact upon cholesterol metabolism?
 
