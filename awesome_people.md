@@ -83,18 +83,14 @@ Seamus Cairns  <a href="https://twitter.com/cairns_seamus"><img src="/assets/img
 
 Carla McKeown  <a href="https://twitter.com/CarlaMcKeown"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>
 
-### Nuffield Studentships
+### Nuffield & Sentinus Studentships
 
-### 2019
-Keeva Smith
+2021 - Jack Addison, Jack Fernando, Daniel Jennings, Aimee Meighan, Paul Furey, Eimear Morrison, Cerys Thornton, Lara Whitten
+ 
+2019 - Keeva Smith, Dearbhla Ní Choisneacháin
 
-Dearbhla Ní Choisneacháin
+2018 - Oran Timoney.  Oran <a href="https://www.facebook.com/205074686360422/videos/2221326311281557/">wins</a> the <a href="http://www.rcsi.ie/index.jsp?p=100&n=110&a=11710">RCSA award</a> at the <a href="http://www.irishnews.com/business/2019/01/15/news/young-scientists-of-the-future-show-their-mettle-at-bt-showpiece-1527756/">BT Young Scientist exhibition </a> in Dublin for his project, *Categorising CVD patient risk using machine learning tools*. 
 
-### 2018
-
-Oran Timoney.  Oran <a href="https://www.facebook.com/205074686360422/videos/2221326311281557/">wins</a> the <a href="http://www.rcsi.ie/index.jsp?p=100&n=110&a=11710">RCSA award</a> at the <a href="http://www.irishnews.com/business/2019/01/15/news/young-scientists-of-the-future-show-their-mettle-at-bt-showpiece-1527756/">BT Young Scientist exhibition </a> in Dublin for his project, *Categorising CVD patient risk using machine learning tools*. 
-
-### 2017
-Patricia Navarro
+2017 - Patricia Navarro
 
 
