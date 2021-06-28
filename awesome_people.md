@@ -85,12 +85,16 @@ Carla McKeown  <a href="https://twitter.com/CarlaMcKeown"><img src="/assets/img/
 
 ### Nuffield Studentships
 
+## 2019
 Keeva Smith
 
 Dearbhla Ní Choisneacháin
 
+## 2018
+
 Oran Timoney.  Oran <a href="https://www.facebook.com/205074686360422/videos/2221326311281557/">wins</a> the <a href="http://www.rcsi.ie/index.jsp?p=100&n=110&a=11710">RCSA award</a> at the <a href="http://www.irishnews.com/business/2019/01/15/news/young-scientists-of-the-future-show-their-mettle-at-bt-showpiece-1527756/">BT Young Scientist exhibition </a> in Dublin for his project, *Categorising CVD patient risk using machine learning tools*. 
 
+## 2017
 Patricia Navarro
 
 
