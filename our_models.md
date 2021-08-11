@@ -12,7 +12,7 @@ From [Parton et al., Bioinformatics (2018, in press)](https://doi.org/10.1093/bi
 # Cholesterol metabolism
 
 The cholesterol and vitamin D biosynthesis pathways.  From [Warren et al., Cells 2021, 10(8), 2007](https://www.mdpi.com/2073-4409/10/8/2007).
-* [Pathway map (SBGN-ML)](assets/models/)
+* [Pathway map (SBGN-ML)](assets/models/) and Newt file for the [Newt pathway editor](http://web.newteditor.org/), file [here](assets/models/vitD_chol_v2_metabolism.nwt).
 
 The mevalonate arm of the cholesterol biosynthesis pathway.  From [Benson et al., British Journal of Pharmacology, Volume 174, Issue 23, Pages 4362-4382, 2017](https://bpspubs.onlinelibrary.wiley.com/doi/abs/10.1111/bph.14037).   
 * [Pathway map (SBGN-ML)](assets/models/bph14037-sup-006-mevalonate_pathway.sbgn) and [Pathway map+model (SBML+CellDesigner)](assets/models/bph14037-sup-007-mevalonate_pathway.sbml)
