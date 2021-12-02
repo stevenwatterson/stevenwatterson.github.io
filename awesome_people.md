@@ -21,7 +21,7 @@ Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes co
 
 James Kerr.  Dissertation title: Developing cardiovascular disease biosensors with synthetic biology.
 
-Caitlin Strawbridge.  Dissertation title: Developing cardiovascular disease biosensors with synthetic biology.
+Caitlin Strawbridge.  Dissertation title: Developing cardiovascular disease biosensors with synthetic biology. <a href="https://twitter.com/123_Caitlin"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
 
 Thomas McLarnon.  Dissertation title: Developing cardiovascular disease biosensors with synthetic biology.
 
