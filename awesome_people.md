@@ -17,16 +17,25 @@ Christopher Page.  Thesis title: Improving the screening and diagnosis of famili
 
 Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes comorbidity. <a href="https://www.linkedin.com/in/matthew-ennis-7223331a2/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid system modulates inflammation and pain pathways involved in arthritis. <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
-
-
 ### BSc
+
+James Kerr.  Dissertation title: Developing cardiovascular disease biosensors with synthetic biology.
+
+Caitlin Strawbridge.  Dissertation title: Developing cardiovascular disease biosensors with synthetic biology.
+
+Thomas McLarnon.  Dissertation title: Developing cardiovascular disease biosensors with synthetic biology.
+
+Group project: Thomas McLarnon, Paul Farrell, Alice Crown, Meagan McFeely, Euan Spratt.  Title: Mapping out the pathways associated with comorbidities of CVD.
+
+### MSc
 
 Jessica Ingram.  Dissertation title: Developing disease biosensors with synthetic biology.
 
 # Former Students
 
 ### PhD
+
+Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid system modulates inflammation and pain pathways involved in arthritis. <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 <a href="https://www.ebi.ac.uk/about/people/andrew-parton">Dr Andrew Parton</a>, senior scientific programmer, European Bioinformatcs Institute.  Thesis title: The dynamics of cholesterol metabolism and atherosclerosis across population subgroups.
  <a href="https://twitter.com/AndrewSParton"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/andrew-parton-41741353/"><img src="/assets/img/In.png" height="20" width="25"></a>
