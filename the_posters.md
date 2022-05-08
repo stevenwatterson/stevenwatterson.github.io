@@ -23,7 +23,7 @@ title: Posters
 
 <a href="http://dx.doi.org/10.6084/m9.figshare.97316"><img src="/assets/img/Capture1.PNG" alt="poster1" width="100px"/></a>
 
-[Digital clocks: Using Boolean logic to analyze circadian clocks more powerfully](http://dx.doi.org/10.6084/m9.figshare.97316), Steven Watterson, Andrew Parton, Ozgur Akman, Nigel Binns, Andrew Millar and Peter Ghazal, Presented at the International Conference in Systems Biology, Heidelberg, 2011  
+[Digital clocks: Using Boolean logic to analyze circadian clocks more powerfully](https://figshare.com/articles/figure/Digital_clocks_Using_Boolean_logic_to_analyze_circadian_clocks_more_powerfully/97316), Steven Watterson, Andrew Parton, Ozgur Akman, Nigel Binns, Andrew Millar and Peter Ghazal, Presented at the International Conference in Systems Biology, Heidelberg, 2011  
 
 
 
