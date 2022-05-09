@@ -3,7 +3,7 @@ layout: default
 title: Posters
 ---
 
-<a href="https://doi.org/10.6084/m9.figshare.19732201.v1"><img src="/assets/img/BAS2019.PNG" alt="poster4" width="100px"/></a>
+<a href="https://doi.org/10.6084/m9.figshare.19732201.v1"><img src="/assets/img/CP_NHSLTP.png" alt="poster4" width="100px"/></a>
 
 [Meeting the NHS Long Term Plan (LTP) target to identify 25% of the Familial Hypercholesterolaemia (FH) population by 2024](https://doi.org/10.6084/m9.figshare.19732201.v1), Christopher Page, Taranjit Singh Rai, Haiying Wang, Huiru Zheng, Maurice O’Kane, Shane McKee, Padraig Hart, Steven Watterson (2022)
 
