@@ -94,6 +94,8 @@ Carla McKeown  <a href="https://twitter.com/CarlaMcKeown"><img src="/assets/img/
 
 ### Nuffield & Sentinus Studentships
 
+2022 - Molly Thompson, Joseph Quinn
+
 2021 - Jack Addison, Jack Fernando, Daniel Jennings, Aimee Meighan, Paul Furey, Eimear Morrison, Cerys Thornton, Lara Whitten
  
 2019 - Keeva Smith, Dearbhla Ní Choisneacháin
