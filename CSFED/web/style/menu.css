@@ -1,0 +1,119 @@
+/* ######################### MENU STYLE #########################*/
+#imSite { position: relative; }
+#imMnMn { text-align: left; }
+#imMnMn > ul { z-index: 10001; display: inline-block; }
+#imMnMn li > ul { z-index: 10002; }
+
+/* Main Menu */
+
+#imMnMn ul, #imPgMn ul {padding:0;margin:0;list-style-type:none; }
+#imMnMn > ul > li { position: relative; margin-left: 0px;  }
+#imMnMn > ul > li:first-child { margin-left: 0; }
+/* Links */
+#imMnMnNode0 { background-image: url('../menu/index.png'); height: 23px; width: 160px; }
+#imMnMnNode0 .imMnMnFirstBg { height: 23px; width: 160px; }
+#imMnMnNode0:hover { background: none; background-image: none; }
+#imMnMnNode0:hover .imMnMnFirstBg { background-image: url('../menu/index_h.png'); height: 23px; width: 160px;}
+#imMnMnNode0.imMnMnCurrent { background: none; background-image: none; }
+#imMnMnNode0.imMnMnCurrent span.imMnMnFirstBg { background-image: url('../menu/index_h.png'); height: 23px; width: 160px;}
+#imMnMnNode3 { background-image: url('../menu/member-federations.png'); height: 23px; width: 160px; }
+#imMnMnNode3 .imMnMnFirstBg { height: 23px; width: 160px; }
+#imMnMnNode3:hover { background: none; background-image: none; }
+#imMnMnNode3:hover .imMnMnFirstBg { background-image: url('../menu/member-federations_h.png'); height: 23px; width: 160px;}
+#imMnMnNode3.imMnMnCurrent { background: none; background-image: none; }
+#imMnMnNode3.imMnMnCurrent span.imMnMnFirstBg { background-image: url('../menu/member-federations_h.png'); height: 23px; width: 160px;}
+#imMnMnNode5 { background-image: url('../menu/host-countries.png'); height: 23px; width: 160px; }
+#imMnMnNode5 .imMnMnFirstBg { height: 23px; width: 160px; }
+#imMnMnNode5:hover { background: none; background-image: none; }
+#imMnMnNode5:hover .imMnMnFirstBg { background-image: url('../menu/host-countries_h.png'); height: 23px; width: 160px;}
+#imMnMnNode5.imMnMnCurrent { background: none; background-image: none; }
+#imMnMnNode5.imMnMnCurrent span.imMnMnFirstBg { background-image: url('../menu/host-countries_h.png'); height: 23px; width: 160px;}
+#imMnMnNode7 { background-image: url('../menu/championships.png'); height: 23px; width: 160px; }
+#imMnMnNode7 .imMnMnFirstBg { height: 23px; width: 160px; }
+#imMnMnNode7:hover { background: none; background-image: none; }
+#imMnMnNode7:hover .imMnMnFirstBg { background-image: url('../menu/championships_h.png'); height: 23px; width: 160px;}
+#imMnMnNode7.imMnMnCurrent { background: none; background-image: none; }
+#imMnMnNode7.imMnMnCurrent span.imMnMnFirstBg { background-image: url('../menu/championships_h.png'); height: 23px; width: 160px;}
+#imMnMnNode49 { background-image: url('../menu/officers---contact.png'); height: 23px; width: 160px; }
+#imMnMnNode49 .imMnMnFirstBg { height: 23px; width: 160px; }
+#imMnMnNode49:hover { background: none; background-image: none; }
+#imMnMnNode49:hover .imMnMnFirstBg { background-image: url('../menu/officers---contact_h.png'); height: 23px; width: 160px;}
+#imMnMnNode49.imMnMnCurrent { background: none; background-image: none; }
+#imMnMnNode49.imMnMnCurrent span.imMnMnFirstBg { background-image: url('../menu/officers---contact_h.png'); height: 23px; width: 160px;}
+#imMnMn .imMnMnFirstBg .imMnMnTxt {display: none;}
+#imMnMn > ul > li.imMnMnSeparator { background: transparent url('../res/separatorh.png') no-repeat center center; width: 10px; height: 23px; }
+#imMnMn .imMnMnFirstBg { position: relative; display: block; background-repeat: no-repeat; cursor: pointer; width: 100%; }
+#imMnMn a { border: none; cursor: pointer; }
+#imMnMn .imMnMnTxt { text-overflow: ellipsis; white-space: nowrap; }
+
+/* SubMenu style */
+#imMnMn li .imMnMnBorder {  background-repeat: no-repeat; background-position: left top; width: 160px; height: 22px; border-collapse: collapse; }
+#imMnMn ul ul li { cursor: pointer; overflow: hidden; width: 160px; height: 22px; border-collapse: collapse; cursor: pointer; display: inline; }
+#imMnMn ul ul li a { display: block; width: 160px; height: 22px; }
+#imMnMn ul ul li > .imMnMnBorder, #imMnMn ul ul li > a > .imMnMnBorder { background-image: url('../menu/sub.png'); }
+#imMnMn ul ul li:hover > a > .imMnMnBorder, #imMnMn ul ul li:hover > .imMnMnBorder { background-image: url('../menu/sub_h.png'); }
+#imMnMn ul ul li.imMnMnSeparator:hover > a > .imMnMnBorder, #imMnMn ul ul li.imMnMnSeparator:hover > .imMnMnBorder { background-image: url('../menu/sub.png'); cursor: auto; }
+#imMnMn ul ul li.imMnMnFirst > .imMnMnBorder, #imMnMn ul ul li.imMnMnFirst > a > .imMnMnBorder { background-image: url('../menu/sub_f.png'); }
+#imMnMn ul ul li.imMnMnFirst:hover > a > .imMnMnBorder, #imMnMn ul ul li.imMnMnFirst:hover > .imMnMnBorder { background-image: url('../menu/sub_f_h.png'); }
+#imMnMn ul ul li.imMnMnFirst.imMnMnSeparator:hover > a > .imMnMnBorder, #imMnMn ul ul li.imMnMnFirst.imMnMnSeparator:hover > .imMnMnBorder { background-image: url('../menu/sub_f.png'); cursor: auto; }
+#imMnMn ul ul li.imMnMnMiddle > .imMnMnBorder, #imMnMn ul ul li.imMnMnMiddle > a > .imMnMnBorder { background-image: url('../menu/sub_m.png'); }
+#imMnMn ul ul li.imMnMnMiddle:hover > a > .imMnMnBorder, #imMnMn ul ul li.imMnMnMiddle:hover > .imMnMnBorder { background-image: url('../menu/sub_m_h.png'); }
+#imMnMn ul ul li.imMnMnMiddle.imMnMnSeparator:hover > a > .imMnMnBorder, #imMnMn ul ul li.imMnMnMiddle.imMnMnSeparator:hover > .imMnMnBorder { background-image: url('../menu/sub_m.png'); cursor: auto; }
+#imMnMn ul ul li.imMnMnLast > .imMnMnBorder, #imMnMn ul ul li.imMnMnLast > a > .imMnMnBorder { background-image: url('../menu/sub_l.png'); }
+#imMnMn ul ul li.imMnMnLast:hover > a > .imMnMnBorder, #imMnMn ul ul li.imMnMnLast:hover > .imMnMnBorder { background-image: url('../menu/sub_l_h.png'); }
+#imMnMn ul ul li.imMnMnLast.imMnMnSeparator:hover > a > .imMnMnBorder, #imMnMn ul ul li.imMnMnLast.imMnMnSeparator:hover > .imMnMnBorder { background-image: url('../menu/sub_l.png'); cursor: auto; }
+#imMnMn .imMnMnImg img { vertical-align: middle; padding: 0px; border: none; }
+#imMnMn li .imMnMnBorder .imMnMnImg img.imMnMnHoverIcon { display: none; }
+#imMnMn li:hover > a > .imMnMnBorder > .imMnMnTxt > .imMnMnImg img.imMnMnDefaultIcon { display: none; }
+#imMnMn li:hover > a > .imMnMnBorder > .imMnMnTxt > .imMnMnImg img.imMnMnHoverIcon { display: inline; }
+#imMnMn .imMnMnImg { display: block; height: 22px; line-height: 22px; float: left; cursor: pointer; }
+#imMnMn .imMnMnImg img { position: relative; left: -3px;}
+#imMnMn ul ul li .imMnMnTxt { position: relative; overflow: hidden; text-align: left; margin: 0px; padding: 0px; padding-left: 7px;  line-height: 22px; height: 22px; }
+#imMnMn ul ul li .imMnMnLevelImg { z-index: 100; position: absolute; right: 3px; top: 0; display: block; width: 7px; height: 22px; background-image: url('../res/imIconMenuLeft.gif'); background-position: center center; background-repeat: no-repeat; }
+
+/* Normal font style */
+#imMnMn ul ul .imMnMnTxt { height: 22px; text-decoration: none; text-align: left; font: normal normal 9.000pt Tahoma; color: #000000;}
+
+/* Hover font style */
+#imMnMn ul ul li:hover > a > .imMnMnBorder .imMnMnTxt,
+#imMnMn > ul > li > ul li:hover a,
+#imMnMn ul ul li:hover > .imMnMnBorder .imMnMnTxt,
+#imMnMn > ul > li > div > ul li:hover a { text-decoration: none; color: #FFFFFF; }
+#imMnMn ul .imMnMnSeparator, #imMnMn ul .imMnMnSeparator * { cursor: default; }
+
+/* Section font style */
+#imMnMn ul ul li.imMnMnSeparator > a > .imMnMnBorder .imMnMnTxt,
+#imMnMn > ul > li > ul li.imMnMnSeparator:hover a,
+#imMnMn ul ul li.imMnMnSeparator:hover > .imMnMnBorder .imMnMnTxt,
+#imMnMn ul ul li.imMnMnSeparator > .imMnMnBorder .imMnMnTxt { text-decoration: none; color: #A9A9A9; font-style: normal; font-weight: bold; }
+#imMnMn ul a, #imMnMn ul a:hover, #imMnMn ul a:visited { font: inherit; color: inherit; text-align: inherit; text-decoration: none; }
+
+
+/* MENU POSITION : HORIZONTAL VerticalOneColumn */
+#imMnMn ul .autoHide, #imMnMn ul div .autoHide { display: none; }
+
+/* ######################### MAIN MENU POSITION #########################*/
+
+/* div: Menu container*/
+#imMnMn { z-index:10000; }
+#imMnMn > ul { position: relative; }
+#imMnMn > ul > li > ul { position: absolute; }
+
+/* First level menu style */
+#imMnMn > ul > li { display: inline-block; width:160px; }
+#imMnMn > ul > li span { display:block; padding:0;}
+#imMnMn a { cursor: pointer; display: block; width:160px;}
+
+/* ########################## SUB MENU POSITION #########################*/
+
+#imMnMn.auto ul li ul li { top: 0px; }
+
+/* Second level boxmodel*/
+#imMnMn.auto ul li ul li ul { position: absolute; width: 160px;left: 100%; margin-top: -22px; }
+
+/* Hide Levels */
+#imMnMn.auto li:hover > ul.auto { display:block; }
+#imMnMn.auto li ul.auto { display: none; }
+#imMnMn ul ul li .imMnMnBorder { overflow: hidden; }
+
+/* End of file menu.css */

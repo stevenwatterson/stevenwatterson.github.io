@@ -1,0 +1,224 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 12px;
+}
+h1, h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.5em;
+	margin: 0.5em 10px 1.25em;
+	color: #333;
+}
+#imNavBar {
+	top: 0;
+	left: 0;
+	width: 100%;
+	background-color: #595959;
+	color: #fff;
+	padding: 5px 0;
+	position: relative;
+}
+#imNavBar a {
+	font-size: 12px;
+	color: #ddd;
+	text-decoration: none;
+	padding: 5px;
+}
+#imNavBar span {
+	position: absolute;
+	right: 10px;
+}
+#imNavBar .active {
+	font-weight: bold;
+	color: #fff;
+}
+.imContent {
+	padding: 0;
+	background-color: #f4f4f4;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+}
+#imLoginPage {
+	margin: 100px auto 10px auto;
+	width: 280px;
+}
+#imLoginPage .imContent {
+	padding: 10px;
+}
+#imAdminPage {
+	margin: 40px auto 10px auto;
+	width: 600px;
+}
+#imBody {
+	padding: 0;
+}
+.imBreadcrumb {
+	display: block;
+}
+fieldset {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+input {
+	color: #555;
+	border: 1px solid gray;
+	font-size: 12px;
+	padding: 2px;
+	margin-bottom: 2px; 
+}
+select {
+	color: #555;
+	margin-bottom: 2px;
+}
+input[type="submit"] {
+	background-color: #ffd9be;
+	cursor: pointer;
+}
+input[type="submit"].imBlogPostCommentActionApprove {
+	border-color: #8bff51;
+	background-color: #d9ffbe;
+}
+input[type="submit"]:hover {
+	background-color: #ffeacf;
+}
+input[type="submit"]:hover.imBlogPostCommentActionApprove {
+	background-color: #eaffcf;
+}
+input[type="password"],
+input[type="text"] {
+	width: 255px;
+	font-size: 12px;
+}
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+thead td, thead th, .head td, .head th, .head {
+	background-color: #717171;
+	color: white;
+}
+
+.align-center {
+	text-align: center;
+}
+
+.align-left {
+	text-align: left;
+}
+
+.align-right {
+	text-align: right;
+}
+
+.personal-data {
+	display: inline-block;
+	margin: 0 5px;
+	width: 48%;
+	border: 1px solid #ccc;
+}
+
+.personal-data table {
+	width: auto;
+}
+
+.personal-data td, .personal-data th {
+	padding: 5px;
+}
+
+table.border th, table.border td {
+	border-collapse: collapse;
+	border: 1px solid #CCC;
+	padding: 5px;
+}
+
+table.border th {
+	font-weight: bold;
+}
+.topic-summary {
+	margin: 30px auto;
+	text-align: center;
+	font-size: 1.25em;
+}
+.topic-comment {
+	padding: 10px 10px 0 10px;
+	border-top: 1px solid #ddd;
+	border-bottom: none;
+	font-size: 12px;
+}
+.abused {
+	background-color: #ffeabf;
+}
+.disabled {
+	background-color: #ffccbf;	
+}
+.topic-comment:last-child {
+	border-bottom: none;
+}
+.topic-comments-user {
+	font-weight: bold;
+	font-size: 1.1em;
+	margin: 0;
+}
+.topic-comments-user a {
+	text-decoration: none;
+	color: #ee7a40;
+}
+.topic-commenst-user a:hover {
+	text-decoration: underline;
+	color: #ee7a40;
+}
+.topic-comments-body {
+	margin: 10px 0;
+}
+.topic-comments-date {
+	font-size: 70%;
+	color: #888;
+	margin-bottom: 3px;
+}
+.topic-comments-action {
+	float: right;
+}
+.topic-comments-controls {
+	color: #555;
+	text-align: right;
+	padding: 5px 0;
+	border-top: 1px solid #888;
+}
+.topic-comments-controls a, .topic-comments-controls a:hover {
+	color: inherit;
+	text-decoration: none;
+}
+.imTest {
+	margin: 5px;
+	padding: 5px;
+	vertical-align:middle;
+	font-size: 15px;
+	position: relative;
+}
+.pass {
+	background-color: rgb(51,204,51);
+}
+.fail {
+	background-color: rgb(240,0,0);
+}
+.imTest span {
+	position: absolute;
+	right: 5px;
+}
+.imTest span {
+	position: absolute;
+	right: 5px;
+}
+.imTest p {
+	padding: 8px 0 0 0;
+	font-size: 0.85em;
+}
+.imSectionTitle {
+	padding: 0;
+	background-color: white;
+	font-size: 18px;
+	margin-bottom: 10px;
+}

@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<fileversions>
+	<file id="130272707441288851-vbh7x3b2" version="135" path="style/menu.css" />
+	<file id="130272707441298851-vbh7x3b2" version="135" path="style/ie.css" />
+	<file id="130284022765775141-s8761uzw" version="75" path="images/gradient.png" />
+	<file id="130284048153147216-0p4k2ec1" version="3" path="files\CSFED-Constitution---Approved-27.09.2008.pdf" />
+	<file id="130291287217988845-8e50q1s2" version="3" path="files\1-CSF-ED--2011-all-events.pdf" />
+	<file id="130291287450952170-8mnv2u99" version="3" path="files\CSF-ED--2012-all-events.pdf" />
+	<file id="130291809822806049-orr17i9x" version="3" path="files\1-CSF-ED--2008-Results-all-events.pdf" />
+	<file id="130291854779037398-lez0yp5e" version="3" path="files\1-CSF-ED--2007-Results-all-events.pdf" />
+	<file id="130291905578772977-gwq7mo65" version="3" path="files\1-CSF-ED--2006-Results-all-25-and-50m.pdf" />
+	<file id="130309421777023843-bjo607wz" version="2" path="files\CSFED_1977.pdf" />
+	<file id="130309425118024937-53uj7sik" version="2" path="files\CSFED_2003.pdf" />
+	<file id="130309426304662809-8f22np63" version="2" path="files\CSFED_1999.pdf" />
+	<file id="130312870318018129-m6ianm9g" version="2" path="files\CSFED_1993.pdf" />
+	<file id="130312871070281156-0y5g964p" version="2" path="files\CSFED_1992.pdf" />
+	<file id="130312871674715728-7jo5mdcn" version="2" path="files\CSFED_1991.pdf" />
+	<file id="130312873337750848-3g1erpzl" version="2" path="files\CSFED_1990.pdf" />
+	<file id="130312874491816857-8s6ofv6k" version="2" path="files\CSFED_1989.pdf" />
+	<file id="130312875479853370-823m805y" version="2" path="files\CSFED_1988.pdf" />
+	<file id="130312876332422134-9c6ck048" version="2" path="files\CSFED_1987.pdf" />
+	<file id="130312877034512291-q1h3qs62" version="2" path="files\CSFED_1985.pdf" />
+	<file id="130312877882010765-93jc54cc" version="2" path="files\CSFED_1984.pdf" />
+	<file id="130312878733119446-yi3m4115" version="2" path="files\CSFED_1983.pdf" />
+	<file id="130312879494843014-35jul8c0" version="2" path="files\CSFED_1982.pdf" />
+	<file id="130312880160291075-7uhwyyt9" version="2" path="files\CSFED_1981.pdf" />
+	<file id="130312881253513604-z6aa0ie3" version="2" path="files\CSFED_1980.pdf" />
+	<file id="130312882118213062-f28e3m1h" version="2" path="files\CSFED_1979.pdf" />
+	<file id="130313717450222040-57bmia71" version="2" path="files\CSFED_2000.pdf" />
+	<file id="130313719882741172-m3371d47" version="2" path="files\CSFED_2004.pdf" />
+	<file id="130313722617367584-92ei5q24" version="2" path="files\CSFED_2005.pdf" />
+	<file id="130313727131075753-fp0dwb4i" version="2" path="files\CSFED_2009.pdf" />
+	<file id="130316144456661846-04r01km1" version="2" path="files\CSFED_1978.pdf" />
+	<file id="130316733295499801-tf5hsb43" version="2" path="files\CSFED_1976.pdf" />
+	<file id="130318670032005479-5c0f0tf2" version="2" path="images\syp_skok_logo2.jpg" />
+	<file id="130318670032015480-5c0f0tf2" version="2" path="images\gib2.jpg" />
+	<file id="130318670032025480-5c0f0tf2" version="2" path="images\england.jpg" />
+	<file id="130318670032075483-5c0f0tf2" version="2" path="images\stsf.jpg" />
+	<file id="130318670032085484-5c0f0tf2" version="2" path="images\wales.jpg" />
+	<file id="130320277202441617-5l1vmd33" version="1" path="files\1--CSFED_2013_COMPOSITE_all_events.pdf" />
+	<file id="130330757509946203-ffs0o62a" version="1" path="files\CSFED_1975.pdf" />
+	<file id="130330761005056112-4o3292be" version="1" path="files\CSFED---1974---medal-winners.pdf" />
+	<file id="130415189541579826-v81v5o3o" version="1" path="images\jersey.jpg" />
+	<file id="130415190335311335-3400l266" version="1" path="images\iomtsf2.jpg" />
+	<file id="130415198797074423-93v8sl43" version="1" path="images\malta.jpg" />
+	<file id="130415198999804720-lzlzzier" version="1" path="images\guernsey.jpg" />
+	<file id="130415203711013456-78va18k8" version="1" path="images\NIFSS-logo2.jpg" />
+	<file id="130429848176150939-p2n4wy68" version="1" path="files\1997-3x40.pdf" />
+	<file id="130429848422401309-0tjx94n0" version="1" path="files\1997-Prone-Men-Prs.pdf" />
+	<file id="130429848600931560-t0v40x5w" version="1" path="files\1997-Prone-Women.pdf" />
+	<file id="130429848805791895-va8m1hx9" version="1" path="files\1997-AP-Indv.pdf" />
+	<file id="130429848969212136-6k3an3b6" version="1" path="files\1997-AP-Prs.pdf" />
+	<file id="130429849174222424-l730n27r" version="1" path="files\1997-AP-Prs--2-.pdf" />
+	<file id="130429849488632915-t14zwg4w" version="1" path="files\1997-Stnd-Pistol-Indv.pdf" />
+	<file id="130429849676863191-v2zs4085" version="1" path="files\1997-Stnd-Pistol-Prs.pdf" />
+	<file id="130429849949443599-3f31a83q" version="1" path="files\1997-Trap---1st-75-only.pdf" />
+	<file id="130429872265224312-ez24fwd3" version="1" path="menu/sub.png" />
+	<file id="130429872265224312-p1k07oys" version="1" path="menu/sub_h.png" />
+	<file id="130429872265324313-p1k07oys" version="1" path="menu/sub_f.png" />
+	<file id="130429872265424313-p1k07oys" version="1" path="menu/sub_m.png" />
+	<file id="130429872265524313-h6306bgs" version="1" path="menu/sub_l.png" />
+	<file id="130429872265624313-rum51u00" version="1" path="menu/sub_f_h.png" />
+	<file id="130429872265724313-rum51u00" version="1" path="menu/sub_m_h.png" />
+	<file id="130429872265824313-3245023c" version="1" path="menu/sub_l_h.png" />
+	<file id="130429883501441321-o4312mn5" version="1" path="images\issflogo.jpg" />
+	<file id="130429883501541321-o4312mn5" version="1" path="images\csflogo.jpg" />
+	<file id="130524158611202240-lyhayh7h" version="1" path="files\CSF-ED--1996.pdf" />
+	<file id="130879435041371709-d6ra111t" version="0" path="style\reset.css" />
+	<file id="130879435041381709-d6ra111t" version="0" path="style\print.css" />
+	<file id="130879435041391710-d6ra111t" version="2" path="style/style.css" />
+	<file id="130879435041401711-d6ra111t" version="0" path="res/x5settings.js" />
+	<file id="130879435041411711-d6ra111t" version="0" path="res\swfobject.js" />
+	<file id="130879435041421712-d6ra111t" version="0" path="res\jquery.js" />
+	<file id="130879435041431712-d6ra111t" version="0" path="res\x5engine.js" />
+	<file id="130879435041441713-d6ra111t" version="0" path="res\x5engine.offline.js" />
+	<file id="130879435041451713-d6ra111t" version="0" path="res\x5engine.deferrable.js" />
+	<file id="130879435041461714-d6ra111t" version="0" path="res\x5cartengine.js" />
+	<file id="130879435041471715-d6ra111t" version="0" path="res/x5settings.php" />
+	<file id="130879435041481715-d6ra111t" version="0" path="res\imemail.inc.php" />
+	<file id="130879435041481715-vbrb054t" version="5" path="res/search.inc.php" />
+	<file id="130879435041491716-vbrb054t" version="0" path="res\x5engine.php" />
+	<file id="130879435041501716-vbrb054t" version="0" path="res\imlogout.php" />
+	<file id="130879435041511717-vbrb054t" version="0" path="captcha\imcaptcha.php" />
+	<file id="130879435041521717-vbrb054t" version="0" path="res\expressInstall.swf" />
+	<file id="130879435041531718-vbrb054t" version="0" path="res\imImage.swf" />
+	<file id="130879435041541719-vbrb054t" version="0" path="res\imPanZoom.swf" />
+	<file id="130879435041551719-vbrb054t" version="0" path="res\imVideo.swf" />
+	<file id="130879435041561720-vbrb054t" version="0" path="res\imSound.swf" />
+	<file id="130879435041571720-vbrb054t" version="0" path="res\imsearch.png" />
+	<file id="130879435041581721-vbrb054t" version="0" path="res\move.png" />
+	<file id="130879435041591721-vbrb054t" version="0" path="res\imSwipe.png" />
+	<file id="130879435041601722-vbrb054t" version="0" path="res\date.gif" />
+	<file id="130879435041611723-vbrb054t" version="0" path="res\info.gif" />
+	<file id="130879435041621723-vbrb054t" version="0" path="res\imLoad.gif" />
+	<file id="130879435041631724-vbrb054t" version="0" path="res\imClose.png" />
+	<file id="130879435041641724-vbrb054t" version="0" path="res\imArrT.png" />
+	<file id="130879435041641724-5m6c9c87" version="0" path="res\imArrB.png" />
+	<file id="130879435041651725-5m6c9c87" version="0" path="res\imArrL.png" />
+	<file id="130879435041661725-5m6c9c87" version="0" path="res\imArrR.png" />
+	<file id="130879435041671726-5m6c9c87" version="0" path="res\imIconMenuLeft.gif" />
+	<file id="130879435041681727-5m6c9c87" version="0" path="res\imIconMenuRight.gif" />
+	<file id="130879435041691727-5m6c9c87" version="0" path="res\video_thumb.png" />
+	<file id="130879435041701728-5m6c9c87" version="0" path="res\separatorh.png" />
+	<file id="130879435041711728-5m6c9c87" version="0" path="res\separatorv.png" />
+	<file id="130879435041721729-5m6c9c87" version="0" path="res\imfolder_closed.gif" />
+	<file id="130879435041731729-5m6c9c87" version="0" path="res\imfolder_open.gif" />
+	<file id="130879435041741730-5m6c9c87" version="0" path="res\impage.gif" />
+	<file id="130879435041751731-5m6c9c87" version="0" path="res\exclamation.png" />
+	<file id="130879435041761731-5m6c9c87" version="0" path="res\email_go.png" />
+	<file id="130879435041771732-5m6c9c87" version="0" path="res\key_go.png" />
+	<file id="130879435041781732-5m6c9c87" version="0" path="res\tick.png" />
+	<file id="130879435041791733-5m6c9c87" version="0" path="admin\blog.php" />
+	<file id="130879435041791733-96tp4uqc" version="0" path="admin\checkaccess.php" />
+	<file id="130879435041801733-96tp4uqc" version="0" path="admin\footer.php" />
+	<file id="130879435041811734-96tp4uqc" version="0" path="admin\header.php" />
+	<file id="130879435041821735-96tp4uqc" version="0" path="admin\index.php" />
+	<file id="130879435041831735-96tp4uqc" version="0" path="admin\template.css" />
+	<file id="130879435041841736-96tp4uqc" version="0" path="admin\login.php" />
+	<file id="130879435041851736-96tp4uqc" version="0" path="admin\logo.png" />
+	<file id="130879435041861737-96tp4uqc" version="0" path="admin\guestbook.php" />
+	<file id="130879435041871737-96tp4uqc" version="0" path="admin\website_test.php" />
+	<file id="130879435041881738-96tp4uqc" version="0" path="admin\download.php" />
+	<file id="130879435041931741-96tp4uqc" version="0" path="res\l10n.php" />
+	<file id="130879435041981744-6c7q3hyc" version="0" path="res\l10n.js" />
+	<file id="130879435041991744-6c7q3hyc" version="0" path="res/access.inc.php" />
+	<file id="130879436309634249-13214361" version="2" path="favicon.png" />
+	<file id="130973647230220123-ado2fji1" version="1" path="files\CSFED-Regulations---Approved-27.9.08,-Gibraltar,-and-amended-Sept-2009.pdf" />
+	<file id="131215513466285865-c6p0hn7d" version="1" path="files\CSF-ED--2016-RESULTS-all-events.pdf" />
+	<file id="131216151534664688-a2ba36c8" version="1" path="images/gradient_a2ba36c8.png" />
+	<file id="131216152643028083-9vd7zl14" version="1" path="images/gradient_9vd7zl14.png" />
+	<file id="131216154770219751-482a26q0" version="1" path="menu/index.png" />
+	<file id="131216154770239752-8b3583lk" version="1" path="menu/index_h.png" />
+	<file id="131216154770249753-8b3583lk" version="1" path="menu/index_c.png" />
+	<file id="131216154770269754-8b3583lk" version="1" path="menu/member-federations.png" />
+	<file id="131216154770279755-8b3583lk" version="1" path="menu/member-federations_h.png" />
+	<file id="131216154770289755-8b3583lk" version="1" path="menu/member-federations_c.png" />
+	<file id="131216154770299756-8b3583lk" version="1" path="menu/host-countries.png" />
+	<file id="131216154770319757-8b3583lk" version="1" path="menu/host-countries_h.png" />
+	<file id="131216154770329758-8b3583lk" version="1" path="menu/host-countries_c.png" />
+	<file id="131216154770359759-8b3583lk" version="1" path="menu/championships.png" />
+	<file id="131216154770369760-8b3583lk" version="1" path="menu/championships_h.png" />
+	<file id="131216154770379760-8b3583lk" version="1" path="menu/championships_c.png" />
+	<file id="131216154770389761-5l2o78tk" version="1" path="menu/officers---contact.png" />
+	<file id="131216154770399762-5l2o78tk" version="1" path="menu/officers---contact_h.png" />
+	<file id="131216154770409762-5l2o78tk" version="1" path="menu/officers---contact_c.png" />
+	<file id="131216170332009835-9e42idqz" version="1" path="images/gradient_9e42idqz.png" />
+	<file id="131919660252085800-id806upd" version="1" path="style\top.png" />
+	<file id="131919660252125803-id806upd" version="1" path="style\bottom.png" />
+	<file id="131919660252155804-id806upd" version="1" path="style\menu.jpg" />
+	<file id="131919660252185806-id806upd" version="1" path="style\content.jpg" />
+	<file id="131919660252225808-t3951nk5" version="1" path="style\bg.jpg" />
+	<file id="131919660252385817-lt960at5" version="1" path="style\template.css" />
+	<file id="132092309303889934-br091030" version="1" path="captcha\imcpa_j54.gif" />
+	<file id="132092309305870047-qan80ny8" version="1" path="captcha\imcpa_6tg.gif" />
+	<file id="132092309305980053-02pj5gtf" version="1" path="captcha\imcpa_23x.gif" />
+	<file id="132092309306000054-02pj5gtf" version="1" path="captcha\imcpa_ls2.gif" />
+	<file id="132092309306340074-d87x9l8p" version="1" path="captcha\imcpa_tx2.gif" />
+	<file id="132092309306380076-d87x9l8p" version="1" path="captcha\imcpa_j7m.gif" />
+	<file id="132092309306580088-82ry8y2p" version="1" path="captcha\imcpa_uym.gif" />
+	<file id="132092309306630091-56r9745o" version="1" path="captcha\imcpa_sp7.gif" />
+	<file id="132092309306720096-56r9745o" version="1" path="captcha\imcpa_lu2.gif" />
+	<file id="132092309306740097-56r9745o" version="1" path="captcha\imcpa_xx4.gif" />
+	<file id="132092309306750097-9wumi1i9" version="1" path="captcha\imkeys.php" />
+	<page id="0" lastmodified="2019-08-02 15:56:38" path="index.html" upath="index.html" construction="False" />
+	<page id="3" lastmodified="2019-01-14 19:00:27" path="member-federations.html" upath="member-federations.html" construction="False" />
+	<page id="5" lastmodified="2019-01-14 19:00:26" path="host-countries.html" upath="host-countries.html" construction="False" />
+	<page id="-8" lastmodified="2019-01-14 19:00:25" path="imsitemap.html" upath="imsitemap.html" construction="False" />
+	<page id="13" lastmodified="2019-01-14 19:00:26" path="2013---isle-of-man.html" upath="2013---isle-of-man.html" construction="False" />
+	<page id="17" lastmodified="2019-01-14 19:00:26" path="2012---jersey.html" upath="2012---jersey.html" construction="False" />
+	<page id="19" lastmodified="2019-01-14 19:00:26" path="2011---england.html" upath="2011---england.html" construction="False" />
+	<page id="20" lastmodified="2019-01-14 19:00:26" path="2009---isle-of-man.html" upath="2009---isle-of-man.html" construction="False" />
+	<page id="21" lastmodified="2019-01-14 19:00:26" path="2008---gibraltar.html" upath="2008---gibraltar.html" construction="False" />
+	<page id="22" lastmodified="2019-01-14 19:00:26" path="2007---jersey.html" upath="2007---jersey.html" construction="False" />
+	<page id="23" lastmodified="2019-01-14 19:00:26" path="2006---northern-ireland.html" upath="2006---northern-ireland.html" construction="False" />
+	<page id="24" lastmodified="2019-01-14 19:00:26" path="2005---isle-of-man.html" upath="2005---isle-of-man.html" construction="False" />
+	<page id="25" lastmodified="2019-01-14 19:00:26" path="2004---isle-of-man.html" upath="2004---isle-of-man.html" construction="False" />
+	<page id="26" lastmodified="2019-01-14 19:00:27" path="2003---jersey.html" upath="2003---jersey.html" construction="False" />
+	<page id="27" lastmodified="2019-01-14 19:00:26" path="2000---isle-of-man.html" upath="2000---isle-of-man.html" construction="False" />
+	<page id="28" lastmodified="2019-01-14 19:00:26" path="1999---jersey.html" upath="1999---jersey.html" construction="False" />
+	<page id="29" lastmodified="2019-01-14 19:00:26" path="1996---jersey.html" upath="1996---jersey.html" construction="False" />
+	<page id="30" lastmodified="2019-01-14 19:00:27" path="1993---england.html" upath="1993---england.html" construction="False" />
+	<page id="31" lastmodified="2019-01-14 19:00:26" path="1992---northern-ireland.html" upath="1992---northern-ireland.html" construction="False" />
+	<page id="32" lastmodified="2019-01-14 19:00:26" path="1991---jersey.html" upath="1991---jersey.html" construction="False" />
+	<page id="33" lastmodified="2019-01-14 19:00:26" path="1990---cyprus.html" upath="1990---cyprus.html" construction="False" />
+	<page id="34" lastmodified="2019-01-14 19:00:27" path="1989---wales.html" upath="1989---wales.html" construction="False" />
+	<page id="35" lastmodified="2019-01-14 19:00:27" path="1988---guernsey.html" upath="1988---guernsey.html" construction="False" />
+	<page id="36" lastmodified="2019-01-14 19:00:27" path="1987---england.html" upath="1987---england.html" construction="False" />
+	<page id="37" lastmodified="2019-01-14 19:00:27" path="1985---northern-ireland.html" upath="1985---northern-ireland.html" construction="False" />
+	<page id="38" lastmodified="2019-01-14 19:00:26" path="1984---jersey.html" upath="1984---jersey.html" construction="False" />
+	<page id="39" lastmodified="2019-01-14 19:00:27" path="1983---wales.html" upath="1983---wales.html" construction="False" />
+	<page id="40" lastmodified="2019-01-14 19:00:27" path="1982---guernsey.html" upath="1982---guernsey.html" construction="False" />
+	<page id="41" lastmodified="2019-01-14 19:00:27" path="1981---scotland.html" upath="1981---scotland.html" construction="False" />
+	<page id="42" lastmodified="2019-01-14 19:00:27" path="1980---england.html" upath="1980---england.html" construction="False" />
+	<page id="43" lastmodified="2019-01-14 19:00:27" path="1979---northern-ireland.html" upath="1979---northern-ireland.html" construction="False" />
+	<page id="44" lastmodified="2019-01-14 19:00:27" path="1978---jersey.html" upath="1978---jersey.html" construction="False" />
+	<page id="45" lastmodified="2019-01-14 19:00:27" path="1977---isle-of-man.html" upath="1977---isle-of-man.html" construction="False" />
+	<page id="46" lastmodified="2019-01-14 19:00:27" path="1976---wales.html" upath="1976---wales.html" construction="False" />
+	<page id="47" lastmodified="2019-01-14 19:00:27" path="1975---jersey.html" upath="1975---jersey.html" construction="False" />
+	<page id="48" lastmodified="2019-01-14 19:00:27" path="1974---scotland.html" upath="1974---scotland.html" construction="False" />
+	<page id="49" lastmodified="2019-01-14 19:07:43" path="officers---contact.html" upath="officers---contact.html" construction="False" />
+	<page id="50" lastmodified="2019-01-14 19:00:27" path="1997---gibraltar.html" upath="1997---gibraltar.html" construction="False" />
+	<page id="-9" lastmodified="2019-01-14 19:00:27" path="imsearch.html" upath="imsearch.php" construction="False" />
+	<page id="51" lastmodified="2019-01-14 19:00:27" path="2016---wales.html" upath="2016---wales.html" construction="False" />
+</fileversions>

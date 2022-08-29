@@ -1,0 +1,317 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<title>Untitled Document</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<link href="http://www.names.co.uk/cms_templates/style_global.css" type="text/css" rel="stylesheet">
+		<style type="text/css"><!--
+.subhead { color: #f60; font-size: 12px }
+.important { color: #990000; font-size: 12px }
+.style1 { color: #cc0000; font-weight: bold }
+--></style>
+	</head>
+
+	<body bgcolor="white">
+		<br>
+		<table width="500" border="0" cellspacing="13" cellpadding="0" align="center" bgcolor="#FFFFFF">
+			<tr>
+				<td valign="top">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<table width="413" border="0" cellspacing="0" cellpadding="0" align="center">
+									<tr>
+										<td colspan="2" width="413" height="36" background="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_413_top.gif"><img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/invis.gif" height="5" width="10"><span class="boxtitle_lrg">This is a placeholder for your homepage</span></td>
+									</tr>
+									<tr valign="top">
+										<td colspan="2" background="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_413_bg03.gif">
+											<table width="413" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td valign="top">
+														<div class="boxMainTxt">
+															<span class="important"><strong>IMPORTANT : Please delete 
+                          this page (index.htm) and replace it with your own index 
+                          page - see below.</strong></span><br>
+															<br>
+																The following general hosting instructions apply to all standard hosting accounts. For specific instructions relating to your web space, please refer to the hosting instructions email received at the time of purchase or log-in to your <a href="http://admin.hosts.co.uk/">Control Panel</a>.</div>
+													</td>
+												</tr>
+											</table>
+											<div class="boxMainTxt">
+												<img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/grey_line.gif" height="1" width="390"><br>
+												<br>
+												<span class="subhead">Uploading your web site via FTP</span><br>
+												<br>
+												<strong>FTP Server:</strong> ftp.your-domain.com<br>
+												<strong>Username:</strong> (Site Administrator username)<br>
+												<strong>Password:</strong> (Site Administrator password)<br>
+												<br>
+												Please ensure your FTP software is set to passive mode. 
+                      This is often located in preferences, or in the connection 
+                      dialogue box.<br>
+												<br>
+												Once connected you will see a web folder, any files placed 
+                      in here will be accessible via the web. Please only upload 
+                      files outside the web folder if you intend these to be private 
+                      files only accessible by your scripts.<br>
+												<br>
+												<strong>Don't forget your server expects to find an initial 
+                      page called index.htm (this page) or index.html (or index.php, 
+                      index.asp, index.cgi etc for dynamic sites).</strong><br>
+												<br>
+												<strong>Detailed Instructions</strong> on how to upload 
+                      using an FTP client can be found in our Visual Tutorials 
+                      section.<br>
+												<br>
+												<strong>Looking for high speed broadband?</strong> Check out 
+                    our great value, always on, unlimited broadband packages... 
+                    <strong>see website for more details.</strong><br>
+												<br>
+												<span class="subhead">Uploading your web site with Microsoft FrontPage</span><br>
+												<br>
+												<strong>Frontpage Web Location:</strong> http://www.your-domain.com<br>
+												<strong>Name:</strong> (Site Administrator username)<br>
+												<strong>Password:</strong> (Site Administrator password)<br>
+												<br>
+												Detailed Instructions on how to upload using Microsoft Frontpage 
+                    can be found in the Visual Tutorials section of your control 
+                    panel. <br>
+												<br>
+												<span class="subhead">Free Dial-up - no need to register!</span><br>
+												<br>
+												Namesco Limited provides Free dialup access to anyone that 
+                      wishes to use it. You do not even have to be a customer, 
+                      there is no need to register and is especially handy if 
+                      you are unable to connect with your current provider. Simply 
+                      use the following details:<br>
+												<br>
+												<strong>Dialup Number:</strong> 0845 079 8131*<br>
+												<strong>Username:</strong> namesco<br>
+												<strong>Password:</strong> easydialup<br>
+												<br>
+												* Local call rate charges apply, 33% Cheaper than BT's 0845 
+                      local call rate.<br>
+												If you need any help in configuring the Free Dial-up service 
+                      on your computer, please do not hesitate to call us on 0870 
+                      162 4950.
+                  </div>
+										</td>
+									</tr>
+									<tr valign="top">
+										<td colspan="2" background="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_413_bg.gif"><img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_413_bg02.gif" height="5" width="413"></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td>&nbsp;</td>
+						</tr>
+						<tr>
+							<td>
+								<table width="413" border="0" cellspacing="0" cellpadding="0" align="center">
+									<tr>
+										<td valign="top">
+											<table width="413" border="0" cellspacing="0" cellpadding="0" background="http://www.names.co.uk/cms_content/shared_assets/_new_sites/search_box_bg.gif" height="85">
+												<tr>
+													<td colspan="2" height="57"><img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/domain_search_top.gif" alt="Domain Name Search" height="57" width="413"></td>
+												</tr>
+												<tr>
+													<td>
+														<form style="margin: 0px; padding: 0px" action="http://www.names.co.uk/order/domains/search.php" method="post" name="form" onsubmit="if(this.keyword.value == ''){ alert('Please enter a keyword on which to perform the domain name search.'); return false; } else { return true; }" >
+															<table border="0" cellspacing="0" cellpadding="2">
+																<tr>
+																	<td valign="top">
+																		<div class="searchBox">
+																			<img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/domain_search_www.gif" height="22" width="44"> 
+                                  <input type="hidden" name="search_source" value="placeholder"></div>
+																	</td>
+																	<td valign="top"><input type="text" name="keyword" size="23"></td>
+																	<td>
+																		<div align="left">
+																			<input type="image" name="imageField2" src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/green_arrow.gif" alt="Go" border="0" height="22" width="22"></div>
+																	</td>
+																</tr>
+																<tr>
+																	<td class="exampleDomain" colspan="3" valign="top">
+																		<div class="searchBox">
+																			(i.e. 
+                                  mycompany.com or keyword) &nbsp;<a class="domainSearch" href="http://www.names.co.uk/order/domains/index.php">Advanced 
+                                  Search</a></div>
+																	</td>
+																</tr>
+															</table>
+														</form>
+													</td>
+													<td width="39%"><img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/invis.gif" height="58" width="1"></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<tr>
+										<td height="45"><img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/domain_search_btm.gif" alt="Advanced Domain Manangement and Free Instant Web Page"></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+				<td valign="top">
+					<table width="205" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+								<table width="205" border="0" cellspacing="0" cellpadding="0" align="center">
+									<tr>
+										<td colspan="2" width="205" height="26" background="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_205_top.gif">
+											<div class="boxtitle" align="left">
+												<img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/invis.gif" height="5" width="10">Email 
+                    Plans </div>
+										</td>
+									</tr>
+									<tr>
+										<td class="leadinEmailBg" colspan="2" align="center" valign="top" width="205" background="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_205_bg.gif">
+											<div align="right">
+												<table width="205" border="0" cellspacing="0" cellpadding="0">
+													<tr>
+														<td class="boxMainTxt" rowspan="2" width="18%">&nbsp;</td>
+														<td class="boxLeadin">
+															<div align="right">
+																Professional 
+                            email facilities for use at home, the office or on 
+                            the move</div>
+														</td>
+													</tr>
+													<tr>
+														<td width="47%">
+															<div align="right">
+																<img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/email_price.gif" alt="1.49" height="44" width="108"></div>
+														</td>
+													</tr>
+												</table>
+											</div>
+										</td>
+									</tr>
+									<tr>
+										<td width="164" background="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_205_bottom_bg.gif">
+											<div class="box_moreinfo" align="right">
+												<a href="http://www.names.co.uk/email.html">MORE 
+                    INFORMATION</a></div>
+										</td>
+										<td width="41"><a href="http://www.names.co.uk/email.html"><img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_205_bottom_arrow.gif" alt="Email" height="33" width="41" border="0"></a></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td>&nbsp;</td>
+						</tr>
+						<tr>
+							<td>
+								<table width="205" border="0" cellspacing="0" cellpadding="0" align="center">
+									<tr>
+										<td colspan="2" width="205" height="26" background="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_205_top.gif">
+											<div class="boxtitle" align="left">
+												<img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/invis.gif" height="5" width="10">Hosting 
+                    Packages</div>
+										</td>
+									</tr>
+									<tr>
+										<td class="leadinHostingBg" colspan="2" align="center" valign="top" width="205" background="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_205_bg.gif">
+											<table width="205" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td class="boxMainTxt" rowspan="2" width="18%">&nbsp;</td>
+													<td class="boxLeadin">
+														<div align="right">
+															Advanced, feature 
+                          packed hosting all with a free domain name</div>
+													</td>
+												</tr>
+												<tr>
+													<td width="47%">
+														<div align="right">
+															<img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/hosting_price.gif" alt="4.99" height="44" width="108"></div>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<tr>
+										<td width="164" background="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_205_bottom_bg.gif">
+											<div class="box_moreinfo" align="right">
+												<a href="http://www.names.co.uk/hosting.html">MORE 
+                    INFORMATION</a></div>
+										</td>
+										<td width="41"><a href="http://www.names.co.uk/hosting.html"><img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_205_bottom_arrow.gif" alt="Hosting" height="33" width="41" border="0"></a></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<td>&nbsp;</td>
+						</tr>
+						<tr>
+							<td>
+								<table width="205" border="0" cellspacing="0" cellpadding="0" align="center">
+									<tr>
+										<td colspan="2" width="205" height="26" background="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_205_top.gif">
+											<div class="boxtitle" align="left">
+												<img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/invis.gif" height="5" width="10">High Speed Broadband</div>
+										</td>
+									</tr>
+									<tr>
+										<td class="leadinBroadbandBg" colspan="2" align="center" valign="top" width="205" background="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_205_bg.gif">
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td class="boxMainTxt" rowspan="2" width="18%">
+														<h5>&nbsp;</h5>
+													</td>
+													<td class="boxLeadin">
+														<div align="right">
+															Up to <span class="style5">8Mbps</span>,<br />
+															<span class="style1"><span class="style5">FREE</span></span> Web Page, <br />
+															<span class="style1"><span class="style5"> FREE</span></span> Email</div>
+													</td>
+												</tr>
+												<tr>
+													<td width="47%">
+														<div align="right">
+															<img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/broadband_price_red.gif" alt="&amp;9.32 excluding VAT" height="44" width="108"></div>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<tr>
+										<td width="164" background="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_205_bottom_bg.gif">
+											<div class="box_moreinfo" align="right">
+												<a href="http://www.names.co.uk/adsl.html">MORE INFORMATION</a></div>
+										</td>
+										<td width="41"><a href="http://www.names.co.uk/adsl.html"><img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/box_205_bottom_arrow.gif" alt="Broadband" height="33" width="41" border="0"></a></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+					<p class="footer" align="left">All prices are per month unless otherwise 
+        stated and exclude VAT @ 20%</p>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="boxMainTxt"></span><img src="http://www.names.co.uk/cms_content/shared_assets/_new_sites/grey_line.gif" height="1" width="630">
+					<p><span class="boxMainTxt"><a href="http://www.names.co.uk/profile.html"><img src="http://www.names.co.uk/cms_content/shared_assets/_new_img/names_logo.gif" alt="Namesco Logo" height="56" width="200" align="right" border="0">About 
+        Us</a> | <a href="http://www.names.co.uk/contact.html">Contact Us</a> | <a href="http://www.names.co.uk/terms.html">Terms &amp; Conditions</a> 
+        | <a href="http://www.names.co.uk/privacy.html">Privacy Statement</a></span><br>
+						<br>
+						<span class="boxLeadin">&copy; 2010 Namesco Limited // all rights reserved <br>
+							<br>
+						</span></p>
+				</td>
+			</tr>
+			<tr>
+				
+			</tr>
+		</table>
+	</body>
+
+</html>
