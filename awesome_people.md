@@ -17,6 +17,8 @@ Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes co
 
 Thomas McLarnon.  Thesis title: A Multi-Omics Analysis of Ageing Diseases to find Novel Sendo-type.
  
+Paul Dillon.  Thesis title: Stimuli-responsive DNA-based nanodevices for biomedical applications.
+ 
 
 ### BSc
 
