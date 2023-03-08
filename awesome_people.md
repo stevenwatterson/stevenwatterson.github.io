@@ -11,29 +11,31 @@ He has previously worked at The Division of Infection and Pathway Medicine and T
 
 ### PhD
 
-Gerard Doherty.  Thesis title: An analysis of gallbladder disease diagnosis classification and disease progression using novel approaches. <a href="https://twitter.com/GerardDoherty5"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gerard-doherty-ba10931a/"><img src="/assets/img/In.png" height="20" width="25"></a>
-
-Christopher Page.  Thesis title: Improving the screening and diagnosis of familial hypercholesterolemia.
+Christopher Page.  Thesis title: Improving the screening and diagnosis of familial hypercholesterolemia. <a href="https://twitter.com/ChrisPa53223368"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
 
 Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes comorbidity. <a href="https://www.linkedin.com/in/matthew-ennis-7223331a2/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
+Thomas McLarnon.  Thesis title: A Multi-Omics Analysis of Ageing Diseases to find Novel Sendo-type.
+ 
+
 ### BSc
 
-James Kerr.  Dissertation title: Developing cardiovascular disease biosensors with synthetic biology.
+Eve McCafferty.  Thesis title: Identifying trends in cause of death data across Britain and Ireland
+ 
+Jane Donnelly.  Thesis title: Developing biosensors in relation to cardiovascular disease using synthetic biology.
+ 
+Dean Gordon.  Thesis title: Developing biosensors in relation to cardiovascular disease using synthetic biology.
+ 
+Sun Il Yoon.  Thesis title: Population mortality rate and causes across the UK: An alternative platform for mortality data extraction and analysis.
+ 
+Group Project: Eve McCafferty, Christine Forde, Molly Maguire, Lauren McGrogan, Evie Smyth.  Title: Mapping out the pathways associated with comorbidities of CVD.
 
-Caitlin Strawbridge.  Dissertation title: Developing cardiovascular disease biosensors with synthetic biology. <a href="https://twitter.com/123_Caitlin"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
-
-Thomas McLarnon.  Dissertation title: Developing cardiovascular disease biosensors with synthetic biology.
-
-Group project: Thomas McLarnon, Paul Farrell, Alice Crown, Meagan McFeely, Euan Spratt.  Title: Mapping out the pathways associated with comorbidities of CVD.
-
-### MSc
-
-Jessica Ingram.  Dissertation title: Developing disease biosensors with synthetic biology.
 
 # Former Students
 
 ### PhD
+
+Gerard Doherty.  Thesis title: An analysis of gallbladder disease diagnosis classification and disease progression using novel approaches. <a href="https://twitter.com/GerardDoherty5"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gerard-doherty-ba10931a/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid system modulates inflammation and pain pathways involved in arthritis. <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
@@ -43,6 +45,8 @@ Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid
 <a href="http://ppsa.umt.edu.my/?page_id=70&lang=en">Dr Muhamad Fairus Noor Hassim</a>,  Associate Fellow at Institute Marine Biotechnology Terengganu, Malaysia.  Thesis title: Bimodal switch silences cytomegalovirus in macrophages through a Stat1 feed-forward repression mechanism. <a href="https://www.linkedin.com/in/muhamad-fairus-noor-hassim-40aa9951/"><img src="/assets/img/In.png" height="20" width="25"></a>  
 
 ### MSc
+
+Jessica Ingram.  Dissertation title: Developing disease biosensors with synthetic biology.
 
 Marc Biarnes.  Thesis title: A multiplex proteomics approach for MACE prognosis.   <a href="https://www.linkedin.com/in/marc-biarn%C3%A9s-08b35168/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
@@ -59,6 +63,14 @@ Chris Millward.  Thesis: Binary modelling of immune signalling.
 Sarah Dunn.  Thesis title: The Topological Classification of Signalling Pathways
 
 ### BSc
+
+James Kerr.  Dissertation title: Developing cardiovascular disease biosensors with synthetic biology.
+
+Caitlin Strawbridge.  Dissertation title: Developing cardiovascular disease biosensors with synthetic biology. <a href="https://twitter.com/123_Caitlin"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
+
+Thomas McLarnon.  Dissertation title: Biomarker discovery using machine learning methods for COVID-19 patient outcome.
+
+Group project: Thomas McLarnon, Paul Farrell, Alice Crown, Meagan McFeely, Euan Spratt.  Title: Mapping out the pathways associated with comorbidities of CVD.
 
 Jack Faulkner.  Dissertation title: Towards a point-of care urine test for non-coding RNA biomarkers of prostate cancer. <a href="https://www.linkedin.com/in/jack-faulkner-82a702203/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
