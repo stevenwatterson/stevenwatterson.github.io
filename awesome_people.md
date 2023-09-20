@@ -16,22 +16,14 @@ Christopher Page.  Thesis title: Improving the screening and diagnosis of famili
 Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes comorbidity. <a href="https://www.linkedin.com/in/matthew-ennis-7223331a2/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Thomas McLarnon.  Thesis title: A Multi-Omics Analysis of Ageing Diseases to find Novel Sendo-type.
+<a href="https://www.linkedin.com/in/thomas-mclarnon-bbb00b291/"><img src="/assets/img/In.png" height="20" width="25"></a>
  
 Paul Dillon.  Thesis title: Stimuli-responsive DNA-based nanodevices for biomedical applications.
  
 
-### BSc
+### MSc
 
-Eve McCafferty.  Thesis title: Identifying trends in cause of death data across Britain and Ireland
- 
-Jane Donnelly.  Thesis title: Developing biosensors in relation to cardiovascular disease using synthetic biology.
- 
-Dean Gordon.  Thesis title: Developing biosensors in relation to cardiovascular disease using synthetic biology.
- 
-Sun Il Yoon.  Thesis title: Population mortality rate and causes across the UK: An alternative platform for mortality data extraction and analysis.
- 
-Group Project: Eve McCafferty, Christine Forde, Molly Maguire, Lauren McGrogan, Evie Smyth.  Title: Mapping out the pathways associated with comorbidities of CVD.
-
+Shane Connolly.  Project title: Mortality trends across the UK and RoI. <a href="https://www.linkedin.com/in/shane-connolly-478781200/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 # Former Students
 
@@ -64,8 +56,23 @@ Chris Millward.  Thesis: Binary modelling of immune signalling.
 
 Sarah Dunn.  Thesis title: The Topological Classification of Signalling Pathways
 
+### Summer placements
+Project: Validation of tools for Improving the detection of patients at high risk of Major Adverse Cardiac Events.    
+* Evie Smyth.  <a href="https://www.linkedin.com/in/evie-smyth-636a17232/"><img src="/assets/img/In.png" height="20" width="25"> </a>
+* Sarah-Louise McDaid-McCloskey.   <a href="https://twitter.com/sarahmcmc8"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>
+
 ### BSc
 
+Eve McCafferty.  Thesis title: Identifying trends in cause of death data across Britain and Ireland. <a href="https://www.linkedin.com/in/eve-mccafferty-6a6027271/"><img src="/assets/img/In.png" height="20" width="25"> </a>
+ 
+Jane Donnelly.  Thesis title: Developing biosensors in relation to cardiovascular disease using synthetic biology.
+ 
+Dean Gordon.  Thesis title: Developing biosensors in relation to cardiovascular disease using synthetic biology.
+ 
+Group Project: Eve McCafferty, Christine Forde, Molly Maguire, Lauren McGrogan, Evie Smyth.  Title: Mapping out the pathways associated with comorbidities of CVD.
+
+Sun Il Yoon.  Thesis title: Population mortality rate and causes across the UK: An alternative platform for mortality data extraction and analysis.
+ 
 James Kerr.  Dissertation title: Developing cardiovascular disease biosensors with synthetic biology.
 
 Caitlin Strawbridge.  Dissertation title: Developing cardiovascular disease biosensors with synthetic biology. <a href="https://twitter.com/123_Caitlin"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
