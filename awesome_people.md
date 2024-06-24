@@ -20,10 +20,9 @@ Thomas McLarnon.  Thesis title: A Multi-Omics Analysis of Ageing Diseases to fin
  
 Paul Dillon.  Thesis title: Stimuli-responsive DNA-based nanodevices for biomedical applications.
  
+Ciara Costello. Thesis title: InflaMab: A novel antibody therapy for Cardiovascular related disease.<a href="https://www.linkedin.com/in/ciaracostello/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 ### MSc
-
-Shane Connolly.  Project title: Mortality trends across the UK and RoI. <a href="https://www.linkedin.com/in/shane-connolly-478781200/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 # Former Students
 
@@ -31,7 +30,7 @@ Shane Connolly.  Project title: Mortality trends across the UK and RoI. <a href=
 
 Gerard Doherty.  Thesis title: An analysis of gallbladder disease diagnosis classification and disease progression using novel approaches. <a href="https://twitter.com/GerardDoherty5"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gerard-doherty-ba10931a/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid system modulates inflammation and pain pathways involved in arthritis. <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
+Dr Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid system modulates inflammation and pain pathways involved in arthritis. <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 <a href="https://www.ebi.ac.uk/about/people/andrew-parton">Dr Andrew Parton</a>, senior scientific programmer, European Bioinformatcs Institute.  Thesis title: The dynamics of cholesterol metabolism and atherosclerosis across population subgroups.
  <a href="https://twitter.com/AndrewSParton"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/andrew-parton-41741353/"><img src="/assets/img/In.png" height="20" width="25"></a>
@@ -39,6 +38,8 @@ Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid
 <a href="http://ppsa.umt.edu.my/?page_id=70&lang=en">Dr Muhamad Fairus Noor Hassim</a>,  Associate Fellow at Institute Marine Biotechnology Terengganu, Malaysia.  Thesis title: Bimodal switch silences cytomegalovirus in macrophages through a Stat1 feed-forward repression mechanism. <a href="https://www.linkedin.com/in/muhamad-fairus-noor-hassim-40aa9951/"><img src="/assets/img/In.png" height="20" width="25"></a>  
 
 ### MSc
+
+Shane Connolly.  Project title: Mortality trends across the UK and RoI. <a href="https://www.linkedin.com/in/shane-connolly-478781200/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Jessica Ingram.  Dissertation title: Developing disease biosensors with synthetic biology.
 
@@ -62,6 +63,12 @@ Project: Validation of tools for Improving the detection of patients at high ris
 * Sarah-Louise McDaid-McCloskey.   <a href="https://twitter.com/sarahmcmc8"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>
 
 ### BSc
+
+Ellen Mason. Trends in Causes of Death across Europe and the Island of Ireland.
+
+Shane Doherty. Summary PMML: A New XML Format to Increase Machine Learning Reproducibility.
+
+Group Project: Hugo, Deane, Meabh Bryson, Sean Doherty, Hannah McGuire.
 
 Eve McCafferty.  Thesis title: Identifying trends in cause of death data across Britain and Ireland. <a href="https://www.linkedin.com/in/eve-mccafferty-6a6027271/"><img src="/assets/img/In.png" height="20" width="25"> </a>
  
