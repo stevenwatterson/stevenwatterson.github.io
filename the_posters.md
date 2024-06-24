@@ -3,7 +3,7 @@ layout: default
 title: Posters
 ---
 
-<a href="https://doi.org/10.6084/m9.figshare.19732201.v1"><img src="/assets/img/CP_NHSLTP.png" alt="poster4" width="100px"/></a>
+<a href="/assets/img/Final%20poster.pdf"><img src="/assets/img/Final%20poster.pdf" alt="poster4" width="100px"/></a>
 
 Trends in Causes of Death Across Europe and the Island of Ireland, Ellen Mason, Steven Watterson (2024)
 
