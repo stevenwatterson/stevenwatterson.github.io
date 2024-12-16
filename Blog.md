@@ -25,7 +25,7 @@ Google Deep Research (GDR) is still experimental so it’s perhaps too early to 
 1.	GDR is very slow. PP took roughly 90 seconds for each answer.  GDR took to 5-8 minutes for each answer.  
 2.	I tried this 8 or 9 times. Two times, GDR failed to provide an answer. Once it stated that it’s only a LLM and can’t answer (or words to that effect) and the other time it outputted what looked like a markup placeholder for a response. 
 3.	GDR did a poor job of keeping to word limits (see Question 3).  PP returned text with 898 words.  GDR returned text with 2591 words.   
-4.	As the lengths suggest, GDR’s answers were generally more detailed, but it went far beyond what the question asked.
+4.	As the lengths suggest, GDR’s answers were generally more detailed, but not necessarily about the focus of the question. Much of the extra text went into additional background and context.
     
 ### Answers 
 1.	Both were broadly correct.
