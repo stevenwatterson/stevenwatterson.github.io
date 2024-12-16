@@ -32,7 +32,7 @@ Google Deep Research (GDR) is still experimental so it’s perhaps too early to 
 
 2.	Both broadly correct, with good detail.  Not perfectly comprehensive, but what can you expect?
 
-3.	This is harder information to scrap from papers.  GDR didn’t really answer the question, but talked around the subject very knowledgably.  PP produced a comprehensive table.  Some of the numbers in the table are clearly wrong and not supported by the references (they’ve been mis-scraped), but some numbers are correct.  
+3.	This is harder information to scrape from papers.  GDR didn’t really answer the question, but talked around the subject very knowledgably.  PP produced a comprehensive table.  Some of the numbers in the table are clearly wrong and not supported by the references (they’ve been mis-scraped), but some numbers are correct.  
 
 ### Conclusion 
 PP is still the winner for research.  GDR is still experimental and it’s hard to imagine that it won’t improve hugely over time.  That it will interact with your Google docs data sets has huge potential. 
