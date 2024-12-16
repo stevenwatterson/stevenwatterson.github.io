@@ -6,7 +6,7 @@ layout: default
 ## 2024 December
 ## Google Deep Research vs Perplexity Pro for scientific research
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/Df_ZwFWsEdU/0.jpg)](https://www.youtube.com/watch?v=Df_ZwFWsEdU "Google Deep Research versus Perplexity ProGoogle Deep Research versus Perplexity Pro")
+[![Google Deep Research versus Perplexity Pro](https://img.youtube.com/vi/Df_ZwFWsEdU/0.jpg)](https://www.youtube.com/watch?v=Df_ZwFWsEdU "Google Deep Research versus Perplexity Pro")
 
 I work in science and anything that improves my efficiency is worth its weight in gold, so I’ve been looking at these tools.  
 
