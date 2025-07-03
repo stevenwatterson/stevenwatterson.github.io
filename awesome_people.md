@@ -11,23 +11,26 @@ He has previously worked at The Division of Infection and Pathway Medicine and T
 
 ### PhD
 
-Christopher Page.  Thesis title: Improving the screening and diagnosis of familial hypercholesterolemia. <a href="https://twitter.com/ChrisPa53223368"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
-
-Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes comorbidity. <a href="https://www.linkedin.com/in/matthew-ennis-7223331a2/"><img src="/assets/img/In.png" height="20" width="25"></a>
-
 Thomas McLarnon.  Thesis title: A Multi-Omics Analysis of Ageing Diseases to find Novel Sendo-type.
 <a href="https://www.linkedin.com/in/thomas-mclarnon-bbb00b291/"><img src="/assets/img/In.png" height="20" width="25"></a>
  
-Paul Dillon.  Thesis title: Stimuli-responsive DNA-based nanodevices for biomedical applications.
- 
 Ciara Costello. Thesis title: InflaMab: A novel antibody therapy for Cardiovascular related disease.<a href="https://www.linkedin.com/in/ciaracostello/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
+Donya Ghazinader.  Thesis title: 
+
 ### MSc
+Monika Zakrzeska.  Project: Developing disease biosensors with synthetic biology
 
 # Former Students
 
 ### PhD
 
+Christopher Page.  Thesis title: Improving the screening and diagnosis of familial hypercholesterolemia. <a href="https://twitter.com/ChrisPa53223368"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
+
+Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes comorbidity. <a href="https://www.linkedin.com/in/matthew-ennis-7223331a2/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
+Paul Dillon.  Thesis title: Stimuli-responsive DNA-based nanodevices for biomedical applications.
+ 
 Gerard Doherty.  Thesis title: An analysis of gallbladder disease diagnosis classification and disease progression using novel approaches. <a href="https://twitter.com/GerardDoherty5"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gerard-doherty-ba10931a/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Dr Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid system modulates inflammation and pain pathways involved in arthritis. <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
@@ -64,11 +67,21 @@ Project: Validation of tools for Improving the detection of patients at high ris
 
 ### BSc
 
+Jill MCCarter.
+
+Ella Doherty.
+
+Gareth Mawhinney.
+
+Man Hin ho.
+
+Group Project: Anna Friel, Christina Kelly, Leah Jess, Rawan Rajab, Hannah Oakley
+
 Ellen Mason. Trends in Causes of Death across Europe and the Island of Ireland.
 
 Shane Doherty. Summary PMML: A New XML Format to Increase Machine Learning Reproducibility.
 
-Group Project: Hugo, Deane, Meabh Bryson, Sean Doherty, Hannah McGuire.
+Group Project: Hugo Deane, Meabh Bryson, Sean Doherty, Hannah McGuire.
 
 Eve McCafferty.  Thesis title: Identifying trends in cause of death data across Britain and Ireland. <a href="https://www.linkedin.com/in/eve-mccafferty-6a6027271/"><img src="/assets/img/In.png" height="20" width="25"> </a>
  
