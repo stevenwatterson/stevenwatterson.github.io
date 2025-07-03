@@ -19,7 +19,7 @@ Ciara Costello. Thesis title: InflaMab: A novel antibody therapy for Cardiovascu
 Donya Ghazinader.  Thesis title: Role of cellular senescence in acute kidney injury.
 
 ### MSc
-Monika Zakrzeska.  Project: Developing disease biosensors with synthetic biology
+Monika Zakrzeska.  Project: Developing disease biosensors with synthetic biology.
 
 # Former Students
 
