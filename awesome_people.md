@@ -25,11 +25,11 @@ Monika Zakrzeska.  Project: Developing disease biosensors with synthetic biology
 
 ### PhD
 
-Christopher Page.  Thesis title: Improving the screening and diagnosis of familial hypercholesterolemia. <a href="https://www.linkedin.com/in/chris-m-page/"><img src="/assets/img/In.png" height="20" width="25"></a><a href="https://twitter.com/ChrisPa53223368"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
+Dr Christopher Page.  Thesis title: Improving the screening and diagnosis of familial hypercholesterolemia. <a href="https://www.linkedin.com/in/chris-m-page/"><img src="/assets/img/In.png" height="20" width="25"></a><a href="https://twitter.com/ChrisPa53223368"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
 
-Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes comorbidity. <a href="https://www.linkedin.com/in/matthew-ennis-7223331a2/"><img src="/assets/img/In.png" height="20" width="25"></a>
+Dr Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes comorbidity. <a href="https://www.linkedin.com/in/matthew-ennis-7223331a2/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-Paul Dillon.  Thesis title: Stimuli-responsive DNA-based nanodevices for biomedical applications.
+Dr Paul Dillon.  Thesis title: Stimuli-responsive DNA-based nanodevices for biomedical applications.
  
 Gerard Doherty.  Thesis title: An analysis of gallbladder disease diagnosis classification and disease progression using novel approaches. <a href="https://twitter.com/GerardDoherty5"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gerard-doherty-ba10931a/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
@@ -127,9 +127,9 @@ Carla McKeown  <a href="https://twitter.com/CarlaMcKeown"><img src="/assets/img/
 
 ### Medicine Electives
 
-Catherine Cooley.  <a href="https://www.linkedin.com/in/catherine-cooley-90b410268/"><img src="/assets/img/In.png" height="20" width="25"></a>
+Dr Catherine Cooley.  <a href="https://www.linkedin.com/in/catherine-cooley-90b410268/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-Jennifer Durey.
+Dr Jennifer Durey.
 
 ### Wellcome Trust Vacation Scholarships
 
