@@ -63,7 +63,8 @@ Sarah Dunn.  Thesis title: The Topological Classification of Signalling Pathways
 ### Summer placements
 Project: Validation of tools for Improving the detection of patients at high risk of Major Adverse Cardiac Events.    
 * Evie Smyth.  <a href="https://www.linkedin.com/in/evie-smyth-636a17232/"><img src="/assets/img/In.png" height="20" width="25"> </a>
-* Sarah-Louise McDaid-McCloskey.   <a href="https://twitter.com/sarahmcmc8"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>
+* Sarah-Louise McDaid-McCloskey.   <a href="https://www.linkedin.com/in/sarah-mccloskey-7ba229a6/"><img src="/assets/img/In.png" height="20" width="25"> </a><a href="https://twitter.com/sarahmcmc8"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>
+
 
 ### BSc
 
