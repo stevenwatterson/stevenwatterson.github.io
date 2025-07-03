@@ -25,7 +25,7 @@ Monika Zakrzeska.  Project: Developing disease biosensors with synthetic biology
 
 ### PhD
 
-Christopher Page.  Thesis title: Improving the screening and diagnosis of familial hypercholesterolemia. <a href="https://twitter.com/ChrisPa53223368"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
+Christopher Page.  Thesis title: Improving the screening and diagnosis of familial hypercholesterolemia. href="https://www.linkedin.com/in/chris-m-page/"><img src="/assets/img/In.png" height="20" width="25"></a><a href="https://twitter.com/ChrisPa53223368"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
 
 Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes comorbidity. <a href="https://www.linkedin.com/in/matthew-ennis-7223331a2/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
