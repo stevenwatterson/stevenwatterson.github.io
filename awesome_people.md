@@ -67,7 +67,7 @@ Project: Validation of tools for Improving the detection of patients at high ris
 
 ### BSc
 
-Jill MCCarter.  <a href="https://www.linkedin.com/in/jill-mccarter-980253167/"><img src="/assets/img/In.png" height="20" width="25"></a>
+Jill MCCarter.  Trends in Causes of Death across the UK and Ireland (2013-2021). <a href="https://www.linkedin.com/in/jill-mccarter-980253167/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Ella Doherty.
 
