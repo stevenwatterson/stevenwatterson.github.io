@@ -16,7 +16,7 @@ Thomas McLarnon.  Thesis title: A Multi-Omics Analysis of Ageing Diseases to fin
  
 Ciara Costello. Thesis title: InflaMab: A novel antibody therapy for Cardiovascular related disease.<a href="https://www.linkedin.com/in/ciaracostello/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-Donya Ghazinader.  Thesis title: 
+Donya Ghazinader.  Thesis title: Role of cellular senescence in acute kidney injury.
 
 ### MSc
 Monika Zakrzeska.  Project: Developing disease biosensors with synthetic biology
@@ -69,15 +69,15 @@ Project: Validation of tools for Improving the detection of patients at high ris
 
 Jill MCCarter.  Trends in Causes of Death across the UK and Ireland (2013-2021). <a href="https://www.linkedin.com/in/jill-mccarter-980253167/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-Ella Doherty.
+Gareth Mawhinney.  The Development of A Genetic Detector of Familial Hypercholesterolemia Using Synthetic Biology <a href="https://www.linkedin.com/in/gareth-mawhinney-3a8508253/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-Gareth Mawhinney.
+Ella Doherty.  Death by numbers: Analysing mortality trends across Europe​.  
 
-Man Hin ho.
+Man Hin ho.  The potential of the Toehold exchange probe to detect SNPs of familial hypercholesterolemia (FH)
 
 Group Project: Anna Friel, Christina Kelly, Leah Jess, Rawan Rajab, Hannah Oakley
 
-Ellen Mason. Trends in Causes of Death across Europe and the Island of Ireland.
+Ellen Mason. Trends in Causes of Death across Europe and the Island of Ireland. <a href="https://www.linkedin.com/in/ellen-mason-660322221/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Shane Doherty. Summary PMML: A New XML Format to Increase Machine Learning Reproducibility.
 
@@ -127,7 +127,7 @@ Carla McKeown  <a href="https://twitter.com/CarlaMcKeown"><img src="/assets/img/
 
 ### Medicine Electives
 
-Catherine Cooley.
+Catherine Cooley.  <a href="https://www.linkedin.com/in/catherine-cooley-90b410268/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Jennifer Durey.
 
