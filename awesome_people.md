@@ -67,7 +67,7 @@ Project: Validation of tools for Improving the detection of patients at high ris
 
 ### BSc
 
-Jill MCCarter.
+Jill MCCarter.  <a href="https://www.linkedin.com/in/jill-mccarter-980253167/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Ella Doherty.
 
@@ -124,6 +124,12 @@ Sean Colreavy <a href="https://twitter.com/SColreavy"><img src="/assets/img/Twit
 Seamus Cairns  <a href="https://twitter.com/cairns_seamus"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/seamus-cairns-053609114/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Carla McKeown  <a href="https://twitter.com/CarlaMcKeown"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>
+
+### Medicine Electives
+
+Catherine Cooley.
+
+Jennifer Durey.
 
 ### Wellcome Trust Vacation Scholarships
 
