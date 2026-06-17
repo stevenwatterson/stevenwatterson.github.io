@@ -11,20 +11,23 @@ He has previously worked at The Division of Infection and Pathway Medicine and T
 
 ### PhD
 
-Thomas McLarnon.  Thesis title: A Multi-Omics Analysis of Ageing Diseases to find Novel Sendo-type.
-<a href="https://www.linkedin.com/in/thomas-mclarnon-bbb00b291/"><img src="/assets/img/In.png" height="20" width="25"></a>
- 
-Ciara Costello. Thesis title: InflaMab: A novel antibody therapy for Cardiovascular related disease.<a href="https://www.linkedin.com/in/ciaracostello/"><img src="/assets/img/In.png" height="20" width="25"></a>
+Ciara Costello. Thesis title: InflaMab: A novel antibody therapy for Cardiovascular related disease. <a href="https://www.linkedin.com/in/ciaracostello/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-Donya Ghazinader.  Thesis title: Role of cellular senescence in acute kidney injury.
+Alys Cowdy.  Thesis title: Biomarker development for the diagnosis of mental health disorders. <a href="https://www.linkedin.com/in/alys-cowdy/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-### MSc
-Monika Zakrzeska.  Project: Developing disease biosensors with synthetic biology.
+Donya Ghazinader.  Thesis title: Role of cellular senescence in acute kidney injury. <a https://www.linkedin.com/in/donya-ghazinader/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
+Mahdi Mohseni.  Thesis title: Making public health data truly public with the use of AI tools. <a href="https://www.linkedin.com/in/mahdi-mohseni-2b9206168/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
+Alana Smyth.  Thesis title: The Role of Senescence in the Progression of Atrial Fibrillation.  <a href="https://www.linkedin.com/in/alana-smith-400674350/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 # Former Students
 
 ### PhD
 
+Dr Thomas McLarnon.  Thesis title: A Multi-Omics Analysis of Ageing Diseases to find Novel Sendo-type.
+<a href="https://www.linkedin.com/in/thomas-mclarnon-bbb00b291/"><img src="/assets/img/In.png" height="20" width="25"></a>
+ 
 Dr Christopher Page.  Thesis title: Improving the screening and diagnosis of familial hypercholesterolemia. <a href="https://www.linkedin.com/in/chris-m-page/"><img src="/assets/img/In.png" height="20" width="25"></a><a href="https://twitter.com/ChrisPa53223368"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20">
 
 Dr Matthew Ennis.  Thesis title: Identifying biomarkers that may affect diabetes comorbidity. <a href="https://www.linkedin.com/in/matthew-ennis-7223331a2/"><img src="/assets/img/In.png" height="20" width="25"></a>
@@ -35,12 +38,14 @@ Gerard Doherty.  Thesis title: An analysis of gallbladder disease diagnosis clas
 
 Dr Boon Chin Tan.  Thesis title: In vitro investigation of how the endo-cannabinoid system modulates inflammation and pain pathways involved in arthritis. <a href="https://www.linkedin.com/in/kyle-boon-chin-tan-48bb2654/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-<a href="https://www.ebi.ac.uk/about/people/andrew-parton">Dr Andrew Parton</a>, senior scientific programmer, European Bioinformatcs Institute.  Thesis title: The dynamics of cholesterol metabolism and atherosclerosis across population subgroups.
+Dr Andrew Parton, senior scientific programmer, European Bioinformatcs Institute.  Thesis title: The dynamics of cholesterol metabolism and atherosclerosis across population subgroups.
  <a href="https://twitter.com/AndrewSParton"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/andrew-parton-41741353/"><img src="/assets/img/In.png" height="20" width="25"></a>
  
-<a href="http://ppsa.umt.edu.my/?page_id=70&lang=en">Dr Muhamad Fairus Noor Hassim</a>,  Associate Fellow at Institute Marine Biotechnology Terengganu, Malaysia.  Thesis title: Bimodal switch silences cytomegalovirus in macrophages through a Stat1 feed-forward repression mechanism. <a href="https://www.linkedin.com/in/muhamad-fairus-noor-hassim-40aa9951/"><img src="/assets/img/In.png" height="20" width="25"></a>  
+Dr Muhamad Fairus Noor Hassim,  Associate Fellow at Institute Marine Biotechnology Terengganu, Malaysia.  Thesis title: Bimodal switch silences cytomegalovirus in macrophages through a Stat1 feed-forward repression mechanism. <a href="https://www.linkedin.com/in/muhamad-fairus-noor-hassim-40aa9951/"><img src="/assets/img/In.png" height="20" width="25"></a>  
 
 ### MSc
+
+Monika Zakrzeska.  Project: Developing disease biosensors with synthetic biology.
 
 Shane Connolly.  Project title: Mortality trends across the UK and RoI. <a href="https://www.linkedin.com/in/shane-connolly-478781200/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
@@ -68,11 +73,19 @@ Project: Validation of tools for Improving the detection of patients at high ris
 
 ### BSc
 
+Holly Ewings.  The Development of A Genetic Detector of Familial Hypercholesterolemia Using Synthetic Biology.  <a href="https://www.linkedin.com/in/holly-ewings-980a57299/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
+Leah Keys.  The Development of A Genetic Detector of Familial Hypercholesterolemia Using Synthetic Biology.  <a href="https://www.linkedin.com/in/leah-keys-2928983a7/"><img src="/assets/img/In.png" height="20" width="25"></a>
+
+Sarah Waide.  Trends in Cancer and CVD mortality across the UK and Ireland.
+
+Group Project: Luke Donnelly, Aislinn Kelly, Erin McKeown, Sarah Patterson, Jotham Tyler  
+
 Jill MCCarter.  Trends in Causes of Death across the UK and Ireland (2013-2021). <a href="https://www.linkedin.com/in/jill-mccarter-980253167/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Gareth Mawhinney.  The Development of A Genetic Detector of Familial Hypercholesterolemia Using Synthetic Biology <a href="https://www.linkedin.com/in/gareth-mawhinney-3a8508253/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-Ella Doherty.  Death by numbers: Analysing mortality trends across Europe​.  
+Ella Doherty.  Death by numbers: Analysing mortality trends across Europe​.   <a href="https://www.linkedin.com/in/ella-doherty-84b483330/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Man Hin ho.  The potential of the Toehold exchange probe to detect SNPs of familial hypercholesterolemia (FH)
 
