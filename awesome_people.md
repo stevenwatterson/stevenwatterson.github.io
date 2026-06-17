@@ -79,7 +79,7 @@ Leah Keys.  The Development of A Genetic Detector of Familial Hypercholesterolem
 
 Sarah Waide.  Trends in Cancer and CVD mortality across the UK and Ireland.
 
-Group Project: Luke Donnelly, Aislinn Kelly, Erin McKeown, Sarah Patterson, Jotham Tyler  
+Group Project: Luke Donnelly, Aislinn Kelly, Erin McKeown, Sarah Patterson, Jotham Tyler.  
 
 Jill MCCarter.  Trends in Causes of Death across the UK and Ireland (2013-2021). <a href="https://www.linkedin.com/in/jill-mccarter-980253167/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
