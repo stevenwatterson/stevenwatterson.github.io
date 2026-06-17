@@ -45,7 +45,7 @@ Dr Muhamad Fairus Noor Hassim,  Associate Fellow at Institute Marine Biotechnolo
 
 ### MSc
 
-Monika Zakrzeska.  Project: Developing disease biosensors with synthetic biology.
+Monika Zakrzeska.  Project: Developing disease biosensors with synthetic biology.  <a href="https://www.linkedin.com/in/monika-z-03a6282b0/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Shane Connolly.  Project title: Mortality trends across the UK and RoI. <a href="https://www.linkedin.com/in/shane-connolly-478781200/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
