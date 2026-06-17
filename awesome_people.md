@@ -15,7 +15,7 @@ Ciara Costello. Thesis title: InflaMab: A novel antibody therapy for Cardiovascu
 
 Alys Cowdy.  Thesis title: Biomarker development for the diagnosis of mental health disorders. <a href="https://www.linkedin.com/in/alys-cowdy/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-Donya Ghazinader.  Thesis title: Role of cellular senescence in acute kidney injury. <a https://www.linkedin.com/in/donya-ghazinader/"><img src="/assets/img/In.png" height="20" width="25"></a>
+Donya Ghazinader.  Thesis title: Role of cellular senescence in acute kidney injury. <a href="https://www.linkedin.com/in/donya-ghazinader/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 Mahdi Mohseni.  Thesis title: Making public health data truly public with the use of AI tools. <a href="https://www.linkedin.com/in/mahdi-mohseni-2b9206168/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
@@ -57,7 +57,7 @@ Sinead Quinn.  Thesis title: A new understanding of the role of Vitamin D in Car
 
 Gary Lonergan, team leader at Almac group.  Thesis title: Computational Modelling of the Human Circadian Clock. <a href="https://twitter.com/gaztronica"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gary-lonergan-8aa69611/"><img src="/assets/img/In.png" height="20" width="25"></a>  
 
-<a href="https://pure.qub.ac.uk/portal/en/persons/raymond-henderson(907264ef-8fba-4606-85da-544db8d855e0).html">Dr Raymond Henderson</a>, KTP Associate at Diaceutics PLC.  Thesis title: Detection of Monogenic Disorders: Optimal Strategies from Computational Modelling. <a href="https://twitter.com/RayHen66"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/raymondhenderson1/"><img src="/assets/img/In.png" height="20" width="25"></a>
+Dr Raymond Henderson, KTP Associate at Diaceutics PLC.  Thesis title: Detection of Monogenic Disorders: Optimal Strategies from Computational Modelling. <a href="https://twitter.com/RayHen66"><img src="/assets/img/Twitter_Social_Icon_Square_Color.png" height="20" width="20"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/raymondhenderson1/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 <a href="http://marthlab.github.io/members/mengyao-zhao/">Dr Mengyao Zhao</a>, Computational Biologist, Foundation Medicine, Boston.  Thesis title: The Integration of the Dynamic Pathway Information into the Medical Microbiology Database and the Improvement of the Boolean Network Modelling Method. <a href="https://www.linkedin.com/in/mengyao-zhao-ph-d-9406455/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
