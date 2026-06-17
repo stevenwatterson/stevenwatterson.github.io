@@ -19,7 +19,7 @@ Donya Ghazinader.  Thesis title: Role of cellular senescence in acute kidney inj
 
 Mahdi Mohseni.  Thesis title: Making public health data truly public with the use of AI tools. <a href="https://www.linkedin.com/in/mahdi-mohseni-2b9206168/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
-Alana Smyth.  Thesis title: The Role of Senescence in the Progression of Atrial Fibrillation.  <a href="https://www.linkedin.com/in/alana-smith-400674350/"><img src="/assets/img/In.png" height="20" width="25"></a>
+Alana Smith.  Thesis title: The Role of Senescence in the Progression of Atrial Fibrillation.  <a href="https://www.linkedin.com/in/alana-smith-400674350/"><img src="/assets/img/In.png" height="20" width="25"></a>
 
 # Former Students
 
